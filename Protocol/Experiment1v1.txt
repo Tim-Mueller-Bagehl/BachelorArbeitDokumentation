@@ -1,0 +1,7275 @@
+
+paraphrase-multilingual-MiniLM-L12-v2
+
+Question:Was ist mein Name?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie heiße ich?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie ist mein Name?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie lautet mein Name?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie ist mein Vorname?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Unter welchem Namen bin ich bekannt?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Kannst du mir meinen Namen sagen?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Kennst du meinen Namen?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie heißt die Person?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie heißt die Person mit Vornamen?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie lautet der Vorname der Person?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie ist der Name der Person?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie lautet mein Vorname nochmal?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie heißt die Person eigentlich?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Welchen Namen habe ich?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie lautet mein richtiger Name?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie lautet mein Vorname genau?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+
+Question:Wie alt bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich jetzt?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich aktuell?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich derzeit?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Welches Alter habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+
+Question:In welchem Alter bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Was ist mein Lebensalter?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Lebensjahre habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+
+Question:Wie viele Jahre alt bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie hoch ist mein Alter?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Welches Lebensalter habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt ist die Person?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt ist Max?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie alt bin ich im Moment?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich heutzutage?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich in Jahren?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich genau?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich eigentlich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt ist die Person genau?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie alt ist die Person aktuell?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Habe ich Tiere?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Welche Tiere habe ich zuhause?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Besitze ich ein Tier?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Habe ich einen Hund?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Besitze ich einen Hund?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Gibt es einen Hund bei mir?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Habe ich ein Haustierhund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Wie heißt mein Hund?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+
+Question:Wie ist der Name meines Hunds?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person heißt Max.
+
+Question:Wie lautet der Name meines Hundes?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie wird mein Hund genannt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person heißt Max.
+
+Question:Wie heißt mein Hund nochmal?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Haustier?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+
+Question:Wie heißt der Hund der Person?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person heißt Max.
+
+Question:Kennst du den Namen meines Hundes?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund genau?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+
+Question:Wie heißt der Hund eigentlich?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+
+Question:Wie lautet der Hundename?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund in echt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Wie lautet der Name von Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Gehe ich gerne mit meinem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne mit dem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne laufen.
+
+Question:Gehe ich oft mit meinem Hund raus?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+
+Question:Mache ich gerne Spaziergänge mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+
+Question:Verbringe ich gerne Zeit mit meinem Hund draußen?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+
+Question:Gehe ich regelmäßig mit meinem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+
+Question:Gehört Spazierengehen mit dem Hund zu meinem Alltag?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne mit Fido spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne laufen.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+
+Question:Welche Aktivitäten mache ich gerne mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+
+Question:Wie verbringe ich Zeit mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+
+Question:Habe ich einen Hund?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Besitze ich einen Hund?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Wie viele Haustiere habe ich?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+
+Question:Wie viele Tiere habe ich?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Wie viele Hunde habe ich?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Welche Tiere gehören zu mir?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Gehört ein Hund zu meinen Haustieren?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Habe ich einen Hund mit Namen Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+
+Question:Heißt mein Hund Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Ist der Name meines Hundes Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Trägt mein Hund den Namen Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+
+Question:Wie heißt mein Hund, der Fido heißt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Habe ich Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Habe ich zwei Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind meine Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Wie alt sind meine Enkel?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind meine beiden Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Wie alt sind die Enkelkinder der Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Welche Altersangaben gibt es zu meinen Enkelkindern?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Wie ist das Alter meiner Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Wie viele Enkelkinder hat die Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind die zwei Enkelkinder der Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Sind meine Enkelkinder 10 und 12 Jahre alt?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Habe ich Enkelkinder im Alter von 10 und 12 Jahren?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Wie viele Enkelkinder gehören zu meiner Familie?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind meine Enkelkinder genau?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Wie viele Enkelkinder habe ich insgesamt?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder gibt es bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind die Enkelkinder aktuell?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Gibt es Enkelkinder bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Kannst du sagen, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Kannst du sagen, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Weißt du, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Weißt du, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Weißt du zufällig, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Weißt du zufällig, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Kannst du mir sagen, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Kannst du mir sagen, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Sind es zwei Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich in der Familie?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind meine Enkelkinder 10 und 12?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Haben meine Enkelkinder die Altersangaben 10 und 12 Jahre?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Sind meine Enkelkinder zwei an der Zahl?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder hat Max?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind die Enkelkinder von Max?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Habe ich ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Besitze ich ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was für ein Auto fahre ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto fahre ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto besitze ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto hat die Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was ist mein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was ist das Auto der Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was für ein Fahrzeug habe ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Ist mein Auto ein Polo?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Modell ist mein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Wie heißt mein Auto-Modell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto-Modell besitze ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welche Art Auto habe ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Mit welchem Auto bin ich unterwegs?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Ist mein Fahrzeug ein Polo?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was ist der Fahrzeugtyp der Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was für ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Mit welchem Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Habe ich ein Auto? aktuell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto aktuell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto eigentlich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto genau?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Wo gehe ich gerne spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne laufen.
+
+Question:Wo spaziere ich am liebsten?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne am See spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne laufen.
+
+Question:Welche Orte mag ich für Spaziergänge?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+
+Question:Wo gehe ich gerne mit meinem Hund spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person geht gerne laufen.
+Die Person hat einen Hund.
+
+Question:Gehe ich gerne an der frischen Luft spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+
+Question:Wo kann ich gut entspannen?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+
+Question:Was ist mein Lieblingsort zum Entspannen?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Die Person liest gerne.
+
+Question:Gehe ich gerne am Ufer spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne am See spazieren eigentlich?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne am See spazieren oft?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne am See spazieren regelmäßig?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne laufen.
+
+Question:Spaziere ich gerne mit meinem Hund am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Gehe ich gerne am See spazieren, wenn ich Zeit habe?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+
+Question:Wo verbringe ich gerne Zeit in meiner Freizeit?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+
+Question:Mache ich gerne Spaziergänge am Wasser?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Was für Sport mache ich in meiner Freizeit?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Treibe ich Sport?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche Sportarten mache ich?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche Sportarten mache ich gerne?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Wie sieht mein Sportprogramm aus?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche sportlichen Aktivitäten mag ich?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Bin ich gerne sportlich aktiv?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche Aktivitäten mache ich körperlich gern?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Was mache ich sportlich am liebsten?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport oft?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport regelmäßig?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport am liebsten?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche Hobbys habe ich?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person macht gerne Sport.
+
+Question:Was mache ich gerne zum Entspannen?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Hobbys habe ich außer Sport?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person macht gerne Sport.
+
+Question:Was für Musik höre ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Welche Musik höre ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Welche Musikrichtung mag ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Welche Musikrichtung bevorzuge ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Mag ich klassische Musik?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Was ist mein Musikgeschmack?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Welche musikalischen Vorlieben habe ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Bin ich gerne bei Live-Musik dabei?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musik höre ich gerne zur Entspannung?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Welche Musik läuft bei mir oft?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Welche Musik gefällt mir?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Was höre ich musikalisch am liebsten?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Welche Musik begleitet mich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Wie verbringe ich Zeit musikalisch?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+finalscore:56.33%
+incorrect:23.90%
+
+multi-qa-MiniLM-L6-dot-v1
+
+Question:Wie heiße ich?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Wie nennt man mich?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Kennst du meinen Namen?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Wie heißt die Person?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Wie heißt die Person mit Vornamen?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person hat einen Hund.
+Die Person hört gerne klassische Musik.
+Die Person ist 75 Jahre alt.
+
+Question:Wie lautet der Vorname der Person?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person hat einen Hund.
+Die Person hört gerne klassische Musik.
+Die Person ist 75 Jahre alt.
+
+Question:Wie ist der Name der Person?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person hat einen Hund.
+
+Question:Wie heißt die Person eigentlich?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Welchen Namen habe ich?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Wie alt bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+
+Question:Wie alt bin ich aktuell?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+
+Question:Wie alt bin ich derzeit?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+
+Question:Wie viele Lebensjahre habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ❌
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Wie viele Jahre alt bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Wie alt ist die Person?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hat einen Hund.
+
+Question:Wie alt ist Max?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+
+Question:Wie alt bin ich im Moment?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+
+Question:Wie alt bin ich heutzutage?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+
+Question:Wie alt bin ich in Jahren?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+
+Question:Wie alt bin ich eigentlich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+
+Question:Wie alt ist die Person genau?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hat einen Hund.
+
+Question:Wie alt ist die Person aktuell?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hat einen Hund.
+
+Question:Habe ich Haustiere?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Welche Haustiere habe ich?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Habe ich ein Haustier?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Gibt es Haustiere bei mir?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Habe ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Besitze ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Gibt es einen Hund bei mir?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Habe ich ein Haustierhund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Wie heißt mein Hund?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie wird mein Hund genannt?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund nochmal?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie heißt mein Vierbeiner?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Wie heißt mein Haustier?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie heißt der Hund der Person?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person besitzt ein Auto.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person ist 75 Jahre alt.
+
+Question:Kennst du den Namen meines Hundes?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie heißt mein Hund genau?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie heißt der Hund eigentlich?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie heißt mein Hund in echt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie heißt Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Wie lautet der Name von Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Gehe ich gerne mit meinem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne mit dem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich oft mit meinem Hund raus?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+
+Question:Mache ich gerne Spaziergänge mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Verbringe ich gerne Zeit mit meinem Hund draußen?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich regelmäßig mit meinem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+
+Question:Gehört Spazierengehen mit dem Hund zu meinem Alltag?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+
+Question:Mache ich gerne Gassi?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne Gassi?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne mit Fido spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Aktivitäten mache ich gerne mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie verbringe ich Zeit mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+
+Question:Habe ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Besitze ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Habe ich Haustiere?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Wie viele Haustiere habe ich?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Wie viele Hunde habe ich?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Welche Haustierart habe ich?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Gehört ein Hund zu meinen Haustieren?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Ist mein Haustier ein Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Habe ich einen Hund mit Namen Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Heißt mein Hund Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Ist der Name meines Hundes Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Trägt mein Hund den Namen Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund, der Fido heißt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Habe ich Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Habe ich zwei Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+
+Question:Wie viele Enkel habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Wie alt sind meine Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind meine Enkel?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind meine beiden Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Wie alt sind die Enkelkinder der Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Wie ist das Alter meiner Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ❌
+
+Wrong facts:
+
+Question:Wie viele Enkelkinder hat die Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind die zwei Enkelkinder der Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person ist 75 Jahre alt.
+
+Question:Sind meine Enkelkinder 10 und 12 Jahre alt?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Habe ich Enkelkinder im Alter von 10 und 12 Jahren?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Wie alt sind meine Enkelkinder genau?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ❌
+
+Wrong facts:
+
+Question:Wie viele Enkelkinder habe ich insgesamt?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Wie viele Enkelkinder gibt es bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Wie alt sind die Enkelkinder aktuell?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Die Person besitzt ein Auto.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Habe ich Enkel?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Gibt es Enkel bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Wie viele Enkel habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Kannst du sagen, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Kannst du sagen, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Weißt du, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+
+Question:Weißt du, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Weißt du zufällig, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Kannst du mir sagen, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Kannst du mir sagen, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Sind es zwei Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich in der Familie?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+
+Question:Wie alt sind meine Enkelkinder 10 und 12?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Haben meine Enkelkinder die Altersangaben 10 und 12 Jahre?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+
+Question:Sind meine Enkelkinder zwei an der Zahl?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder hat Max?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person heißt Max.
+
+Question:Wie alt sind die Enkelkinder von Max?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person heißt Max.
+
+Question:Habe ich ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Besitze ich ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was für ein Auto fahre ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto fahre ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto besitze ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto hat die Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Was ist mein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Was ist das Auto der Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Fahre ich einen Polo?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Ist mein Auto ein Polo?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Wie heißt mein Auto-Modell?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto-Modell besitze ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welche Art Auto habe ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Mit welchem Auto bin ich unterwegs?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welche Karre fahre ich?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Habe ich einen Polo?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Ist mein Fahrzeug ein Polo?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was ist der Fahrzeugtyp der Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+
+Question:Welches Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Was für ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Mit welchem Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Habe ich ein Auto? aktuell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto aktuell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto eigentlich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto genau?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Wo gehe ich gerne spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Wo spaziere ich am liebsten?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Gehe ich gerne spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Gehe ich gerne am See spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Spaziere ich gerne am See entlang?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Verbringe ich gerne Zeit am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Mag ich es, am See zu sein?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Welche Orte mag ich für Spaziergänge?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wo gehe ich gerne mit meinem Hund spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person hört gerne klassische Musik.
+
+Question:Gehe ich gerne an der frischen Luft spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Bin ich gerne am Wasser unterwegs?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person liest gerne.
+
+Question:Gehe ich gerne ans Wasser?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Verbringe ich gerne Zeit draußen am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Wo halte ich mich gerne in der Natur auf?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Gehe ich gerne am Ufer spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Gehe ich gern zum See?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hat einen Hund.
+
+Question:Gehe ich gerne am See spazieren eigentlich?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Gehe ich gerne am See spazieren oft?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Gehe ich gerne am See spazieren regelmäßig?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Gehört der See zu meinen Lieblingsorten?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Spaziere ich gerne mit meinem Hund am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Gehe ich gerne am See spazieren, wenn ich Zeit habe?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Wo verbringe ich gerne Zeit in meiner Freizeit?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Mache ich gerne Spaziergänge am Wasser?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Welche Sportarten mache ich gerne?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Gehe ich gerne laufen?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne joggen?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne bouldern?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich gerne Bouldern?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie bleibe ich in Form?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Bin ich gerne sportlich aktiv?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Bin ich gerne aktiv?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich Sport oft?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport regelmäßig?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport am liebsten?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Was mache ich gerne in meiner Freizeit?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Womit beschäftige ich mich gerne?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne am Wochenende?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Dinge mache ich gerne?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne zum Entspannen?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne drinnen?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne draußen?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person hört gerne klassische Musik.
+
+Question:Was für Musik höre ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musik höre ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musikrichtung mag ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musikrichtung bevorzuge ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Mag ich klassische Musik?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Höre ich gerne Klassik?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Was ist mein Musikgeschmack?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche musikalischen Vorlieben habe ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Gehe ich gerne auf Konzerte?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Besuche ich gerne Konzerte?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Bin ich gerne bei Live-Musik dabei?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Welche Konzerte besuche ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musik höre ich gerne zur Entspannung?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musik läuft bei mir oft?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musik gefällt mir?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Was höre ich musikalisch am liebsten?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musik begleitet mich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Wie verbringe ich Zeit musikalisch?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+finalscore:44.63%
+incorrect:40.03%
+
+paraphrase-multilingual-mpnet-base-v2
+
+Question:Was ist mein Name?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie heiße ich?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie ist mein Name?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person liest gerne.
+
+Question:Wie lautet mein Name?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person liest gerne.
+
+Question:Wie ist mein Vorname?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie nennt man mich?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Wie werde ich genannt?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Unter welchem Namen bin ich bekannt?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Kannst du mir meinen Namen sagen?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Kennst du meinen Namen?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie heißt die Person?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Wie heißt die Person mit Vornamen?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie lautet der Vorname der Person?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person ist 75 Jahre alt.
+
+Question:Wie ist der Name der Person?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person ist 75 Jahre alt.
+
+Question:Wie lautet mein Vorname nochmal?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie heißt die Person eigentlich?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Welchen Namen habe ich?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie lautet mein richtiger Name?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person liest gerne.
+
+Question:Wie lautet mein Vorname genau?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie soll ich angesprochen werden?
+Facts:
+Die Person heißt Max. ✅
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie alt bin ich jetzt?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie alt bin ich aktuell?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie alt bin ich derzeit?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Alter habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:In welchem Alter bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Was ist mein Lebensalter?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie viele Lebensjahre habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie viele Jahre alt bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie hoch ist mein Alter?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person heißt Max.
+
+Question:Welches Lebensalter habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie alt ist die Person?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie alt ist Max?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie alt bin ich im Moment?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie alt bin ich heutzutage?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie alt bin ich in Jahren?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie alt bin ich genau?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie alt bin ich eigentlich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie alt ist die Person genau?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Wie alt ist die Person aktuell?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person hat zwei Enkelkinder.
+
+Question:Besitze ich Haustiere?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Habe ich Haustiere?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Haustiere habe ich?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Habe ich ein Haustier?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gibt es Haustiere bei mir?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Habe ich Tiere?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Welche Tiere habe ich zuhause?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Besitze ich ein Tier?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Lebe ich mit einem Haustier zusammen?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person hat zwei Enkelkinder.
+Die Person verbringt gerne Zeit am See.
+
+Question:Habe ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Besitze ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Habe ich einen Vierbeiner?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person heißt Max.
+
+Question:Gibt es einen Hund bei mir?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Habe ich ein Haustierhund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Art Haustier habe ich?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie heißt mein Hund?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person liest gerne.
+
+Question:Wie ist der Name meines Hunds?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person heißt Max.
+
+Question:Wie lautet der Name meines Hundes?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person heißt Max.
+
+Question:Wie wird mein Hund genannt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund nochmal?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Vierbeiner?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+Die Person heißt Max.
+
+Question:Wie heißt mein Haustier?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie heißt der Hund der Person?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person liest gerne.
+
+Question:Kennst du den Namen meines Hundes?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person heißt Max.
+
+Question:Wie heißt mein Hund genau?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person liest gerne.
+
+Question:Wie heißt der Hund eigentlich?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person liest gerne.
+
+Question:Wie lautet der Hundename?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund in echt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person liest gerne.
+
+Question:Wie heißt Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Auto der Person ist ein Polo.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie lautet der Name von Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Gehe ich gerne mit meinem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne mit dem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne laufen.
+
+Question:Gehe ich oft mit meinem Hund raus?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich gerne Spaziergänge mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne laufen.
+
+Question:Verbringe ich gerne Zeit mit meinem Hund draußen?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich regelmäßig mit meinem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne laufen.
+
+Question:Gehört Spazierengehen mit dem Hund zu meinem Alltag?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich gerne Gassi?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Auto der Person ist ein Polo.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne Gassi?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Auto der Person ist ein Polo.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne mit Fido spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Aktivitäten mache ich gerne mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie verbringe ich Zeit mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Habe ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Besitze ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Habe ich Haustiere?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Besitze ich Haustiere?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie viele Haustiere habe ich?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie viele Tiere habe ich?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie viele Hunde habe ich?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Welche Haustierart habe ich?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Art von Haustier habe ich?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Tiere gehören zu mir?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehört ein Hund zu meinen Haustieren?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+Die Person verbringt gerne Zeit am See.
+
+Question:Ist mein Haustier ein Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+Die Person verbringt gerne Zeit am See.
+
+Question:Habe ich einen Hund mit Namen Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Heißt mein Hund Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Ist der Name meines Hundes Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Trägt mein Hund den Namen Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund, der Fido heißt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Der Name der Person ist Max.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Habe ich Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Habe ich zwei Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie viele Enkel habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie alt sind meine Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind meine Enkel?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind meine beiden Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind die Enkelkinder der Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Welche Altersangaben gibt es zu meinen Enkelkindern?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Wie ist das Alter meiner Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Wie viele Enkelkinder hat die Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie alt sind die zwei Enkelkinder der Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Sind meine Enkelkinder 10 und 12 Jahre alt?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person liest gerne.
+
+Question:Habe ich Enkelkinder im Alter von 10 und 12 Jahren?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person liest gerne.
+
+Question:Wie viele Enkelkinder gehören zu meiner Familie?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie alt sind meine Enkelkinder genau?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich insgesamt?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie viele Enkelkinder gibt es bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie alt sind die Enkelkinder aktuell?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person heißt Max.
+Die Person ist 75 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Habe ich Enkel?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gibt es Enkelkinder bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person liest gerne.
+
+Question:Gibt es Enkel bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie viele Enkel habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Kannst du sagen, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Kannst du sagen, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Weißt du, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Weißt du, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Weißt du zufällig, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Weißt du zufällig, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Kannst du mir sagen, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Kannst du mir sagen, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Sind es zwei Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie viele Enkelkinder habe ich in der Familie?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie alt sind meine Enkelkinder 10 und 12?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Haben meine Enkelkinder die Altersangaben 10 und 12 Jahre?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person ist 75 Jahre alt.
+
+Question:Sind meine Enkelkinder zwei an der Zahl?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie viele Enkelkinder hat Max?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person heißt Max.
+
+Question:Wie alt sind die Enkelkinder von Max?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person heißt Max.
+
+Question:Habe ich ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Besitze ich ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was für ein Auto fahre ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Auto fahre ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Auto besitze ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Auto hat die Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was ist mein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was ist das Auto der Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was für ein Fahrzeug habe ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Fahre ich einen Polo?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Ist mein Auto ein Polo?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Modell ist mein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie heißt mein Auto-Modell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Auto-Modell besitze ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Art Auto habe ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mit welchem Auto bin ich unterwegs?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person geht gerne laufen.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Karre fahre ich?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Habe ich einen Polo?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Ist mein Fahrzeug ein Polo?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was ist der Fahrzeugtyp der Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was für ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mit welchem Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person heißt Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Habe ich ein Auto? aktuell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Auto aktuell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Auto eigentlich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welches Auto genau?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wo gehe ich gerne spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Wo spaziere ich am liebsten?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+Die Person liest gerne.
+
+Question:Gehe ich gerne spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne am See spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Spaziere ich gerne am See entlang?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Verbringe ich gerne Zeit am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Mag ich es, am See zu sein?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Welche Orte mag ich für Spaziergänge?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wo gehe ich gerne mit meinem Hund spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person geht gerne laufen.
+Die Person hat einen Hund.
+
+Question:Gehe ich gerne an der frischen Luft spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Bin ich gerne am Wasser unterwegs?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Auto der Person ist ein Polo.
+Die Person geht gerne bouldern.
+
+Question:Gehe ich gerne ans Wasser?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+
+Question:Welche Umgebung mag ich zum Abschalten?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+
+Question:Wo kann ich gut entspannen?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+
+Question:Was ist mein Lieblingsort zum Entspannen?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+
+Question:Verbringe ich gerne Zeit draußen am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+
+Question:Wo halte ich mich gerne in der Natur auf?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+
+Question:Welche Outdoor-Orte mag ich?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne am Ufer spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gern zum See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+
+Question:Gehe ich gerne am See spazieren eigentlich?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne am See spazieren oft?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Gehe ich gerne am See spazieren regelmäßig?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Gehört der See zu meinen Lieblingsorten?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+
+Question:Spaziere ich gerne mit meinem Hund am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Der Hund der Person heißt Fido.
+Die Person hat einen Hund.
+
+Question:Gehe ich gerne am See spazieren, wenn ich Zeit habe?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Wo verbringe ich gerne Zeit in meiner Freizeit?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person besucht gerne Konzerte.
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+
+Question:Mache ich gerne Spaziergänge am Wasser?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+Die Person geht gerne laufen.
+
+Question:Welche Orte am Wasser gefallen mir?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne bouldern.
+
+Question:Was für Sport mache ich in meiner Freizeit?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Die Person besucht gerne Konzerte.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich Sport?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Der Name der Person ist Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Treibe ich Sport?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Der Name der Person ist Max.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Sportarten mache ich?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person besucht gerne Konzerte.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Sportarten mache ich gerne?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person besucht gerne Konzerte.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne laufen?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne joggen?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+
+Question:Gehe ich gerne bouldern?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich gerne Bouldern?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie halte ich mich fit?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie bleibe ich in Form?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich, um fit zu bleiben?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Wie sieht mein Sportprogramm aus?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche sportlichen Aktivitäten mag ich?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person verbringt gerne Zeit am See.
+
+Question:Bin ich gerne sportlich aktiv?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mag ich Bewegung?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Bin ich gerne aktiv?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Aktivitäten mache ich körperlich gern?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich sportlich am liebsten?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie bewege ich mich in der Freizeit?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich Sport oft?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person besucht gerne Konzerte.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich Sport regelmäßig?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person besucht gerne Konzerte.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mache ich Sport am liebsten?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was sind meine Hobbys?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Hobbys habe ich?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne in meiner Freizeit?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Freizeitaktivitäten habe ich?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Womit beschäftige ich mich gerne?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was sind meine Lieblingsbeschäftigungen?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne am Wochenende?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Dinge mache ich gerne?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Interessen habe ich?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne zum Entspannen?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne drinnen?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich gerne draußen?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Beschäftigungen machen mir Spaß?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was sind meine Freizeitinteressen?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Hobbys habe ich außer Sport?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person macht gerne Sport.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was für Musik höre ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musik höre ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musikrichtung mag ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musikrichtung bevorzuge ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mag ich klassische Musik?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Höre ich gerne Klassik?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was ist mein Musikgeschmack?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche musikalischen Vorlieben habe ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich gerne auf Konzerte?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Besuche ich gerne Konzerte?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Bin ich gerne bei Live-Musik dabei?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Auto der Person ist ein Polo.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Konzerte besuche ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Kulturveranstaltungen mag ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Mag ich kulturelle Veranstaltungen wie Konzerte?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person geht gerne bouldern.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musik höre ich gerne zur Entspannung?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musik läuft bei mir oft?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musik gefällt mir?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Person geht gerne bouldern.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was höre ich musikalisch am liebsten?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Musik begleitet mich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+Question:Wie verbringe ich Zeit musikalisch?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person liest gerne.
+Die Person verbringt gerne Zeit am See.
+
+finalscore:35.67%
+incorrect:64.33%
+
+bi-encoder_msmarco_bert-base_german
+
+Question:Wie heißt die Person?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Auto der Person ist ein Polo.
+Die Person besitzt ein Auto.
+Die Person liest gerne.
+
+Question:Wie heißt die Person mit Vornamen?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ❌
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person besitzt ein Auto.
+
+Question:Wie lautet der Vorname der Person?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Auto der Person ist ein Polo.
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+
+Question:Wie ist der Name der Person?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Auto der Person ist ein Polo.
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+
+Question:Wie heißt die Person eigentlich?
+Facts:
+Die Person heißt Max. ❌
+Der Name der Person ist Max. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Hund der Person heißt Fido.
+Die Person besitzt ein Auto.
+Die Person liest gerne.
+
+Question:Wie alt bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich jetzt?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich aktuell?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich derzeit?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Welches Alter habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:In welchem Alter bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Was ist mein Lebensalter?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Lebensjahre habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Jahre alt bin ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie hoch ist mein Alter?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Welches Lebensalter habe ich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt ist die Person?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person besitzt ein Auto.
+
+Question:Wie alt ist Max?
+Facts:
+Die Person ist 75 Jahre alt. ❌
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Person heißt Max.
+
+Question:Wie alt bin ich im Moment?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich heutzutage?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich in Jahren?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich genau?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt bin ich eigentlich?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt ist die Person genau?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt ist die Person aktuell?
+Facts:
+Die Person ist 75 Jahre alt. ✅
+Das Alter der Person beträgt 75 Jahre. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Lebe ich mit einem Haustier zusammen?
+Facts:
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Habe ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Besitze ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Gibt es einen Hund bei mir?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Habe ich ein Haustierhund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Wie heißt mein Hund?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie ist der Name meines Hunds?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie lautet der Name meines Hundes?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie wird mein Hund genannt?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund nochmal?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie heißt der Hund der Person?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Das Auto der Person ist ein Polo.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Kennst du den Namen meines Hundes?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund genau?
+Facts:
+Der Hund der Person heißt Fido. ❌
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt der Hund eigentlich?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie lautet der Hundename?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt mein Hund in echt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie heißt Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Wie lautet der Name von Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Gehe ich gerne mit meinem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+
+Question:Gehe ich gerne mit dem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+
+Question:Gehe ich oft mit meinem Hund raus?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+
+Question:Mache ich gerne Spaziergänge mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+
+Question:Verbringe ich gerne Zeit mit meinem Hund draußen?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+Die Person verbringt gerne Zeit am See.
+
+Question:Gehe ich regelmäßig mit meinem Hund spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+
+Question:Gehört Spazierengehen mit dem Hund zu meinem Alltag?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+
+Question:Gehe ich gerne mit Fido spazieren?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person hat einen Hund. ❌
+Der Hund der Person heißt Fido. ✅
+
+Wrong facts:
+
+Question:Was mache ich gerne mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+
+Question:Welche Aktivitäten mache ich gerne mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+
+Question:Wie verbringe ich Zeit mit meinem Hund?
+Facts:
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+
+Wrong facts:
+
+Question:Habe ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Besitze ich einen Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Wie viele Hunde habe ich?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+
+Wrong facts:
+
+Question:Gehört ein Hund zu meinen Haustieren?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Ist mein Haustier ein Hund?
+Facts:
+Die Person hat einen Hund. ✅
+Der Hund der Person heißt Fido. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Habe ich einen Hund mit Namen Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Heißt mein Hund Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ❌
+
+Wrong facts:
+
+Question:Ist der Name meines Hundes Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Trägt mein Hund den Namen Fido?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+
+Question:Wie heißt mein Hund, der Fido heißt?
+Facts:
+Der Hund der Person heißt Fido. ✅
+Die Person hat einen Hund. ✅
+
+Wrong facts:
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Habe ich Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Habe ich zwei Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkel habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind meine Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind meine Enkel?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind meine beiden Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Wie alt sind die Enkelkinder der Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Welche Altersangaben gibt es zu meinen Enkelkindern?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Wie ist das Alter meiner Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Wie viele Enkelkinder hat die Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind die zwei Enkelkinder der Person?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person hat einen Hund.
+Die Person ist 75 Jahre alt.
+
+Question:Sind meine Enkelkinder 10 und 12 Jahre alt?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Habe ich Enkelkinder im Alter von 10 und 12 Jahren?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Wie viele Enkelkinder gehören zu meiner Familie?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind meine Enkelkinder genau?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Wie viele Enkelkinder habe ich insgesamt?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder gibt es bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind die Enkelkinder aktuell?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Gibt es Enkelkinder bei mir?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkel habe ich?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Kannst du sagen, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Kannst du sagen, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Weißt du, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Weißt du, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Weißt du zufällig, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Weißt du zufällig, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Kannst du mir sagen, wie viele Enkelkinder ich habe?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Kannst du mir sagen, wie alt meine Enkelkinder sind?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Sind es zwei Enkelkinder?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder habe ich in der Familie?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind meine Enkelkinder 10 und 12?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Haben meine Enkelkinder die Altersangaben 10 und 12 Jahre?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person ist 75 Jahre alt.
+
+Question:Sind meine Enkelkinder zwei an der Zahl?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie viele Enkelkinder hat Max?
+Facts:
+Die Person hat zwei Enkelkinder. ✅
+
+Wrong facts:
+Der Name der Person ist Max.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+Question:Wie alt sind die Enkelkinder von Max?
+Facts:
+Die Person hat zwei Enkelkinder. ❌
+Die Enkelkinder der Person sind 10 und 12 Jahre alt. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Der Name der Person ist Max.
+Die Person heißt Max.
+
+Question:Habe ich ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Besitze ich ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Was für ein Auto fahre ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto fahre ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto besitze ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto hat die Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+
+Question:Was ist mein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Was ist das Auto der Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person liest gerne.
+
+Question:Was für ein Fahrzeug habe ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Fahre ich einen Polo?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Ist mein Auto ein Polo?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Modell ist mein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Wie heißt mein Auto-Modell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welches Auto-Modell besitze ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Welche Art Auto habe ich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Mit welchem Auto bin ich unterwegs?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Habe ich einen Polo?
+Facts:
+Die Person besitzt ein Auto. ❌
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Ist mein Fahrzeug ein Polo?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+
+Question:Was ist der Fahrzeugtyp der Person?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ✅
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Die Person hört gerne klassische Musik.
+Die Person liest gerne.
+
+Question:Welches Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Was für ein Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Mit welchem Auto?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Habe ich ein Auto? aktuell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto aktuell?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto eigentlich?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Welches Auto genau?
+Facts:
+Die Person besitzt ein Auto. ✅
+Das Auto der Person ist ein Polo. ❌
+
+Wrong facts:
+
+Question:Wo gehe ich gerne spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wo spaziere ich am liebsten?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Gehe ich gerne spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Gehe ich gerne am See spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Spaziere ich gerne am See entlang?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Verbringe ich gerne Zeit am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Mag ich es, am See zu sein?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Welche Orte mag ich für Spaziergänge?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Wo gehe ich gerne mit meinem Hund spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+Die Person hat einen Hund.
+
+Question:Gehe ich gerne an der frischen Luft spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ❌
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Bin ich gerne am Wasser unterwegs?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Was ist mein Lieblingsort zum Entspannen?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+
+Question:Verbringe ich gerne Zeit draußen am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person macht gerne Sport.
+
+Question:Gehe ich gerne am Ufer spazieren?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+
+Question:Gehe ich gern zum See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Gehe ich gerne am See spazieren eigentlich?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Gehe ich gerne am See spazieren oft?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Gehe ich gerne am See spazieren regelmäßig?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Gehört der See zu meinen Lieblingsorten?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Spaziere ich gerne mit meinem Hund am See?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ✅
+
+Wrong facts:
+
+Question:Gehe ich gerne am See spazieren, wenn ich Zeit habe?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+Die Person geht gerne laufen.
+Die Person geht gerne mit ihrem Hund spazieren.
+
+Question:Wo verbringe ich gerne Zeit in meiner Freizeit?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ❌
+
+Wrong facts:
+Die Person liest gerne.
+
+Question:Mache ich gerne Spaziergänge am Wasser?
+Facts:
+Die Person verbringt gerne Zeit am See. ✅
+Die Person geht gerne am See spazieren. ✅
+
+Wrong facts:
+
+Question:Was für Sport mache ich in meiner Freizeit?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Treibe ich Sport?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche Sportarten mache ich?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche Sportarten mache ich gerne?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Gehe ich gerne laufen?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne laufen. ✅
+
+Wrong facts:
+
+Question:Gehe ich gerne bouldern?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+
+Question:Mache ich gerne Bouldern?
+Facts:
+Die Person macht gerne Sport. ❌
+Die Person geht gerne bouldern. ✅
+
+Wrong facts:
+
+Question:Wie sieht mein Sportprogramm aus?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche sportlichen Aktivitäten mag ich?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Bin ich gerne sportlich aktiv?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Welche Aktivitäten mache ich körperlich gern?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+Die Person verbringt gerne Zeit am See.
+
+Question:Was mache ich sportlich am liebsten?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ✅
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+Die Person geht gerne am See spazieren.
+
+Question:Mache ich Sport oft?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport regelmäßig?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Mache ich Sport am liebsten?
+Facts:
+Die Person macht gerne Sport. ✅
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+
+Wrong facts:
+
+Question:Was mache ich gerne in meiner Freizeit?
+Facts:
+Die Person liest gerne. ❌
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person verbringt gerne Zeit am See.
+
+Question:Welche Dinge mache ich gerne?
+Facts:
+Die Person liest gerne. ✅
+Die Person geht gerne mit ihrem Hund spazieren. ❌
+Die Person geht gerne laufen. ❌
+Die Person geht gerne bouldern. ❌
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+Die Person hört gerne klassische Musik.
+
+Question:Was für Musik höre ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musik höre ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musikrichtung mag ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musikrichtung bevorzuge ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Mag ich klassische Musik?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Höre ich gerne Klassik?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Was ist mein Musikgeschmack?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche musikalischen Vorlieben habe ich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Gehe ich gerne auf Konzerte?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Besuche ich gerne Konzerte?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Bin ich gerne bei Live-Musik dabei?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Konzerte besuche ich gerne?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Mag ich kulturelle Veranstaltungen wie Konzerte?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ✅
+
+Wrong facts:
+
+Question:Welche Musik höre ich gerne zur Entspannung?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musik läuft bei mir oft?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musik gefällt mir?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Was höre ich musikalisch am liebsten?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Welche Musik begleitet mich?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+Question:Wie verbringe ich Zeit musikalisch?
+Facts:
+Die Person hört gerne klassische Musik. ✅
+Die Person besucht gerne Konzerte. ❌
+
+Wrong facts:
+
+finalscore:56.53%
+incorrect:23.63%

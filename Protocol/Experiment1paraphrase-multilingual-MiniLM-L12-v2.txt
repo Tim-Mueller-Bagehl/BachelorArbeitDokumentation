@@ -1,0 +1,2147 @@
+
+
+Question:Wie werde ich genannt?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Man spricht die Person mit Max an.
+Max ist der Name der Person.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie nennt man mich?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Man spricht die Person mit Max an.
+Max ist der Name der Person.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie soll ich angesprochen werden?
+Expected facts:
+Die Person heißt Max.
+Der Name der Person ist Max.
+Die Person wird Max genannt.
+Die Person trägt den Namen Max.
+Der Vorname der Person lautet Max.
+Man spricht die Person mit Max an.
+Die Person hört auf den Namen Max.
+Die Person heißt mit Vornamen Max.
+Der Rufname der Person ist Max.
+Als Name ist Max angegeben.
+Im Ausweis steht der Name Max.
+Die Person heißt offiziell Max.
+Die Person wird im Alltag Max genannt.
+Max ist der Vorname der Person.
+Max ist der Name der Person.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie werde ich üblicherweise genannt?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie viele Jahre alt bin ich?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Das Alter der Person beträgt 75 Jahre.
+Das Lebensalter der Person liegt bei 75 Jahren.
+Das aktuelle Alter der Person beträgt 75 Jahre.
+Die Enkel der Person sind 10 und 12 Jahre alt.
+Die Person ist 75 Jahre jung.
+
+
+Question:Besitze ich Haustiere?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Habe ich Haustiere?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Welche Haustiere habe ich?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Habe ich ein Haustier?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gibt es bei mir Haustiere?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Lebe ich mit einem Haustier zusammen?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Welche Tiere habe ich zuhause?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Der Hund der Person hat den Namen Fido.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Ein Hund ist das Haustier der Person.
+Im Haushalt der Person lebt ein Hund.
+Zur Person gehört ein Hund.
+
+
+Question:Welche Haustierart habe ich?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Welches Haustier habe ich?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Habe ich ein Tier im Haushalt?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Der Name des Hundes der Person ist Fido.
+Ein Hund ist das Haustier der Person.
+Im Haushalt der Person lebt ein Hund.
+Zeit am See gehört zu den Vorlieben der Person.
+Zur Person gehört ein Hund.
+
+
+Question:Welche Tiere gehören zu mir?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Der Hund der Person hat den Namen Fido.
+Der Name des Hundes der Person ist Fido.
+Ein Hund ist das Haustier der Person.
+Im Haushalt der Person lebt ein Hund.
+Zur Person gehört ein Hund.
+
+
+Question:Besitze ich Tiere?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Der Hund der Person hat den Namen Fido.
+Der Name des Hundes der Person ist Fido.
+Ein Hund ist das Haustier der Person.
+Im Haushalt der Person lebt ein Hund.
+Zur Person gehört ein Hund.
+
+
+Question:Habe ich einen Vierbeiner?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie viele Haustiere habe ich?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Die Person hört auf den Namen Max.
+Man spricht die Person mit Max an.
+Max ist der Name der Person.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Welches Haustier habe ich aktuell?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Habe ich überhaupt Haustiere?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Welche Haustiere gibt es bei mir?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Bouldern gehört zu den Hobbys der Person.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie wird mein Hund genannt?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Der Hund der Person hat den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Der Name des Hundes der Person ist Fido.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie heißt mein Haustier?
+Expected facts:
+Die Person hat einen Hund.
+Die Person besitzt einen Hund.
+Im Haushalt der Person lebt ein Hund.
+Die Person hält einen Hund als Haustier.
+Die Person hat ein Haustier, nämlich einen Hund.
+Die Person lebt mit einem Hund zusammen.
+Zur Person gehört ein Hund.
+Die Person ist Hundebesitzerin oder Hundebesitzer.
+Die Person hat einen Vierbeiner.
+Die Person hat ein Haustierhund.
+Ein Hund ist das Haustier der Person.
+Der Hund der Person heißt Fido.
+Der Name des Hundes der Person ist Fido.
+Der Hund wird Fido genannt.
+Das Haustier der Person heißt Fido.
+Der Hund trägt den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Fido ist der Name des Hundes der Person.
+Der Vierbeiner der Person heißt Fido.
+Der Hund heißt Fido.
+Der Hund der Person hat den Namen Fido.
+Die Person geht gerne mit ihrem Hund spazieren.
+Die Person macht gerne Spaziergänge mit ihrem Hund.
+Die Person geht gerne mit dem Hund Gassi.
+Die Person ist gerne mit ihrem Hund draußen unterwegs.
+Die Person unternimmt gerne Spaziergänge mit ihrem Hund.
+Die Person geht regelmäßig mit ihrem Hund spazieren.
+Spazierengehen mit dem Hund gehört zu den Vorlieben der Person.
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Die Person geht gerne mit dem Hund raus.
+Die Person macht gerne Gassirunden.
+Mit dem Hund spazierenzugehen macht der Person Spaß.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Man spricht die Person mit Max an.
+Max ist der Name der Person.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie nennt man meinen Hund?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Der Hund der Person hat den Namen Fido.
+Der Hund der Person hört auf den Namen Fido.
+Der Name des Hundes der Person ist Fido.
+Ein Hund ist das Haustier der Person.
+Zur Person gehört ein Hund.
+
+
+Question:Wie verbringe ich Zeit mit meinem Hund?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Die Person verbringt gerne Zeit draußen mit ihrem Hund.
+Ein Hund ist das Haustier der Person.
+Im Haushalt der Person lebt ein Hund.
+Zeit am See gehört zu den Vorlieben der Person.
+Zur Person gehört ein Hund.
+
+
+Question:Wie viele Enkel habe ich?
+Expected facts:
+Die Person hat zwei Enkelkinder.
+Zur Familie der Person gehören zwei Enkelkinder.
+Die Person ist Großmutter oder Großvater von zwei Enkelkindern.
+Es gibt zwei Enkelkinder in der Familie der Person.
+Die Person hat genau zwei Enkelkinder.
+Die Person hat insgesamt zwei Enkelkinder.
+Die Person hat zwei Enkel.
+Die Person hat zwei Enkelkinder in ihrer Familie.
+Die Person hat zwei Enkelkinder, also zwei Enkel.
+
+Wrong facts:
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie viele Enkelkinder habe ich insgesamt?
+Expected facts:
+Die Person hat zwei Enkelkinder.
+Zur Familie der Person gehören zwei Enkelkinder.
+Die Person ist Großmutter oder Großvater von zwei Enkelkindern.
+Es gibt zwei Enkelkinder in der Familie der Person.
+Die Person hat genau zwei Enkelkinder.
+Die Person hat insgesamt zwei Enkelkinder.
+Die Person hat zwei Enkel.
+Die Person hat zwei Enkelkinder in ihrer Familie.
+Die Person hat zwei Enkelkinder, also zwei Enkel.
+
+Wrong facts:
+Die Enkel der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder sind 10 und 12 Jahre alt.
+Die beiden Enkelkinder der Person sind 10 und 12 Jahre alt.
+Ein Enkelkind ist 10 Jahre alt und das andere 12 Jahre alt.
+
+
+Question:Wie viele Enkelkinder habe ich zurzeit?
+Expected facts:
+Die Person hat zwei Enkelkinder.
+Zur Familie der Person gehören zwei Enkelkinder.
+Die Person ist Großmutter oder Großvater von zwei Enkelkindern.
+Es gibt zwei Enkelkinder in der Familie der Person.
+Die Person hat genau zwei Enkelkinder.
+Die Person hat insgesamt zwei Enkelkinder.
+Die Person hat zwei Enkel.
+Die Person hat zwei Enkelkinder in ihrer Familie.
+Die Person hat zwei Enkelkinder, also zwei Enkel.
+
+Wrong facts:
+Die Enkel der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder sind 10 und 12 Jahre alt.
+Die Person hat Enkelkinder im Alter von 10 und 12 Jahren.
+Die beiden Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+
+Question:Wie viele Enkel habe ich insgesamt?
+Expected facts:
+Die Person hat zwei Enkelkinder.
+Zur Familie der Person gehören zwei Enkelkinder.
+Die Person ist Großmutter oder Großvater von zwei Enkelkindern.
+Es gibt zwei Enkelkinder in der Familie der Person.
+Die Person hat genau zwei Enkelkinder.
+Die Person hat insgesamt zwei Enkelkinder.
+Die Person hat zwei Enkel.
+Die Person hat zwei Enkelkinder in ihrer Familie.
+Die Person hat zwei Enkelkinder, also zwei Enkel.
+
+Wrong facts:
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie viele Enkelkinder sind es?
+Expected facts:
+Die Person hat zwei Enkelkinder.
+Zur Familie der Person gehören zwei Enkelkinder.
+Die Person ist Großmutter oder Großvater von zwei Enkelkindern.
+Es gibt zwei Enkelkinder in der Familie der Person.
+Die Person hat genau zwei Enkelkinder.
+Die Person hat insgesamt zwei Enkelkinder.
+Die Person hat zwei Enkel.
+Die Person hat zwei Enkelkinder in ihrer Familie.
+Die Person hat zwei Enkelkinder, also zwei Enkel.
+
+Wrong facts:
+Die Enkel der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder sind 10 und 12 Jahre alt.
+Die beiden Enkelkinder der Person sind 10 und 12 Jahre alt.
+Ein Enkelkind ist 10 Jahre alt und das andere 12 Jahre alt.
+
+
+Question:Wie viele Enkelkinder habe ich momentan?
+Expected facts:
+Die Person hat zwei Enkelkinder.
+Zur Familie der Person gehören zwei Enkelkinder.
+Die Person ist Großmutter oder Großvater von zwei Enkelkindern.
+Es gibt zwei Enkelkinder in der Familie der Person.
+Die Person hat genau zwei Enkelkinder.
+Die Person hat insgesamt zwei Enkelkinder.
+Die Person hat zwei Enkel.
+Die Person hat zwei Enkelkinder in ihrer Familie.
+Die Person hat zwei Enkelkinder, also zwei Enkel.
+
+Wrong facts:
+Die Enkel der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder sind 10 und 12 Jahre alt.
+Die Person hat Enkelkinder im Alter von 10 und 12 Jahren.
+Die beiden Enkelkinder der Person sind 10 und 12 Jahre alt.
+
+
+Question:Wie viele Enkelkinder hat Max?
+Expected facts:
+Die Person hat zwei Enkelkinder.
+Zur Familie der Person gehören zwei Enkelkinder.
+Die Person ist Großmutter oder Großvater von zwei Enkelkindern.
+Es gibt zwei Enkelkinder in der Familie der Person.
+Die Person hat genau zwei Enkelkinder.
+Die Person hat insgesamt zwei Enkelkinder.
+Die Person hat zwei Enkel.
+Die Person hat zwei Enkelkinder in ihrer Familie.
+Die Person hat zwei Enkelkinder, also zwei Enkel.
+
+Wrong facts:
+Die Enkel der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder sind 10 und 12 Jahre alt.
+Die beiden Enkelkinder der Person sind 10 und 12 Jahre alt.
+Ein Enkelkind ist 10 Jahre alt und das andere 12 Jahre alt.
+
+
+Question:Sind meine Enkelkinder 10 und 12 Jahre alt?
+Expected facts:
+Die Person hat zwei Enkelkinder.
+Zur Familie der Person gehören zwei Enkelkinder.
+Die Person ist Großmutter oder Großvater von zwei Enkelkindern.
+Es gibt zwei Enkelkinder in der Familie der Person.
+Die Person hat genau zwei Enkelkinder.
+Die Person hat insgesamt zwei Enkelkinder.
+Die Person hat zwei Enkel.
+Die Person hat zwei Enkelkinder in ihrer Familie.
+Die Person hat zwei Enkelkinder, also zwei Enkel.
+
+Wrong facts:
+Die Enkel der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder der Person sind 10 und 12 Jahre alt.
+Die Enkelkinder sind 10 und 12 Jahre alt.
+Die beiden Enkelkinder der Person sind 10 und 12 Jahre alt.
+Ein Enkelkind ist 10 Jahre alt und das andere 12 Jahre alt.
+
+
+Question:Wie komme ich meistens von A nach B?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Welche Karre fahre ich?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie halte ich mich fit?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie bleibe ich in Form?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Bin ich gerne aktiv?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Bewege ich mich gerne in der Freizeit?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Der See ist ein Ort, an dem die Person gerne Zeit verbringt.
+Die Person verbringt gerne Zeit mit Lesen.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie bewege ich mich gerne?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne laufen?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Laufe ich gerne?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich regelmäßig laufen?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Die Person besucht oft Konzerte.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Laufe ich oft?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich am liebsten laufen?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich manchmal laufen?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne laufen im Alltag?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Der See ist ein Ort, an dem die Person gerne Zeit verbringt.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne laufen zur Entspannung?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne laufen zum Fitbleiben?
+Expected facts:
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich in der Freizeit bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Der See ist ein Ort, an dem die Person gerne Zeit verbringt.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Betreibe ich gerne Bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich regelmäßig bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Die Person besucht oft Konzerte.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich oft bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Die Person besucht oft Konzerte.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich am liebsten bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Max ist der Vorname der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich häufig bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Die Person besucht oft Konzerte.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Wie oft gehe ich bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Die Person besucht oft Konzerte.
+Die Person besucht regelmäßig Konzerte.
+Die Person hört auf den Namen Max.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Bevorzuge ich Bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Mache ich gerne bouldern?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne bouldern aktuell?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne bouldern eigentlich?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne bouldern am Wochenende?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Der See ist ein Ort, an dem die Person gerne Zeit verbringt.
+Die Person besucht oft Konzerte.
+Die Person mag Konzertbesuche.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne bouldern in der Freizeit?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Der See ist ein Ort, an dem die Person gerne Zeit verbringt.
+Die Person verbringt gerne Zeit mit Lesen.
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Gehe ich gerne bouldern zum Fitbleiben?
+Expected facts:
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+
+Wrong facts:
+Konzerte zu besuchen gehört zu den Vorlieben der Person.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Man spricht die Person mit Max an.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Bin ich eine Person, die gerne liest?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Die Person liest gerne.
+Die Person verbringt gerne Zeit mit Lesen.
+Lesen gehört zu den Hobbys der Person.
+Lesen macht der Person Freude.
+Zeit am See gehört zu den Vorlieben der Person.
+
+
+Question:Welche Musik höre ich gerne?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Die Person bevorzugt klassische Musik.
+Die Person hört gerne Musik aus der Klassik.
+Die Person hört gerne klassische Musik.
+Die Person hört in der Freizeit gerne klassische Musik.
+Die Person mag klassische Musik besonders.
+
+
+Question:Was für Musik höre ich gerne?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Die Person bevorzugt klassische Musik.
+Die Person hört gerne Musik aus der Klassik.
+Die Person hört gerne klassische Musik.
+Die Person mag klassische Musik besonders.
+Klassik ist die Lieblingsmusik der Person.
+
+
+Question:Entspanne ich gerne mit klassischer Musik?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Die Person bevorzugt klassische Musik.
+Die Person hat eine Vorliebe für klassische Musik.
+Die Person hört gerne klassische Musik.
+Die Person hört in der Freizeit gerne klassische Musik.
+Die Person mag klassische Musik besonders.
+
+
+Question:Welche musikalischen Vorlieben habe ich?
+Expected facts:
+Die Person macht gerne Sport.
+Die Person ist gerne aktiv.
+Die Person mag Bewegung.
+Die Person treibt gerne Sport in der Freizeit.
+Sport gehört zu den Hobbys der Person.
+Die Person hält sich gerne fit.
+Die Person bleibt gerne in Bewegung.
+Die Person ist gerne sportlich unterwegs.
+Die Person geht gerne laufen.
+Die Person läuft gerne.
+Die Person geht gerne joggen.
+Laufen gehört zu den Hobbys der Person.
+Die Person treibt gerne Ausdauersport und läuft.
+Die Person ist gerne beim Laufen aktiv.
+Die Person nutzt Laufen als Freizeitaktivität.
+Die Person macht gerne Lauftraining.
+Die Person macht gerne einen Lauf.
+Die Person geht gerne bouldern.
+Bouldern gehört zu den Hobbys der Person.
+Die Person betreibt gerne Bouldern.
+Die Person ist gerne beim Bouldern aktiv.
+Die Person geht in der Freizeit bouldern.
+Die Person macht gerne Bouldertraining.
+Die Person mag Klettern in Form von Bouldern.
+Die Person ist gerne in der Boulderhalle.
+Die Person macht gerne Bouldern.
+
+Wrong facts:
+Die Person bevorzugt klassische Musik.
+Die Person hat eine Vorliebe für klassische Musik.
+Die Person hört gerne Musik aus der Klassik.
+Die Person interessiert sich für Konzerte.
+Die Person mag klassische Musik besonders.

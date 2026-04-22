@@ -1,0 +1,4004 @@
+Question:After the pilgrimage, what did Wang Ming lead the farmers to do? ❌
+Correct Answer:Community;Agriculture
+Given ResponseAgriculture
+
+Question:What can scientists further study by calculating a star&#39;s mass? ❌
+Correct Answer:Structure
+Given ResponseGaia;Spectral information;Stellar mass
+
+Question:What kind of jobs did Tian Yang and Li Ming engage in after graduation? ✅
+Correct Answer:Agricultural;Engineering
+Given ResponseAgricultural;Engineer
+
+Question:Why can Tian Yang and Yang Lei participate in the thyroid cancer treatment plan? ❌
+Correct Answer:Agricultural;Expertise
+Given ResponseAgricultural;Engineering
+
+Question:What is Tian Yang&#39;s occupation? ✅
+Correct Answer:Agricultural;Engineer
+Given ResponseAgricultural;Engineer
+
+Question:Who are Tian Yang’s acquaintances in the field of agricultural engineering? ❌
+Correct Answer:Zhang Gang
+Given ResponseAgricultural;Engineer
+
+Question:Tian Yang still remembers the agricultural engineering internship we did together during college? ✅
+Correct Answer:Agricultural engineering;Internship
+Given ResponseAgricultural engineering;Internship
+
+Question:How do the red room make Tian Yang and Yang Lei feel? ✅
+Correct Answer:Excited
+Given ResponseExcited
+
+Question:What activities did Tian Yang hold? ❌
+Correct Answer:Movie viewing;Interstellar
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:How did Tian Yang and Zhang Gang give full play to their respective professional strengths in the project? ❌
+Correct Answer:Implementation;Supervision;Technical design;Division of labor
+Given ResponseAgricultural;Engineering
+
+Question:Who would Wang Ming recommend this new technology to? ✅
+Correct Answer:Friends;Family
+Given ResponseFriends;Family
+
+Question:How much can this new technology improve yield and quality? ❌
+Correct Answer:15%;Yield
+Given ResponseAgricultural engineering;Production efficiency;Sustainable development
+
+Question:What is the field of cooperation between Tian Yang and Professor Liu? ❌
+Correct Answer:Agricultural;Engineering
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:Who guided Tian Yang’s research projects during his college years? ✅
+Correct Answer:Professor Liu
+Given ResponseProfessor Liu
+
+Question:What results have Tian Yang and Li Ming achieved in their practical projects? ❌
+Correct Answer:Remarkable results;Highly praised
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:What plan did Tian Yang design to improve the irrigation system? ✅
+Correct Answer:Efficient;Farmland;Irrigation plan
+Given ResponseEfficient;Farmland;Irrigation plan
+
+Question:In what areas do they often participate in projects? ❌
+Correct Answer:Agricultural;Projects
+Given ResponseAgricultural;Engineering
+
+Question:What did Tian Yang and Yang Lei discuss during the Spring Festival dinner? ✅
+Correct Answer:Agricultural engineering;Production efficiency;Sustainable development
+Given ResponseAgricultural engineering;Production efficiency;Sustainable development
+
+Question:What else did Tian Yang and Zhang Gang visit at the Wormwood Health Center? ❌
+Correct Answer:Lounges
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:Please tell me about the agricultural technology sharing activities held by Tian Yang and Zhang Mei. ✅
+Correct Answer:Agricultural technology;Sharing event;Crop growth
+Given ResponseAgricultural technology;Sharing event;Crop growth
+
+Question:What impact will this birthday surprise have on the relationship between Tian Yang and Wang Li? ❌
+Correct Answer:More romantic
+Given ResponseFriendship;Cooperation;Understanding
+
+Question:What is Banana Yellow Rot? ❌
+Correct Answer:Fulvic rot virus;Aphids;Yellowing;Deformation;Cracking
+Given ResponseBanana yellow rot
+
+Question:Who did Tian Yang share the New Year’s Eve dinner with? ❌
+Correct Answer:Yang Lei
+Given ResponseFriends;Family
+
+Question:Who is Li Ming? ❌
+Correct Answer:Tian Yang; Friend
+Given ResponseAgricultural;Engineer
+
+Question:How do the blue room make Tian Yang and Yang Lei feel? ✅
+Correct Answer:Calm
+Given ResponseCalm
+
+Question:What is Tian Yang interested in? ❌
+Correct Answer:Agricultural
+Given ResponseAgricultural engineering;Knowledge;Experience
+
+Question:Does Tian Yang’s father have any advice and support for him in agricultural work? ✅
+Correct Answer:Support;Guidance;Advice;Contacts
+Given ResponseSupport;Guidance;Advice;Contacts
+
+Question:By what method can the mass of the celestial body surrounding a star be calculated? ❌
+Correct Answer:Spectral information;Doppler effect
+Given ResponseGaia;Spectral information;Stellar mass
+
+Question:What was the importance to them of the agricultural engineering project that Tian Yang and Zhang Gang collaborated on in 2010? ❌
+Correct Answer:Cooperation;Experience;Skills;Teamwork
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:What is the cause of fulvic rot? ✅
+Correct Answer:Fulvic rot virus;Virus
+Given ResponseFulvic rot virus;Virus
+
+Question:How long did Tian Yang and Wang Li spend together in romantic scenes? ❌
+Correct Answer:Romantic scenes;Time together
+Given ResponseRomantic;Home SPA
+
+Question:What is Tian Yang’s impression of the Indian elements in Dior’s 2020 spring and summer series? ❌
+Correct Answer:Gold embroidery;Traditional materials;Geometric patterns;Lotus;Taj Mahal;Environmental protection;Sustainability
+Given ResponseExcited
+
+Question:What is the Gaia star catalog Tian Yang mentioned? ❌
+Correct Answer:Gaia;Spectral information;Stellar mass
+Given ResponseGaia;Star catalog;Astronomy
+
+Question:Whose colleague is Yang Lei? ✅
+Correct Answer:Tian Yang
+Given ResponseTian Yang
+
+Question:What experience and knowledge does Mr. Tian Yang have in banana planting? ❌
+Correct Answer:Banana planting;Yellow rot
+Given ResponseAgricultural engineering;Knowledge;Experience
+
+Question:What difficulties and challenges did Tian Yang encounter at work, and how did he solve them? ❌
+Correct Answer:Challenges;Difficulties;Suggestions;Encouragement
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:How does Tian Yang apply the knowledge and experience he learned during college? ❌
+Correct Answer:Agricultural production;Sustainable development
+Given ResponseAgricultural;Engineering
+
+Question:What scene does Tian Yang plan to set up for Wang Li? ❌
+Correct Answer:Romantic;Home SPA
+Given ResponseAgricultural;Engineering
+
+Question:What new agricultural irrigation system did Tian Yang introduce to Zhang Mei? ✅
+Correct Answer:Soil moisture;Plant water needs
+Given ResponseSoil moisture;Plant water needs
+
+Question:What activities did Tian Yang participate in last summer vacation? ❌
+Correct Answer:Organic farming seminar;Soil health;Practical skills
+Given ResponseAgricultural;Engineering
+
+Question:What knowledge and experience did Professor Liu impart to Tian Yang? ❌
+Correct Answer:Agricultural;Engineering;Experience
+Given ResponseAgricultural;Engineering
+
+Question:How did Tian Yang answer Zhang Mei’s question? ❌
+Correct Answer:Patiently answered;Advice;Experience
+Given ResponseAgricultural;Engineering
+
+Question:What is Tian Zhongguo’s attitude towards Tian Yang’s agricultural career? ✅
+Correct Answer:Supportive
+Given ResponseSupportive
+
+Question:What content will Tian Yang focus on sharing? ❌
+Correct Answer:Agricultural technology
+Given ResponseAgricultural;Engineering
+
+Question:How does Tian Yang’s father, Tian Zhongguo, support his agricultural career? ❌
+Correct Answer:Gaofen-5 satellite;Remote sensing;Agricultural production;Encouragement
+Given ResponseSupport;Guidance;Advice;Contacts
+
+Question:Who recognized and appreciated the efforts of Tian Yang and Wang Li? ❌
+Correct Answer:Local farmers
+Given ResponseProfessor Liu
+
+Question:What did this Spring Festival dinner bring to Tian Yang and Yang Lei? ❌
+Correct Answer:Friendship;Cooperation;Understanding
+Given ResponseFriendship;Growth;Progress;Agricultural knowledge
+
+Question:After a period of care, what does Wang Li’s skin look like after taking off the mask? ✅
+Correct Answer:Vibrant skin
+Given ResponseVibrant skin
+
+Question:What research did Tian Yang and Yang Lei participate in on May 12, 2022? ❌
+Correct Answer:Color;Psychology;Study
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:What does Li Ming think of Tian Yang&#39;s help? ❌
+Correct Answer:Happy
+Given ResponseSupportive
+
+Question:Can Tian Yang share some of his own experience in agricultural planting and irrigation? ❌
+Correct Answer:Agricultural planting;Irrigation;Experience
+Given ResponseAgricultural;Engineering
+
+Question:How did Tian Yang perform during the interview? ❌
+Correct Answer:Agricultural;Engineering;Knowledge;Experience
+Given ResponseRemarkable results;Highly praised
+
+Question:What kind of experiment does Tian Yang want to conduct? ❌
+Correct Answer:Eggplant;Blue;Red;Yellow;Growth environment
+Given ResponseAgricultural engineering;Production efficiency;Sustainable development
+
+Question:Who is Wang Ming? ❌
+Correct Answer:Wang Ming; Farmer
+Given ResponseCommunity;Agriculture
+
+Question:Why do Tian Yang and Zhang Gang think mugwort health centers are favored by more and more people? ❌
+Correct Answer:Modern facilities;Mental health
+Given ResponseAgricultural;Engineering
+
+Question:Who is Wang Li&#39;s supporting role? ✅
+Correct Answer:Tian Yang
+Given ResponseTian Yang
+
+Question:What disease is Wang Ming worried about his banana orchard being attacked by? ❌
+Correct Answer:Yellow rot
+Given ResponseBanana yellow rot
+
+Question:Do Tian Yang and Professor Liu still keep in touch? ❌
+Correct Answer:Keep in touch
+Given ResponseYes
+
+Question:Where did Tian Yang come from? ❌
+Correct Answer:China
+Given ResponseAgricultural;Engineer
+
+Question:What suggestions did Tian Yang and Yang Lei put forward during the discussion? ❌
+Correct Answer:Treatment plan optimization;Radiation safety control
+Given ResponseAgricultural engineering;Production efficiency;Sustainable development
+
+Question:What kind of color does Tian Yang think yellow is? ✅
+Correct Answer:Positive;Yellow
+Given ResponsePositive;Yellow
+
+Question:What does this agricultural technology sharing event mean to Tian Yang and Zhang Mei? ❌
+Correct Answer:Friendship;Growth;Progress;Agricultural knowledge
+Given ResponseAgricultural technology;Sharing event;Crop growth
+
+Question:What did Tian Yang and Tian China discuss after the movie viewing event? ❌
+Correct Answer:Science;Fantasy;General relativity;Exploration;Imagination;Support
+Given ResponseScience;Fantasy
+
+Question:What did Tian Yang and Zhang Gang study together? ❌
+Correct Answer:Agricultural equipment;Planting technologies
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:What is the relationship between Tian Yang and Li Ming? ❌
+Correct Answer:Friends
+Given ResponseAgricultural;Engineer
+
+Question:In the experiment, Tian Yang and Yang Lei were asked to enter several rooms of different colors? ❌
+Correct Answer:Three rooms
+Given ResponseAgricultural;Engineering
+
+Question:What are the research goals of Tian Yang and Professor Liu? ❌
+Correct Answer:Production efficiency
+Given ResponseAgricultural engineering;Production efficiency;Sustainable development
+
+Question:What is the relationship between Tian Yang and Wang Ming? ❌
+Correct Answer:Community members
+Given ResponseAgricultural;Engineer
+
+Question:What did Tian Yang and Wang Ming feel? ❌
+Correct Answer:Divine energy;Moved
+Given ResponseAgricultural;Engineering
+
+Question:Who did Tian Yang and Wang Li cooperate with to install advanced irrigation equipment? ❌
+Correct Answer:Local farmers
+Given ResponseAgricultural;Engineering
+
+Question:What did some participants say they felt in the red room? ❌
+Correct Answer:Depressed;Anxious
+Given ResponseExcited
+
+Question:What&#39;s on the reception area of the Wormwood Health Center? ❌
+Correct Answer:Herbal cabinet
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:How did Zhang Gang meet Tian Yang? ❌
+Correct Answer:Agricultural engineering;Cooperation projects
+Given ResponseAgricultural;Engineer
+
+Question:What seminar will Tian Yang and their team attend next month? ❌
+Correct Answer:International seminar;Modern agriculture
+Given ResponseAgricultural engineering;Production efficiency;Sustainable development
+
+Question:Where will Tian Yang and Wang Ming pass by? ❌
+Correct Answer:Valley
+Given ResponseAgriculture
+
+Question:What kind of teamwork relationship did Tian Yang and Zhang Gang show in this cooperation? ❌
+Correct Answer:Trust
+Given ResponseAgricultural;Engineering
+
+Question:What does Zhang Mei think of the new agricultural irrigation system introduced by Tian Yang? ❌
+Correct Answer:Interested;Agricultural irrigation system
+Given ResponseExcited
+
+Question:At which meeting did Tian Yang meet Li Hua? ❌
+Correct Answer:Meeting
+Given ResponseAgriculture
+
+Question:What is the relationship between Tian Yang and Wang Ming? ❌
+Correct Answer:Community members;Agricultural activities
+Given ResponseAgricultural;Engineer
+
+Question:What was the focus of discussion between Tian Yang and Zhang Mei? ❌
+Correct Answer:Gaia;Star catalog;Astronomy
+Given ResponseAgricultural;Engineering
+
+Question:What does Wang Ming believe? ❌
+Correct Answer:Pilgrimage;Blessing;Holy Mother;Harvest
+Given ResponseAgriculture
+
+Question:What do Tian Yang and Li Ming often discuss? ❌
+Correct Answer:New developments;Challenges
+Given ResponseAgricultural
+
+Question:What did the doctor detail in the discussion? ❌
+Correct Answer:Treatment needs;Type;Stage;Metastasis;Thyroid cancer
+Given ResponseAgricultural engineering;Production efficiency;Sustainable development
+
+Question:Why does Tian Yang like the movie &quot;Interstellar&quot;? ❌
+Correct Answer:Science;Fantasy
+Given ResponseScience;Fantasy;General relativity;Exploration;Imagination;Support
+
+Question:In the TCM health consultation room, what services do TCM doctors provide to patients? ✅
+Correct Answer:Diagnosis;Treatment;Consultation
+Given ResponseDiagnosis;Treatment;Consultation
+
+Question:When did Tian Yang and Zhang Mei agree to hold an agricultural technology sharing event? ❌
+Correct Answer:June 10;2022
+Given ResponseAgricultural technology;Sharing event;Crop growth
+
+Question:What do Wang Li and Tian Yang love together? ❌
+Correct Answer:Agriculture
+Given ResponseRomantic;Home SPA
+
+Question:What is Professor Liu&#39;s professional background? ❌
+Correct Answer:Agricultural;Engineering;Expert
+Given ResponseAgricultural;Engineer
+
+Question:How does Tian Yang express his concern for Wang Li? ❌
+Correct Answer:Facial mask
+Given ResponseSupport;Guidance;Advice;Contacts
+
+Question:Tian Yang has prepared everything, what are he waiting for now? ❌
+Correct Answer:Wang Li
+Given ResponseAgricultural engineering;Production efficiency;Sustainable development
+
+Question:Who does Tian Yang celebrate the Spring Festival with? ✅
+Correct Answer:Yang Lei
+Given ResponseYang Lei
+
+Question:What agricultural activities has Mr. Tian Yang participated in recently? ❌
+Correct Answer:Banana yellow rot
+Given ResponseAgricultural engineering;Cooperation projects
+
+Question:Why did Tian Yang and Yang Lei work hard to discuss? ❌
+Correct Answer:Treatment plan;Quality of life
+Given ResponseAgricultural;Engineering
+
+Question:What else do Tian Yang and Li Ming often do together? ❌
+Correct Answer:Activities;Trips
+Given ResponseAgricultural;Engineering
+
+Question:How interested are Tian Yang and Li Ming in agricultural engineering? ✅
+Correct Answer:Very interested;Agricultural engineering
+Given ResponseVery interested;Agricultural engineering
+
+Question:Who designed this study? ❌
+Correct Answer:Stuart Phillips
+Given ResponseTian Yang
+
+Question:Where did Tian Yang and Yang Lei discuss? ❌
+Correct Answer:Conference room;Agricultural engineering company
+Given ResponseAgricultural technology
+
+Question:What support did Tian Yang and Wang Li provide to farmers? ❌
+Correct Answer:Training;Technical support
+Given ResponseAgricultural;Engineering
+
+Question:What is Tian Yang’s reason for holding a movie viewing event? ❌
+Correct Answer:Communication;Father
+Given ResponseAgriculture
+
+Question:What is Tian Yang&#39;s occupation? ✅
+Correct Answer:Agricultural;Engineer
+Given ResponseAgricultural;Engineer
+
+Question:What are some specific cases and works of the abolition movement? ❌
+Correct Answer:Declaration of Independence; Slave Narrative
+Given ResponseAbolition movement; Progressive movements; Civil rights movement
+
+Question:What topics did Sun Xiaoming and Li Ming discuss during the game? ❌
+Correct Answer:Physical benefits; Water sports; Protect water resources
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:Who came to attend Sun Xiaoming’s celebration? ✅
+Correct Answer:Relatives; Friends; Colleagues
+Given ResponseRelatives; Friends; Colleagues
+
+Question:What kind of communication did Sun Xiaoming have with the players during the event? ❌
+Correct Answer:Outdoor adventure; Photography
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:What is the relationship between Sun Xiaoming and Zhang Li? ✅
+Correct Answer:Boyfriend; Zhang Li
+Given ResponseBoyfriend; Zhang Li
+
+Question:What knowledge did Sun Xiaoming use to introduce the importance of ecological protection to the participants? ✅
+Correct Answer:Ecological knowledge
+Given ResponseEcological knowledge
+
+Question:What traditional celebrations do Spring Festival celebrations include? ✅
+Correct Answer:Spring Festival couplets; Firecrackers; New Year greetings; Lanterns
+Given ResponseSpring Festival couplets; Firecrackers; New Year greetings; Lanterns
+
+Question:Where did Sun Xiaoming and Yang Lin organize students to visit? ❌
+Correct Answer:Local; Nature reserve
+Given ResponseEcological inspections; Outdoor adventure trips
+
+Question:What dance works did Sun Xiaoming and Wang Ming watch together? ✅
+Correct Answer:Dance of Rhythm
+Given ResponseDance of Rhythm
+
+Question:Where did Sun Xiaoming and Zhang Li go last spring? ❌
+Correct Answer:Courtyard; Green grass; Lakes; Rhododendrons
+Given ResponseSteep mountain passes; Winding trails; Slippery rivers
+
+Question:Does Sun Xiaoming want to hear any advice? ❌
+Correct Answer:Advice; Marriage counselor
+Given ResponseAdvice; Support
+
+Question:During the inspection activities, what natural environmental challenges did Sun Xiaoming and Li Jing face together? ✅
+Correct Answer:Steep mountain passes; Winding trails; Slippery rivers
+Given ResponseSteep mountain passes; Winding trails; Slippery rivers
+
+Question:What beautiful scenery did Sun Xiaoming and Zhang Li enjoy by the lake? ❌
+Correct Answer:Lake; Egrets
+Given ResponseCourtyard; Green grass; Lakes; Rhododendrons
+
+Question:How did Sun Xiaoming feel about watching the dance work &quot;Dance of Rhythm&quot;? ✅
+Correct Answer:Excited; Interested; Art; Cultural activities
+Given ResponseExcited; Interested; Art; Cultural activities
+
+Question:What is the occupation of Sun Xiaoming&#39;s neighbor Li Ming? ❌
+Correct Answer:Retired;Doctor
+Given ResponseExcited; Interested; Art; Cultural activities
+
+Question:What contributions has Sun Xiaoming and his team made so far in ecological and environmental protection? ❌
+Correct Answer:Rare animals; Rare plants; New technologies; Environmental protection
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:What activities did Sun Xiaoming and Liu Xiang participate in together? ❌
+Correct Answer:Community; Environmental activities
+Given ResponseEcological inspections; Outdoor adventure trips
+
+Question:When did Sun Xiaoming and Zhang Li meet? ❌
+Correct Answer:Graduate students
+Given ResponseGirlfriend
+
+Question:What kind of marriage counselor is Wang Ming? ✅
+Correct Answer:Senior; Marriage counselor
+Given ResponseSenior; Marriage counselor
+
+Question:Whose advice did Zhang Hao and Li Fang consult? ✅
+Correct Answer:Wang Ming
+Given ResponseWang Ming
+
+Question:Where was the courtyard where Xiaoming and Zhang Li went last spring? ❌
+Correct Answer:China; West Lake
+Given ResponseCourtyard; Green grass; Lakes; Rhododendrons
+
+Question:Where did Sun Xiaoming and Wang Ming exchange cases on the abolition movement? ❌
+Correct Answer:Community
+Given ResponseAbolition movement; Progressive movements; Civil rights movement
+
+Question:Who is Zhang Li to Sun Xiaoming? ✅
+Correct Answer:Girlfriend
+Given ResponseGirlfriend
+
+Question:What did Zhang Hua gain from Sun Xiaoming’s exchange? ✅
+Correct Answer:New knowledge; Inspiration; Ecological research
+Given ResponseNew knowledge; Inspiration; Ecological research
+
+Question:Who is inseparable from the successful implementation of the ecological education project? ❌
+Correct Answer:Yang Lin
+Given ResponseEcological education
+
+Question:In the ecological park, did Sun Xiaoming and Li Jing discover any precious creatures? ❌
+Correct Answer:Golden monkey; Protected animal
+Given ResponseRare animals; Rare plants; New technologies; Environmental protection
+
+Question:What is the content of the cleaning operation organized by Sun Xiaoming? ✅
+Correct Answer:Garbage cleaning; Plant pruning; Flower bed tidying; Environmental protection; Garbage classification
+Given ResponseGarbage cleaning; Plant pruning; Flower bed tidying; Environmental protection; Garbage classification
+
+Question:Who is Sun Xiaoming’s mentor? ❌
+Correct Answer:Professor Wang
+Given ResponseSun Ming
+
+Question:What is the theme of the promotion for Civilization VI? ❌
+Correct Answer:Ecological protection
+Given ResponseEcological protection; Game mechanism
+
+Question:What kind of place did Sun Xiaoming and Zhang Li choose to observe the Gammaid meteor shower? ❌
+Correct Answer:Away from city; Light pollution
+Given ResponseOutdoor adventure; Photography
+
+Question:How grateful are Zhang Hao and Li Fang to Wang Ming&#39;s advice? ✅
+Correct Answer:Grateful
+Given ResponseGrateful
+
+Question:How do Zhang Hua and Sun Xiaoming know each other? ❌
+Correct Answer:Stranger; Scientific research conference
+Given ResponseScientific research conference
+
+Question:Last spring, Xiaoming and Zhang Li went to the courtyard. Who was playing the pipa sound? ❌
+Correct Answer:Zhang Zhaohua
+Given ResponseAzaleas; Pipa music
+
+Question:What career do Sun Xiaoming and Zhang Li pursue together? ❌
+Correct Answer:Environmental protection
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:What impact does the XX Scholarship have on Sun Xiaoming’s career development? ❌
+Correct Answer:Milestone; Ecological protection; Research; Field trips
+Given ResponseXX Scholarship; Jayne Goodell-like achievement
+
+Question:Who are Sun Xiaoming’s colleagues at XX University? ❌
+Correct Answer:Yang Lin
+Given ResponseColleagues
+
+Question:What activities do the projects carried out by Sun Xiaoming and Yang Lin include? ❌
+Correct Answer:Outdoor adventures; Photography competitions; Ecological protection lectures
+Given ResponseOutdoor adventure; Photography
+
+Question:Do Sun Xiaoming and Zhang Li have plans to observe astronomical events again? ✅
+Correct Answer:No plans; Astronomical events; Environment protection
+Given ResponseNo plans; Astronomical events; Environment protection
+
+Question:What work is Liu Xiang responsible for in the event? ✅
+Correct Answer:Work arrangements; Coordination; Volunteers
+Given ResponseWork arrangements; Coordination; Volunteers
+
+Question:Which classmate of Sun Xiaoming is Li Jing? ❌
+Correct Answer:College classmate
+Given ResponseFriends
+
+Question:Why did Sun Xiaoming and Yang Lin start this project? ❌
+Correct Answer:Ecological protection; Environmental protection; Education
+Given ResponseEcological protection; Environmental protection; Scholar
+
+Question:Will Sun Xiaoming&#39;s counselor help their marriage? ❌
+Correct Answer:Advice;Support
+Given ResponseAdvice; Marriage counselor
+
+Question:What impact will this event have on the ecological environment of the community? ✅
+Correct Answer:Ecological environment; Improved
+Given ResponseEcological environment; Improved
+
+Question:Sun Xiaoming mentioned what scholarship he had recently received. Sun Xiaoming knew what kind of achievement it was? ✅
+Correct Answer:XX Scholarship; Jayne Goodell-like achievement
+Given ResponseXX Scholarship; Jayne Goodell-like achievement
+
+Question:What measures did Xiaoming and Li Jing take in environmental assessment work? ❌
+Correct Answer:Comprehensive assessment; Environmental standards
+Given ResponseEcological inspections; Outdoor adventure trips
+
+Question:When did Sun Xiaoming and Li Ming watch the game together? ❌
+Correct Answer:2022; World Swimming Championships
+Given ResponseDance of Rhythm
+
+Question:Whose performance in synchronized swimming are Sun Xiaoming and Li Ming interested in? ✅
+Correct Answer:Alexandra Sobreva; Everita Perpojowicz
+Given ResponseAlexandra Sobreva; Everita Perpojowicz
+
+Question:What advice did Wang Ming provide? ❌
+Correct Answer:Methods; Techniques; Active communication; Good interaction; Understanding
+Given ResponseAdvice; Marriage counselor
+
+Question:The environmental protection activity organized by Sun Xiaoming and Liu Xiang on June 15 received response and support from community residents. What contribution has it made to the community&#39;s ecological environment? ❌
+Correct Answer:Positive contribution;Ecological environment
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:What was discussed at the celebration? ❌
+Correct Answer:Academic papers; Ecological environmental protection; Ecological education; Asia
+Given ResponseRelatives; Friends; Colleagues
+
+Question:What does Sun Xiaoming think is unique about the Bianjing Yanyu Lantern? ❌
+Correct Answer:Beautiful; Interesting story; Time travel
+Given ResponseEcological knowledge
+
+Question:What did Sun Xiaoming and Zhang Li enjoy in the courtyard? ❌
+Correct Answer:Azaleas;Pipa music
+Given ResponseOutdoor adventure; Photography
+
+Question:What animals did Sun Xiaoming and his team observe during the ecological inspection? ✅
+Correct Answer:Giant pandas; Golden monkeys; Carnivorous plants
+Given ResponseGiant pandas; Golden monkeys; Carnivorous plants
+
+Question:What contributions did Sun Xiaoming and Li Jing make in the project? ❌
+Correct Answer:Renewable energy; Employment opportunities; Sustainable development; Social benefits
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:What are the results of the ecological education project organized by Sun Xiaoming? ❌
+Correct Answer:Ecological protection; Awareness
+Given ResponseEcological education; Contribution
+
+Question:What did Sun Xiaoming introduce to the players? ❌
+Correct Answer:Ecological protection; Game mechanism
+Given ResponseEcological knowledge
+
+Question:What has this socially responsible investment project brought to Company A? ✅
+Correct Answer:Social reputation; Recognition
+Given ResponseSocial reputation; Recognition
+
+Question:If given the opportunity, does Sun Xiaoming think he would participate in similar traditional activities? ❌
+Correct Answer:Yes; Participate; Traditional activities
+Given ResponseYes; Participate; Similar activities
+
+Question:What benefits does the company provide Li Ming? ✅
+Correct Answer:Health insurance; Pension; Comfortable office; Advanced facilities
+Given ResponseHealth insurance; Pension; Comfortable office; Advanced facilities
+
+Question:Does Sun Xiaoming want to participate in similar activities again? ✅
+Correct Answer:Yes; Participate; Similar activities
+Given ResponseYes; Participate; Similar activities
+
+Question:May I ask when did Sun Xiaoming go observe the meteor shower? ✅
+Correct Answer:Gammaid meteor shower; August 15; 2019
+Given ResponseGammaid meteor shower; August 15; 2019
+
+Question:What activities did Sun Xiaoming and Li Jing spend together? ❌
+Correct Answer:Ecological inspections; Outdoor adventure trips
+Given ResponseOutdoor adventure; Photography
+
+Question:What has Sun Xiaoming been doing recently? ❌
+Correct Answer:Ecological protection; Environmental protection; Scholar
+Given ResponseEcological knowledge
+
+Question:Who is Sun Xiaoming’s mentor? ❌
+Correct Answer:Professor Wang
+Given ResponseSun Ming
+
+Question:Sun Xiaoming mentioned a community environmental protection activity. What was the time and place of the activity? ❌
+Correct Answer:XX University; March 15
+Given ResponseJune 10, 2022; 16:00
+
+Question:How is the cooperative relationship between Sun Xiaoming and Yang Lin? ✅
+Correct Answer:Close; Cooperative; Support; Collaboration
+Given ResponseClose; Cooperative; Support; Collaboration
+
+Question:What did Sun Xiaoming and Wang Ming do while watching the dance? ❌
+Correct Answer:Exchanged feelings; Exchanged ideas; Choreography
+Given ResponseDance of Rhythm
+
+Question:What environment did Sun Xiaoming and Liu Xiang invite community residents to participate in to improve the environment? ❌
+Correct Answer:Community; Ecological; Environment
+Given ResponseCommunity; Environmental activities
+
+Question:How did the abolition movement affect social progress? ✅
+Correct Answer:Abolition movement; Progressive movements; Civil rights movement
+Given ResponseAbolition movement; Progressive movements; Civil rights movement
+
+Question:What is the relationship between Sun Xiaoming and Yang Lin? ✅
+Correct Answer:Colleagues
+Given ResponseColleagues
+
+Question:What is Sun Xiaoming&#39;s father&#39;s occupation? ✅
+Correct Answer:Retired;Engineer
+Given ResponseRetired;Engineer
+
+Question:Who is Sun Xiaoming&#39;s father? ✅
+Correct Answer:Sun Ming
+Given ResponseSun Ming
+
+Question:In which university does Sun Xiaoming teach? ✅
+Correct Answer:XX University
+Given ResponseXX University
+
+Question:Who does Sun Xiaoming work with to improve the ecological environment of the community? ❌
+Correct Answer:Sun Xiaoming; Liu Xiang
+Given ResponseCommunity; Environmental activities
+
+Question:When were the community environmental protection activities organized by Sun Xiaoming held? ✅
+Correct Answer:June 10, 2022; 16:00
+Given ResponseJune 10, 2022
+
+Question:What is the occupation of Zhang Li&#39;s good friend Zhang Zhaohua? ✅
+Correct Answer:Musician
+Given ResponseMusician
+
+Question:What are the areas and issues that Sun Xiaoming is most concerned about currently in ecological research? ❌
+Correct Answer:Human activities; Climate change; Ecological environment; Socioeconomic background; Environmental protection; Sustainable use; Natural resources
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:What role did Sun Xiaoming play in the event organized on June 10? ❌
+Correct Answer:Ecology suggestions; Environmental protection skills; Ecological protection introduction; Environmental awareness; Photography
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:In which university does Sun Xiaoming teach? ✅
+Correct Answer:XX University
+Given ResponseXX University
+
+Question:What did the experience of watching &quot;Dance of Music&quot; bring to Sun Xiaoming and Wang Ming? ❌
+Correct Answer:Friendship; Cultural experience; Artistic experience
+Given ResponseExcited; Interested; Art; Cultural activities
+
+Question:What are the characteristics of Sun Xiaoming? ❌
+Correct Answer:Medium build; Short black hair; Glasses
+Given ResponseEcological knowledge
+
+Question:What work is Sun Xiaoming responsible for in the community cleaning operation? ❌
+Correct Answer:Environmental protection;Resource-saving lifestyle
+Given ResponseGarbage cleaning; Plant pruning; Flower bed tidying; Environmental protection; Garbage classification
+
+Question:Who is Yang Lin to Sun Xiaoming? ❌
+Correct Answer:Colleague
+Given ResponseGirlfriend
+
+Question:In which university does Sun Xiaoming teach? ✅
+Correct Answer:XX University
+Given ResponseXX University
+
+Question:What is the name of Sun Xiaoming&#39;s girlfriend? ❌
+Correct Answer:Zhang Li
+Given ResponseYang Lin
+
+Question:What kind of work is Yang Lin responsible for in the ecological education project? ✅
+Correct Answer:Organization; Management
+Given ResponseOrganization; Management
+
+Question:What was the purpose of the environmental protection activity organized by Sun Xiaoming and Liu Xiang on June 15 last year? ❌
+Correct Answer:Ecological environment; Community improvement
+Given ResponseCommunity; Environmental activities
+
+Question:What impact did this inspection have on Sun Xiaoming and Li Jing? ❌
+Correct Answer:Ecological knowledge; Awe of nature; Friendship
+Given ResponseEcological inspections; Outdoor adventure trips
+
+Question:How can companies encourage employees to maintain a work-life balance? ✅
+Correct Answer:Fixed working hours; No overtime; Encourage activities
+Given ResponseFixed working hours; No overtime; Encourage activities
+
+Question:What did Sun Xiaoming and Wang Ming do after the performance? ✅
+Correct Answer:Discuss highlights; Creativity; Outside theater
+Given ResponseDiscuss highlights; Creativity; Outside theater
+
+Question:What contribution does the efforts of Sun Xiaoming and Yang Lin make to the cause of ecological education? ✅
+Correct Answer:Ecological education; Contribution
+Given ResponseEcological education; Contribution
+
+Question:What does Sun Xiaoming have to say about being considered an ecologist who loves outdoor adventure and photography? ❌
+Correct Answer:Agreed; Adventure; Photography
+Given ResponseOutdoor adventure; Photography
+
+Question:What impact did the abolition movement have on social progress? ❌
+Correct Answer:Ethics; Culture; Politics; Law
+Given ResponseAbolition movement; Progressive movements; Civil rights movement
+
+Question:What are the characteristics of the Gammaid meteor shower? ✅
+Correct Answer:Slower speed; 35 km/h; Long trajectory; Bright
+Given ResponseSlower speed; 35 km/h; Long trajectory; Bright
+
+Question:Where are Sun Xiaoming and Liu Xiang volunteers? ❌
+Correct Answer:Environmental; Community
+Given ResponseCommunity; Environmental activities
+
+Question:What are other people’s attitudes toward Sun Xiaoming’s research at social events? ✅
+Correct Answer:Praise; Achievements; Jayne Goodell-type
+Given ResponsePraise; Achievements; Jayne Goodell-type
+
+Question:What tasks are Sun Xiaoming and Liu Xiang responsible for in environmental protection activities? ❌
+Correct Answer:Organizing volunteers; Garbage cleaning; Afforestation; Environmental publicity
+Given ResponseEcological protection; Environmental protection; Education
+
+Question:What did Sun Xiaoming and Li Jing do in a remote area of country X in 2010? ❌
+Correct Answer:Photovoltaic; Power plants; Construction
+Given ResponseOutdoor adventure; Photography
+
+Question:What is Sun Xiaoming&#39;s father&#39;s occupation? ✅
+Correct Answer:Retired;Engineer
+Given ResponseRetired;Engineer
+
+Question:What specific environmental protection actions did Sun Xiaoming and Liu Xiang take during the event? ❌
+Correct Answer:Cleaned garbage; Planted trees; Popularized knowledge
+Given ResponseGarbage cleaning; Plant pruning; Flower bed tidying; Environmental protection; Garbage classification
+
+Question:Zhao Li learned what pharmacological effects aspirin has? ✅
+Correct Answer:Reduce inflammation; Reduce pain; Anti-platelet aggregation; Prevent thrombosis
+Given ResponseReduce inflammation; Reduce pain; Anti-platelet aggregation; Prevent thrombosis
+
+Question:What structure did Zhao Li observe inside the ant nest? ✅
+Correct Answer:Rooms; Mycelium; Food storage; Breeding
+Given ResponseRooms; Mycelium; Food storage; Breeding
+
+Question:Does Zhao Li have Wang Juan’s contact information? ✅
+Correct Answer:Phone number; Email
+Given ResponsePhone number; Email
+
+Question:Zhao Li explained to Mr. Yang how ants help digest leaves? ✅
+Correct Answer:Chewing; Mycelium
+Given ResponseChewing; Mycelium
+
+Question:What interesting places in France did the AI assistant recommend to Zhao Li? ❌
+Correct Answer:Eiffel Tower; Paris
+Given ResponseEiffel Tower; French cuisine; Paris; Roman ruins; Rome; Vatican art; Barcelona; Gaudi buildings; Catalonia
+
+Question:What significance does Zhao Li and Liu Ming&#39;s experiment have for understanding the universe? ✅
+Correct Answer:Basic composition; Evolution; Universe
+Given ResponseBasic composition; Evolution; Universe
+
+Question:Zhang Ming described in detail what environmental problems caused by the refinery&#39;s emission behavior? ✅
+Correct Answer:Sewage;Waste gas;Harmful substances
+Given ResponseSewage;Waste gas;Harmful substances
+
+Question:Has Zhao Li chatted with her neighbor Wang Li recently? ✅
+Correct Answer:Tea; Chat; Wang Li; Recently
+Given ResponseTea; Chat; Wang Li; Recently
+
+Question:How does Zhao Li feel about winning the case? ✅
+Correct Answer:Confident; Winning
+Given ResponseConfident; Winning
+
+Question:Besides Mandela, who were other anti-apartheid activists? ✅
+Correct Answer:Walter Rice; Oliver Tambo
+Given ResponseWalter Rice; Oliver Tambo
+
+Question:What talent of Li Ming was attracted to Zhao Li? ✅
+Correct Answer:Musical talent
+Given ResponseMusical talent
+
+Question:As a person from what profession, Wang Juan has a certain understanding of French law? ✅
+Correct Answer:Lawyer
+Given ResponseLawyer
+
+Question:Was the event a success? ✅
+Correct Answer:Success; Communication; Understanding
+Given ResponseSuccess; Communication; Understanding
+
+Question:What inspired Zhao Li and Mr. Yang during their visit to the ant-growing fungus farm? ✅
+Correct Answer:Ants; Formic fungi; Symbiotic system
+Given ResponseAnts; Formic fungi; Symbiotic system
+
+Question:In what year did Alibaba Group&#39;s global development begin? ✅
+Correct Answer:2003
+Given Response2003
+
+Question:What do Zhao Li and Wang Juan plan to do during their trip to France? ✅
+Correct Answer:Historical places; Museums; International politics
+Given ResponseHistorical places; Museums; International politics
+
+Question:What is the chemical formula of aspirin? ✅
+Correct Answer:C9H8O4
+Given ResponseC9H8O4
+
+Question:What is the relationship between Zhao Li and Liu Ming? ✅
+Correct Answer:Colleagues
+Given ResponseColleagues
+
+Question:What advantages of architectural structure did Zhao Li introduce to Wang Juan in detail? ✅
+Correct Answer:Lightweight; High strength; Earthquake resistance
+Given ResponseLightweight; High strength; Earthquake resistance
+
+Question:What knowledge did Zhao Li teach Li Ming at that time? ❌
+Correct Answer:International politics
+Given ResponseAnts; Formic fungi; Symbiotic system
+
+Question:What activities did Zhao Li and Ms. Liu participate in? ❌
+Correct Answer:Mental health lecture
+Given ResponseInternational politics; Insects; Nature
+
+Question:What is the occupation of Zhao Li&#39;s boyfriend? ✅
+Correct Answer:Musician
+Given ResponseMusician
+
+Question:What parts does the molecular structure of aspirin consist of? ✅
+Correct Answer:Benzene ring; Acyl group; Carboxyl group
+Given ResponseBenzene ring; Acyl group; Carboxyl group
+
+Question:Why does Zhao Li want to participate in the Country Music Festival in Dream Country again? ❌
+Correct Answer:Multiculturalism; Domestic musicians; Foreign musicians; Bands
+Given ResponseUnforgettable
+
+Question:Can aspirin prevent thrombosis? ❌
+Correct Answer:Aspirin; Anti-platelet; Prevent thrombosis; Blood clots
+Given ResponsePrevent thrombosis
+
+Question:What do Zhao Li and Wang Juan plan to enjoy in Rome? ❌
+Correct Answer:Vatican; Art; Treasures
+Given ResponseHistorical places; Museums; International politics
+
+Question:In which city do Zhao Li and Wang Juan plan to taste French food? ✅
+Correct Answer:Paris
+Given ResponseParis
+
+Question:What is the second piece of advice the AI assistant gave Zhao Li in the field of social media marketing? ❌
+Correct Answer:Industry bloggers; Opinion leaders; Instagram
+Given ResponseAspirin; Anti-platelet; Prevent thrombosis; Blood clots
+
+Question:Who was invited to this lecture to share mental health knowledge and skills? ✅
+Correct Answer:Mental health expert
+Given ResponseMental health expert
+
+Question:What do Li Ming and Zhao Li often do together? ✅
+Correct Answer:Read; Travel; Share interests; Share dreams
+Given ResponseRead; Travel; Share interests; Share dreams
+
+Question:What help has Ms. Liu provided to community residents? ✅
+Correct Answer:Medical knowledge; Experience
+Given ResponseMedical knowledge; Experience
+
+Question:What is the chemical name of aspirin? What is its molecular structure? ✅
+Correct Answer:Acetylsalicylic acid; Benzene ring; Acyl group; Carboxyl group; C9H8O4
+Given ResponseAcetylsalicylic acid; Benzene ring; Acyl group; Carboxyl group; C9H8O4
+
+Question:Where did Zhao Li and Wang Juan agree to meet during their trip to Europe? ❌
+Correct Answer:Pudong; New Area
+Given ResponseEiffel Tower; Paris
+
+Question:What is the topic of the seminar? ❌
+Correct Answer:South African; Anti-apartheid; Movement
+Given ResponseInternational politics; Insects; Nature
+
+Question:Who is Liu Ming from Zhao Li? ❌
+Correct Answer:Partner
+Given ResponseColleagues
+
+Question:What did Zhao Li think of when she talked about Li Ming? ❌
+Correct Answer:Travels; Experiences; Meeting; LoveConnect; Relationship
+Given ResponseMusical talent
+
+Question:Do Zhao Li and Wang Juan have specific itineraries? ❌
+Correct Answer:Eiffel Tower; French cuisine; Paris; Roman ruins; Rome; Vatican art; Barcelona; Gaudi buildings; Catalonia
+Given ResponseHistorical places; Museums; International politics
+
+Question:Zhao Li told Zhang Ming, what type of drug is aspirin? ✅
+Correct Answer:Over-the-counter; Nonsteroidal; Anti-inflammatory; NSAID
+Given ResponseOver-the-counter; Nonsteroidal; Anti-inflammatory; NSAID
+
+Question:Which famous building do Zhao Li and Wang Juan plan to visit in Paris? ✅
+Correct Answer:Eiffel Tower
+Given ResponseEiffel Tower
+
+Question:What is the chemical name of aspirin? ✅
+Correct Answer:Acetylsalicylic acid
+Given ResponseAcetylsalicylic acid
+
+Question:What did Zhao Li learn during her graduate career? ❌
+Correct Answer:International politics; Research perspective; Literature research; Empirical analysis
+Given ResponseInternational politics; Insects; Nature
+
+Question:What academic achievements has Zhao Li achieved during her graduate studies? ✅
+Correct Answer:Academic achievements; Influential papers; International politics
+Given ResponseInternational politics; Influential papers; Academic achievements
+
+Question:What did Zhao Li and Ms. Liu do together? ❌
+Correct Answer:Volunteer activities; Help elderly; Help needy
+Given ResponseInternational politics; Insects; Nature
+
+Question:Which community charity event did Zhao Li and Mr. Yang participate in? ✅
+Correct Answer:Charity sale; Community
+Given ResponseCharity sale; Community
+
+Question:What does Zhao Li think of the recent news? ❌
+Correct Answer:Space station; Science technology; Miami real estate; Tourism
+Given ResponseInternational politics; Insects; Nature
+
+Question:What vehicle did Zhao Li and Wang Juan take to reach the top of the building&#39;s observation tower? ✅
+Correct Answer:Elevator
+Given ResponseElevator
+
+Question:Zhao Li decided to use this case in her research. What was the research content? ✅
+Correct Answer:International politics; Insects; Nature
+Given ResponseInternational politics; Insects; Nature
+
+Question:What cases is Zhao Li handling recently? ❌
+Correct Answer:Trademark; Infringement; Lawsuit
+Given ResponseAnts; Formic fungi; Symbiotic system
+
+Question:How did Li Ming attract Zhao Li? ❌
+Correct Answer:Musical talent; Piano
+Given ResponseMusical talent
+
+Question:How did Zhao Li and Li Ming feel after meeting in real life? ❌
+Correct Answer:Unforgettable
+Given ResponseSuccess; Communication; Understanding
+
+Question:On what occasion did Zhao Li and Li Ming meet? ❌
+Correct Answer:Concert; 2020
+Given ResponseRead; Travel; Share interests; Share dreams
+
+Question:Who is Zhao Li&#39;s younger brother? ✅
+Correct Answer:Zhang Ming
+Given ResponseZhang Ming
+
+Question:What role did Zhang Ming&#39;s testimony play in court? ❌
+Correct Answer:Injured residents;Environmental groups
+Given ResponseZhang Ming
+
+Question:Who is Zhao Li&#39;s mentor? ✅
+Correct Answer:Professor Wang
+Given ResponseProfessor Wang
+
+Question:What does Zhao Li&#39;s company mainly develop? ❌
+Correct Answer:Smart home
+Given ResponseAnt-growing fungus farm
+
+Question:After Zhao Li got to know Professor Wang better, she asked the AI assistant how to take advantage of Professor Wang&#39;s international cooperation projects. What advice did the AI assistant give? ✅
+Correct Answer:International cooperation; Broaden research; Make friends; Conscientious work; Deepen field
+Given ResponseInternational cooperation; Broaden research; Make friends; Conscientious work; Deepen field
+
+Question:How much does Zhao Li know about French culture? ❌
+Correct Answer:Preliminary understanding; French culture
+Given ResponseHistorical places; Museums; International politics
+
+Question:What relevant knowledge did Wang Juan provide to Zhao Li? ✅
+Correct Answer:Trademark law; Unfair competition law
+Given ResponseTrademark law; Unfair competition law
+
+Question:Which research organization&#39;s experiment did Zhao Li and Liu Ming participate in together? ❌
+Correct Answer:CERN; European Organization
+Given ResponseAnt-growing fungus farm
+
+Question:Where have Zhao Li and Mr. Yang visited together? ❌
+Correct Answer:Ant-growing fungus farm
+Given ResponseAnts; Formic fungi; Symbiotic system
+
+Question:What dishes did Mr. Yang prepare to display at the charity sale? ❌
+Correct Answer:Chinese-style sweet; sour pork ribs
+Given ResponseAnts; Formic fungi; Symbiotic system
+
+Question:Who is Zhao Li&#39;s mentor? ✅
+Correct Answer:Professor Wang
+Given ResponseProfessor Wang
+
+Question:What aspects of Paris are Zhao Li very interested in? ❌
+Correct Answer:Culture; History
+Given ResponseEiffel Tower; French cuisine; Paris; Roman ruins; Rome; Vatican art; Barcelona; Gaudi buildings; Catalonia
+
+Question:At which concert did Li Ming and Zhao Li meet? ✅
+Correct Answer:Concert
+Given ResponseConcert
+
+Question:Zhao Li learned what happened to &quot;Chunmei Food Co., Ltd.&quot; ❌
+Correct Answer:Violations; Fined; Rectifications
+Given ResponseChunmei Food; Prohibited ingredients; Allergic reactions; Food poisoning
+
+Question:In addition to ants and formic fungi, what other biological species participate in this ecosystem? ❌
+Correct Answer:Parasites
+Given ResponseAnts; Formic fungi; Symbiotic system
+
+Question:Who does Zhao Li often participate in various activities with? ❌
+Correct Answer:Zhang Ming
+Given Responsems. liu
+
+Question:Zhang Ming said what follow-up actions will be taken next? ❌
+Correct Answer:Environmental protection; CPC refineries; Urge measures; Prevent pollution
+Given ResponseInternational politics; Insects; Nature
+
+Question:What qualities of Zhao Li attracted Li Ming? ❌
+Correct Answer:Intelligence; Charm
+Given ResponseMusical talent
+
+Question:What did Zhao Li do in the summer of 2010? ✅
+Correct Answer:Community volunteer; Helped elderly; Helped needy
+Given ResponseCommunity volunteer; Helped elderly; Helped needy
+
+Question:What’s the latest big event in the field of food and drug law? ❌
+Correct Answer:Chunmei Food; Prohibited ingredients; Allergic reactions; Food poisoning
+Given ResponseAspirin; Anti-platelet; Prevent thrombosis; Blood clots
+
+Question:What did the friendship between Zhao Li and Ms. Liu gradually become? ✅
+Correct Answer:Close friends
+Given ResponseClose friends
+
+Question:Why did Zhao Li invite Wang Li to her home for tea? ❌
+Correct Answer:Talk; Topics; Together
+Given ResponseChat
+
+Question:What advantages does Zhang Ming’s background as an electronic engineer provide for the case? ✅
+Correct Answer:Data collection; Data analysis
+Given ResponseData collection; Data analysis
+
+Question:Which trademark infringement case between two companies is Zhao Li representing? ✅
+Correct Answer:Prestige Electronics; Alpha Appliances; Trademark infringement
+Given ResponsePrestige Electronics; Alpha Appliances; Trademark infringement
+
+Question:Li Ming asked what Zhao Li was busy with recently. How did Zhao Li answer? ❌
+Correct Answer:Studying; Developing countries
+Given ResponseInternational politics; Insects; Nature
+
+Question:Which part of the experiment is Zhao Li responsible for? ❌
+Correct Answer:Measurement; Analysis; Particle detectors
+Given ResponseAnts; Formic fungi; Symbiotic system
+
+Question:What was the article Zhao Li read on June 20, 2022 about? ❌
+Correct Answer:International politics; Middle East; Environmental protection
+Given ResponseInternational politics; Insects; Nature
+
+Question:Who is Zhao Li&#39;s neighbor? ❌
+Correct Answer:Mr. Yang
+Given ResponseWang Li
+
+Question:Where does Zhao Li plan to travel with Wang Juan in Europe? ❌
+Correct Answer:Paris; Rome; Barcelona
+Given ResponseEiffel Tower; Paris
+
+Question:In what areas is aspirin widely used? ❌
+Correct Answer:Cardiovascular; Cerebrovascular; Prevention; Treatment
+Given ResponseReduce inflammation; Reduce pain; Anti-platelet aggregation; Prevent thrombosis
+
+Question:Does the AI assistant understand globalization trends and economic impacts? ✅
+Correct Answer:Globalization trends; Economic impacts; Alibaba Group
+Given ResponseGlobalization trends; Economic impacts; Alibaba Group
+
+Question:What did Zhao Li and Zhang Ming perform? ❌
+Correct Answer:Dance
+Given ResponseInternational politics; Insects; Nature
+
+Question:Alibaba&#39;s global development not only includes the launch of which international e-commerce platform? ✅
+Correct Answer:Alibaba International Station
+Given ResponseAlibaba International Station
+
+Question:Who is Zhao Li&#39;s college friend? ✅
+Correct Answer:Wang Juan
+Given ResponseWang Juan
+
+Question:Zhao Li said hello to the AI assistant and asked about her mentor Professor Wang. What did the AI assistant say in response? ❌
+Correct Answer:Political scientist; Guidance; Support
+Given ResponseProfessor Wang
+
+Question:What does aspirin do? ❌
+Correct Answer:Anti-platelet; Prevent thrombus
+Given ResponseReduce inflammation; Reduce pain; Anti-platelet aggregation; Prevent thrombosis
+
+Question:Who put on traditional opera costumes and facial makeup? ❌
+Correct Answer:Zhang Ming; Team
+Given ResponseTraditional opera costumes and facial makeup
+
+Question:Are there relatively few sales of American cars in the Chinese market? ✅
+Correct Answer:Few sales; American cars; Chinese market
+Given ResponseFew sales; American cars; Chinese market
+
+Question:Which functional areas did Zhao Li and Wang Juan visit in the building? ❌
+Correct Answer:Office buildings; Hotels
+Given ResponseHistorical places; Museums; International politics
+
+Question:Which building did Zhao Li and Wang Juan visit? ❌
+Correct Answer:Shanghai Tower; Observation Tower
+Given ResponseEiffel Tower
+
+Question:Why is the trade deficit between China and the United States continuing to expand? ✅
+Correct Answer:Car imports; Trade deficit
+Given ResponseCar imports; Trade deficit
+
+Question:What is Zhao Li’s attitude towards the AI assistant’s suggestions? ❌
+Correct Answer:Gratitude; Advice
+Given ResponseInternational politics; Insects; Nature
+
+Question:When did Zhao Li attend the mental health lecture? ✅
+Correct Answer:May; Sunshine Middle School
+Given ResponseMay; Sunshine Middle School
+
+Question:What experience does Zhao Li have through virtual love? ❌
+Correct Answer:Excellent friend; Like-minded friend
+Given ResponseRead; Travel; Share interests; Share dreams
+
+Question:Whose graduate student is Zhao Li? ✅
+Correct Answer:Professor Wang
+Given ResponseProfessor Wang
+
+Question:How does Zhao Li help community residents? ❌
+Correct Answer:Medical consultation; Care
+Given ResponseVolunteer activities; Help elderly; Help needy
+
+Question:Did Zhao Li meet Wang Juan? ✅
+Correct Answer:Zhao Li; Wang Juan; Met
+Given ResponseZhao Li; Wang Juan; Met
+
+Question:During the community charity sale, what did the community residents think of Zhao Li and Mr. Yang’s dishes? ❌
+Correct Answer:love; pork ribs
+Given ResponseAnts; Formic fungi; Symbiotic system
+
+Question:Whose advice will Zhao Li take reasonable action on? ✅
+Correct Answer:Wang Juan
+Given ResponseWang Juan
+
+Question:Alibaba International Station cooperates with suppliers from various countries. Are the products highly competitive in the international market? ❌
+Correct Answer:Competitive;International market
+Given ResponseCompetitive
+
+Question:What did the trip to the museum make Zheng Yong and Wang Yan understand better? ✅
+Correct Answer:Yves Saint Laurent;Fashion designer;Works
+Given ResponseYves Saint Laurent;Fashion designer;Works
+
+Question:Do Zheng Yong and Yang Feng divide their labor and cooperate in the case? ✅
+Correct Answer:Zheng Yong;Yang Feng
+Given ResponseZheng Yong;Yang Feng
+
+Question:What is the time and location of this Red Sea diving trip? ✅
+Correct Answer:May 15, 2022;Sharm el-Sheikh;Egypt
+Given ResponseMay 15, 2022;Sharm el-Sheikh;Egypt
+
+Question:What is the relationship between Zheng Yong and Wang Lu? ❌
+Correct Answer:Wang Lu
+Given ResponseFriendship
+
+Question:What equipment does the QR code scanning payment terminal in the mall consist of? ✅
+Correct Answer:POS machine
+Given ResponsePOS machine
+
+Question:In what activities did Zheng Yong and Li Hua participate in community building? ✅
+Correct Answer:Community event
+Given ResponseCommunity event
+
+Question:What are the characteristics of the Breton grilled lobster dish? ✅
+Correct Answer:Tender;Juicy;Excellent taste
+Given ResponseTender;Juicy;Excellent taste
+
+Question:Which museum did Zheng Yong invite Wang Yan to visit? ✅
+Correct Answer:Yves Saint Laurent
+Given ResponseYves Saint Laurent
+
+Question:What is Wang Lu’s responsibility when making Breton Grilled Lobster? ❌
+Correct Answer:Spices;Dipping sauces
+Given ResponseGrilled Breton Lobster
+
+Question:What is the name of the NGO that opposes mining companies? ✅
+Correct Answer:Blue Sky;Nature Conservation;Association
+Given ResponseBlue Sky;Nature Conservation;Association
+
+Question:May I ask, how was the master-disciple relationship between Mr. Zheng Yong and Mr. Liu Min established? ✅
+Correct Answer:1971;Legal mentor
+Given Response1971;Legal mentor
+
+Question:What do Zheng Yong and Yang Feng do? ❌
+Correct Answer:Colleagues;Civil law cases
+Given ResponseZheng Yong;Yang Feng
+
+Question:What did Zheng Yong and Yang Feng do during the trial of the case? ✅
+Correct Answer:Communicate;Discuss
+Given ResponseCommunicate;Discuss
+
+Question:Zheng Yong wants to know who Zhang Qiang is and where they come from? ❌
+Correct Answer:Manager;Marketing department
+Given ResponseZheng Yong;Yang Feng
+
+Question:What did this trip bring to Zheng Yong and Li Xiao? ❌
+Correct Answer:Friendship;Beauty of nature
+Given ResponseFriendship
+
+Question:Have Zheng Yong and Professor Maria Robbins met? ✅
+Correct Answer:Zheng Yong;Maria Robbins;Met
+Given ResponseZheng Yong;Maria Robbins;Met
+
+Question:What level of competition did Wang Lu choose to participate in? ✅
+Correct Answer:Advanced level
+Given ResponseAdvanced level
+
+Question:What are Zheng Yong and Li Xiao’s future plans? ❌
+Correct Answer:Friendship
+Given ResponseClimb Mount Huangshan
+
+Question:Can you introduce the observation results of Mr. Zheng Yong and Mr. Liu Min’s optical clock experiment? ✅
+Correct Answer:Speed of light;Relativity of time;Theory of relativity;Physics magazines
+Given ResponseSpeed of light;Relativity of time;Theory of relativity;Physics magazines
+
+Question:What do Zheng Yong and Zhang Qiang think the mall has successfully achieved by integrating which equipment and activities? ✅
+Correct Answer:POS machines;Payment platforms;Welfare lottery activities
+Given ResponsePOS machines;Payment platforms;Welfare lottery activities
+
+Question:What suggestions did Liu Min make for resolving legal disputes? ❌
+Correct Answer:Actual situation;Available resources;Fairness;Reasonableness;Laws and regulations
+Given ResponseCommunicate;Discuss
+
+Question:What impact will the successful handling of this case have on Zheng Yong and Yang Feng? ✅
+Correct Answer:Reputation
+Given ResponseReputation
+
+Question:What is the purpose of Zheng Yong and Li Xiao&#39;s trip? ❌
+Correct Answer:Climb Mount Huangshan
+Given ResponseTravel
+
+Question:Can you share how you competed in the Pengcheng Kite Surfing Competition? ❌
+Correct Answer:Professional level;South Australia;Skills;Agility
+Given ResponseZheng Yong
+
+Question:What is the relationship between Yang Feng and Zheng Yong? ❌
+Correct Answer:Colleague
+Given ResponseZheng Yong;Yang Feng
+
+Question:Which famous e-commerce platform did Zheng Yong introduce to Zheng Ming? ✅
+Correct Answer:Alibaba International Station
+Given ResponseAlibaba International Station
+
+Question:What is Li Hua&#39;s attitude towards Zheng Yong&#39;s suggestion? ✅
+Correct Answer:Agreed;Community committee
+Given ResponseAgreed;Community committee
+
+Question:What do they often do together? ✅
+Correct Answer:Travel
+Given ResponseTravel
+
+Question:What did Zheng Yong and Wang Lu ride to compete? ❌
+Correct Answer:Professional kiteboards
+Given ResponseClimb Mount Huangshan
+
+Question:What does Zheng Ming think of Alibaba International Station? ✅
+Correct Answer:Trading opportunities;International trade
+Given ResponseTrading opportunities;International trade
+
+Question:What did Zheng Yong and Li Hua do in environmental protection activities? ❌
+Correct Answer:Volunteer uniforms;Garbage bins;Park
+Given ResponseCommunity activities
+
+Question:What did Zheng Yong and Li Xiao learn during the workshop? ❌
+Correct Answer:Natural scenery;Meditation;Relaxation exercises
+Given ResponseCommunicate;Discuss
+
+Question:What is Yang Feng responsible for in the case? ❌
+Correct Answer:Organizing;Preparing;Legal documents
+Given ResponseZheng Yong;Yang Feng
+
+Question:What does Wang Yan do? ✅
+Correct Answer:Retired;Teacher
+Given ResponseRetired;Teacher
+
+Question:How have meditation and relaxation practices helped Zheng Yong’s mental health? ❌
+Correct Answer:Meditation;Relaxation;Inner peace
+Given ResponseNatural scenery;Meditation;Relaxation exercises
+
+Question:On what basis does Zheng Yong grill lobster? ❌
+Correct Answer:French Cooking
+Given ResponseTender;Juicy;Excellent taste
+
+Question:Who is Zheng Yong’s college friend? ✅
+Correct Answer:Li Xiao
+Given ResponseLi Xiao
+
+Question:What does the moment of tasting this grilled Breton lobster mean to Zheng Yong and Wang Lu? ❌
+Correct Answer:Happiness
+Given ResponseFriendship
+
+Question:What did Zheng Yong and Zhang Qiang do in the mall? ✅
+Correct Answer:Browsed products
+Given ResponseBrowsed products
+
+Question:What did Zheng Yong and Li Xiao do in the next few months? ❌
+Correct Answer:Workshops
+Given ResponseZheng Yong;Rock climbing
+
+Question:What does Zheng Yong&#39;s brother do? ✅
+Correct Answer:Doctor
+Given ResponseDoctor
+
+Question:What was Zheng Yong’s response to the AI assistant’s encouragement? ❌
+Correct Answer:Serve society;Law;Justice
+Given ResponseSupport;Encourage
+
+Question:Please introduce Li Hua? ✅
+Correct Answer:Li Hua;Community activities
+Given ResponseLi Hua;Community activities
+
+Question:What did Zheng Yong and Yang Feng do together on January 5, 2022? ❌
+Correct Answer:Studied;Legal provisions
+Given ResponseZheng Yong;Yang Feng
+
+Question:How to maintain communication and negotiation between Zheng Yong and Zhang Qiang? ❌
+Correct Answer:Negotiation
+Given ResponseCommunicate;Discuss
+
+Question:What is Zheng Yong’s evaluation of Alibaba International Station? ❌
+Correct Answer:Success
+Given ResponseTrading opportunities;International trade
+
+Question:On January 15, 2022, Zheng Yong mentioned what difficulties he encountered? ✅
+Correct Answer:Difficulties
+Given ResponseDifficulties
+
+Question:When did Zheng Yong and Zhang Qiang come to the mall? ❌
+Correct Answer:June 15;2022
+Given ResponseZheng Yong;Yang Feng
+
+Question:What did Zheng Yong and Wang Lu learn more about through the competition? ❌
+Correct Answer:Kitesurfing;Charm;Technology
+Given ResponseZheng Yong;Yang Feng
+
+Question:Okay, what specific questions does Zheng Yong have? ❌
+Correct Answer:QR code;Payment process;Mall
+Given ResponseSpeed of light;Relativity of time;Theory of relativity;Physics magazines
+
+Question:Which natural healing workshop did Zheng Yong attend? ✅
+Correct Answer:Natural healing;Workshop;Maria Robbins
+Given ResponseNatural healing;Workshop;Maria Robbins
+
+Question:What potential do brothers Zheng Yong think nanomaterials have in environmental protection? ❌
+Correct Answer:Cancer
+Given ResponseUseful contributions;Environmental protection;Ecological protection
+
+Question:What did Zheng Yong and Yang Feng do to deal with this matter on January 7, 2022? ❌
+Correct Answer:Communicated
+Given ResponseZheng Yong;Yang Feng
+
+Question:What does this case involve? ❌
+Correct Answer:Dispute
+Given ResponseThe case involves a dispute over mineral mining rights.
+
+Question:What blessings did the AI assistant give Zheng Yong? ❌
+Correct Answer:All the best;Useful contributions;Environmental protection;Ecological protection
+Given ResponseFriendship;Beauty of nature
+
+Question:Where have Zheng Yong and Li Xiao planned to travel recently? ❌
+Correct Answer:China
+Given ResponseSharm el-Sheikh;Egypt
+
+Question:What specific work did Zheng Yong and Yang Feng do throughout the case? ❌
+Correct Answer:Legal strategy
+Given ResponseOrganizing;Preparing;Legal documents
+
+Question:Where is the first meeting of the workshop held? ✅
+Correct Answer:Park
+Given ResponsePark
+
+Question:Is this payment method safe? ✅
+Correct Answer:Third-party payment;Identity verification;Payment authorization;Secure;Stable
+Given ResponseThird-party payment;Identity verification;Payment authorization;Secure;Stable
+
+Question:What does this case show? ✅
+Correct Answer:Complexity;Challenges
+Given ResponseComplexity;Challenges
+
+Question:What is mentioned in this conversation? ❌
+Correct Answer:Zheng Yong
+Given ResponseZheng Yong;Speed of light;Relativity of time;Theory of relativity;Physics magazines
+
+Question:Why did Zheng Yong and Zhang Qiang choose to scan the QR code to pay? ✅
+Correct Answer:QR code;Convenient
+Given ResponseQR code;Convenient
+
+Question:What did Zheng Yong gain from his cooperation and study with Liu Min? ✅
+Correct Answer:Experience;Skills
+Given ResponseExperience;Skills
+
+Question:What activities did Zheng Yong and Li Hua participate in together? ❌
+Correct Answer:Environmental protection;Community
+Given ResponseCommunity event
+
+Question:How did they start talking on the subway? ❌
+Correct Answer:Subway
+Given ResponseWarmth;Humanity;Subway
+
+Question:Who did Zheng Yong meet on the subway? ✅
+Correct Answer:Zhang Wei
+Given ResponseZhang Wei
+
+Question:With whom did Zheng Yong and Li Hua have friendly exchanges? ❌
+Correct Answer:Community members
+Given ResponseLi Hua;Community activities
+
+Question:What research results did Professor Maria Robbins share with attendees? ❌
+Correct Answer:Nature;Mental health
+Given ResponseNatural healing;Workshop;Maria Robbins
+
+Question:Did you find any clues? ❌
+Correct Answer:Ancient book;Door;Ancient code
+Given ResponseZheng Yong
+
+Question:On a sunny weekend, what did Zheng Yong and Wang Lu decide to do? ❌
+Correct Answer:Grilled Breton Lobster
+Given ResponseZheng Yong;Rock climbing
+
+Question:What does Zheng Yong plan to do? ❌
+Correct Answer:Return;Follow Liu Min;Disappearance
+Given ResponseOrganizing;Preparing;Legal documents
+
+Question:What kind of shock did this movie bring to Zheng Yong and Li Xiao? ✅
+Correct Answer:Spiritual shock
+Given ResponseSpiritual shock
+
+Question:Is Zheng Yong planning to contact Zhang Qiang? ✅
+Correct Answer:Yes;Contact
+Given ResponseYes;Contact
+
+Question:Which Yves Saint Laurent high-heeled shoes series are Zheng Yong and Wang Yan attracted to? ❌
+Correct Answer:Tribute;High-heeled
+Given ResponseYves Saint Laurent
+
+Question:What impact did this simple exchange have on Zheng Yong and Zhang Wei? ✅
+Correct Answer:Warmth;Humanity;Subway
+Given ResponseWarmth;Humanity;Subway
+
+Question:What is Zheng Ming&#39;s occupation? ✅
+Correct Answer:Doctor
+Given ResponseDoctor
+
+Question:What other cooperation situation did Zheng Yong introduce to Zheng Ming? ❌
+Correct Answer:Alibaba International Station;Suppliers;Various countries;Regions
+Given ResponseAlibaba International Station
+
+Question:What are Zheng Yong’s specific expectations for signing up for the 2021 senior management training program? ❌
+Correct Answer:Leadership skills
+Given ResponseProfessional level;Skills;Agility
+
+Question:Besides clothes, what else did Zheng Yong and Wang Yan admire together? ❌
+Correct Answer:Yves Saint Laurent;Accessories;Handbags;High heels;Jewelry
+Given ResponseFriendship;Beauty of nature
+
+Question:How do Zheng Yong and Zhang Qiang scan the QR code to pay? ✅
+Correct Answer:Mobile phone;QR code;Payment terminal;Scan
+Given ResponseMobile phone;QR code;Payment terminal;Scan
+
+Question:What judicial process did the case ultimately turn to? ✅
+Correct Answer:Court
+Given ResponseCourt
+
+Question:What kind of recognition from judges has Zheng Yong received? ✅
+Correct Answer:High marks;Rich experience;Superb skills
+Given ResponseHigh marks;Rich experience;Superb skills
+
+Question:What is our common goal? ❌
+Correct Answer:Excellent legal services;Clients
+Given ResponseServe society;Law;Justice
+
+Question:Which institutions is the payment platform established in cooperation with the shopping mall? ❌
+Correct Answer:Banks;Third-party payment institutions
+Given ResponseAlibaba International Station;Suppliers;Various countries;Regions
+
+Question:What was our achievement in the DF-41 case? ❌
+Correct Answer:Legal services;Technical analysis
+Given ResponseCompetitive;International market
+
+Question:How does grilled lobster taste? ❌
+Correct Answer:Grilled;Lobster
+Given ResponseTender;Juicy;Excellent taste
+
+Question:What is the relationship between Zheng Yong and Li Hua? ❌
+Correct Answer:Community members
+Given ResponseFriendship
+
+Question:Among them, who has a better rock climbing level? ❌
+Correct Answer:Zheng Yong;Rock climbing
+Given ResponseZheng Yong
+
+Question:What issues did Zheng Yong mention on March 15, 2022? ❌
+Correct Answer:Natural resource protection
+Given ResponseColleagues;Civil law cases
+
+Question:What work was Zhang Qiang responsible for in the case? ❌
+Correct Answer:Design;Fabric decoration;Matching
+Given ResponseOrganizing;Preparing;Legal documents
+
+Question:Good morning, Mr. Zheng Yong. Does Zheng Yong have any plans? ❌
+Correct Answer:Yves Saint Laurent;Museum;Paris
+Given ResponseTravel
+
+Question:What did Zheng Yong and Yang Feng stick to during the entire case? ❌
+Correct Answer:Professionalism;Professional ethics
+Given ResponseZheng Yong;Yang Feng
+
+Question:Where in Huangshan did Zheng Yong and Li Xiao finally arrive? ❌
+Correct Answer:Highest peak;Huangshan Mountain
+Given ResponseClimb Mount Huangshan
+
+Question:How do Zheng Yong and Li Hua contribute to the community environment? ❌
+Correct Answer:Cleaning
+Given ResponseCommunity activities
+
+Question:Who is Zheng Yong? ✅
+Correct Answer:Zheng Yong
+Given ResponseZheng Yong
+
+Question:How does Li Xiao relax his mind and body? ✅
+Correct Answer:Yoga;Activities
+Given ResponseYoga;Activities
+
+Question:How did Zheng Yong and Wang Lu treat other participants? ❌
+Correct Answer:Support;Encourage
+Given ResponseFriendship
+
+Question:What did Zheng Yong and Li Hua do after the event? ❌
+Correct Answer:Refreshments;Community
+Given ResponseCommunicated
+
+Question:What did Zheng Yong gain and feel from the event? ❌
+Correct Answer:Legal services;Community building;Contributions
+Given ResponseFriendship;Beauty of nature
+
+Question:Who is Allen Chu’s neighbor? ✅
+Correct Answer:Chen Xiaohong
+Given ResponseChen Xiaohong
+
+Question:What impact does this exhibition have on the relationship between Zhu Xiaolong and Zhang San? ❌
+Correct Answer:Communication;Cooperation
+Given ResponseTacit understanding; Trust; Foundation; Project success
+
+Question:In what year was &quot;Spirited Away&quot; released? ✅
+Correct Answer:2001
+Given Response2001
+
+Question:What outdoor sports does Zhu Xiaolong like? ✅
+Correct Answer:Walking; Running
+Given ResponseWalking; Running
+
+Question:What is Chen Xiaohong’s evaluation of Zhu Xiaolong’s research results in the field of high-pressure physics? ✅
+Correct Answer:Appreciation; High-pressure physics; Research results
+Given ResponseAppreciation; High-pressure physics; Research results
+
+Question:Who is Zhu Xiaolong’s mentor? ✅
+Correct Answer:Professor Yang
+Given ResponseProfessor Yang
+
+Question:What keynote speech has Zhu Xiaolong prepared? ❌
+Correct Answer:Nanomaterials; Catalysis
+Given ResponseElectrical; Engineering; Project
+
+Question:Where did Zhu Xiaolong and Zhang Hua visit together? ✅
+Correct Answer:Colosseum
+Given ResponseColosseum
+
+Question:How is your work going lately? ❌
+Correct Answer:Electrical; Engineering; Project
+Given ResponseElectrical engineering
+
+Question:What are the characteristics of the projects developed by Zhu Xiaolong and Li Lili? ❌
+Correct Answer:Power transmission; Efficiency; Stability
+Given ResponseElectrical; Engineering; Project
+
+Question:What did Allen Chu say hello to Chen Xiaohong? ✅
+Correct Answer:Greeted; Asked book
+Given ResponseGreeted; Asked book
+
+Question:What impact did this visit have on Chen Xiaohong? ❌
+Correct Answer:High-pressure physics; Respect; Zhu Xiaolong; Career; Research
+Given ResponseAppreciation; High-pressure physics; Research results
+
+Question:What achievement awards has Xiaolong Zhu achieved in his electrical engineering projects? ✅
+Correct Answer:Outstanding Achievement Award
+Given ResponseOutstanding Achievement Award
+
+Question:What did Allen Chu and Zhang San decide to do in the future? ✅
+Correct Answer:Stay in touch; Collaborate; Cultural; Creative
+Given ResponseStay in touch; Collaborate; Cultural; Creative
+
+Question:What achievements did Zhang Jike finally achieve? ❌
+Correct Answer:Gold medal
+Given ResponseOutstanding Achievement Award
+
+Question:What relationship does Zhu Xiaolong hope to maintain with Chen Xiaohong? ✅
+Correct Answer:Keep in touch; Good friends
+Given ResponseKeep in touch; Good friends
+
+Question:During the visit, what research did Zhu Xiaolong introduce to Chen Xiaohong? ❌
+Correct Answer:High-pressure physics
+Given ResponseElectrical engineering; Polar environments; Applications; Challenges; Mentor guidance
+
+Question:What fields is Zhu Xiaofang interested in? ❌
+Correct Answer:Animation
+Given ResponseElectrical engineering
+
+Question:What geotechnical measures did the engineering team use to address groundwater issues? ✅
+Correct Answer:Diaphragm walls; Slope protection; Drainage systems
+Given ResponseDiaphragm walls; Slope protection; Drainage systems
+
+Question:What brand of hanging system is used for the TV background wall? ✅
+Correct Answer:Molteni&C; Italian
+Given ResponseMolteni&C; Italian
+
+Question:What green plants are there in the corner of the villa hall? ❌
+Correct Answer:Phalaenopsis orchids; Blue
+Given ResponseMelaleuca fern; Ivy; Purple-backed bamboo
+
+Question:Is Chen Xiaohong interested in Zhu Xiaolong&#39;s work? ❌
+Correct Answer:Interested
+Given ResponseYes
+
+Question:What kind of understanding did Chen Xiaohong gain about high-pressure physics through the visit? ❌
+Correct Answer:High-pressure physics; Zhu Xiaolong; Career; Research
+Given ResponseAppreciation; High-pressure physics; Research results
+
+Question:What role does the tacit understanding and trust between Zhu Xiaolong and Li Lili play? ✅
+Correct Answer:Tacit understanding; Trust; Foundation; Project success
+Given ResponseTacit understanding; Trust; Foundation; Project success
+
+Question:How do Zhu Xiaolong and Liu Yu feel about hiking? ✅
+Correct Answer:Enjoyed scenery; Charm of nature; Exciting activity
+Given ResponseEnjoyed scenery; Charm of nature; Exciting activity
+
+Question:Who did Zhu Xiaolong invite to visit his power company? ✅
+Correct Answer:Chen Xiaohong
+Given ResponseChen Xiaohong
+
+Question:Which company does Zhu Xiaolong work for? ✅
+Correct Answer:Power company
+Given ResponsePower company
+
+Question:In which field does Zhang San have design concepts and creative experience? ❌
+Correct Answer:Cultural; Creative
+Given ResponseElectrical; Engineering; Project
+
+Question:What seasonings did Allen Chu and Liu Yu taste? ✅
+Correct Answer:Chili pepper; Sichuan peppercorns; Ginger; Garlic
+Given ResponseChili pepper; Sichuan peppercorns; Ginger; Garlic
+
+Question:When did Zhu Xiaolong and Li Lili become good friends? ✅
+Correct Answer:College
+Given ResponseCollege
+
+Question:What did visiting the Colosseum make Zhu Xiaolong and Zhang Hua understand better? ✅
+Correct Answer:Ancient Rome; History; Culture
+Given ResponseAncient Rome; History; Culture
+
+Question:Zhu Xiaolong introduced what plants the green hanging flower wall in the lobby corridor is composed of? ✅
+Correct Answer:Melaleuca fern; Ivy; Purple-backed bamboo
+Given ResponseMelaleuca fern; Ivy; Purple-backed bamboo
+
+Question:What interesting characters did Bruce Chu and Li Lili discuss? ❌
+Correct Answer:Spirited Away; Characters
+Given ResponseBeautiful animation; Profound storyline; Attractive plot; Joy; Touching
+
+Question:In what areas has Bruce Chu’s team achieved great success? ❌
+Correct Answer:Electrical engineering
+Given ResponseElectrical engineering; Practical knowledge; Skills
+
+Question:Which national power engineering design competition has Zhu Xiaolong won? ✅
+Correct Answer:National; Electric Power; Engineering Design Competition
+Given ResponseNational Electric Power Engineering Design Competition
+
+Question:For what purpose did Zhu Xiaolong and Li Lili form a team? ❌
+Correct Answer:Science; Technology; Innovation Competition
+Given ResponseElectrical; Engineering; Project
+
+Question:Can Bruce Chu tell me something about the characteristics of the &quot;Spirited Away&quot; movie? ✅
+Correct Answer:Beautiful animation; Profound storyline; Attractive plot; Joy; Touching
+Given ResponseBeautiful animation; Profound storyline; Attractive plot; Joy; Touching
+
+Question:What impact did the movie-watching experience have on the relationship between Bruce Chu and Li Lili? ✅
+Correct Answer:Closer relationship; Deepened love; Appreciation for animation; Appreciation for film
+Given ResponseCloser relationship; Deepened love; Appreciation for animation; Appreciation for film
+
+Question:In order to help Zhu Xiaolong find more opportunities and resources, what did Zhu Xiaofang do? ✅
+Correct Answer:Help; Opportunities; Resources
+Given ResponseHelp; Opportunities; Resources
+
+Question:What activities did Zhu Xiaolong and Professor Yang perform together? ❌
+Correct Answer:Collecting samples; Observing climate; Collecting earth data
+Given ResponseElectrical; Engineering; Project
+
+Question:When Allen Chu met Chen Xiaohong, what was she holding in her hand? ✅
+Correct Answer:Book
+Given ResponseBook
+
+Question:What kind of interest does Zhu Xiaolong have in the cultural and creative fields? ✅
+Correct Answer:Cultural; Creative
+Given ResponseCultural; Creative
+
+Question:Which book did Li Si recommend to Bruce Chu? ❌
+Correct Answer:Balzac; Little Seamstress
+Given ResponseChen Xiaohong
+
+Question:What kind of background of human cities does the trailer show? ❌
+Correct Answer:Human city; High walls
+Given ResponseAncient Rome; History; Culture
+
+Question:Which books did Zhu Xiaolong recommend to Chen Xiaohong? ❌
+Correct Answer:Electrical engineering books
+Given ResponseHigh-pressure physics
+
+Question:What is the relationship between Zhu Xiaolong and Li Lili? ❌
+Correct Answer:Friends
+Given ResponseKeep in touch; Good friends
+
+Question:What device do the protagonists use to fly through the air during the battle scenes? ✅
+Correct Answer:Three-dimensional maneuvering devices
+Given ResponseThree-dimensional maneuvering devices
+
+Question:Who is Zhu Xiaofang? ✅
+Correct Answer:Zhu Xiaolong; Sister
+Given ResponseZhu Xiaolong's sister.
+
+Question:What role did sister’s support play in Allen Chu’s career development? ✅
+Correct Answer:Sister's support; Career development
+Given ResponseSister's support; Career development
+
+Question:What questions did Chen Xiaohong raise to Zhu Xiaolong? ❌
+Correct Answer:Z machine; Questions
+Given ResponseAppreciation; Research results; High-pressure physics
+
+Question:What do Zhu Xiaolong and Zhang San think of the future development of nanomaterials in the field of catalysis? ❌
+Correct Answer:Nanoparticles; Catalysis; Efficiency; Chemical reactions
+Given ResponseNanomaterials; Catalysis
+
+Question:Who did Allen Chu meet in the laboratory today? ❌
+Correct Answer:Zhu Xiaolong; Professor Yang
+Given ResponseChen Xiaohong
+
+Question:What does Zhu Xiaolong do? ❌
+Correct Answer:Electrical; Engineering
+Given ResponseElectrical engineer
+
+Question:What aspect of the project is Zhu Xiaolong responsible for? ✅
+Correct Answer:Planning; Layout; Electrical power systems
+Given ResponsePlanning; Layout; Electrical power systems
+
+Question:What is the relationship between Zhu Xiaolong and Liu Yu? ❌
+Correct Answer:Colleagues
+Given ResponseCooperation
+
+Question:Where does Zhu Xiaolong work? ❌
+Correct Answer:Power company
+Given ResponseElectrical engineering
+
+Question:What did Professor Yang tell Bruce Allen? ❌
+Correct Answer:Deep sea; Exploration; Project
+Given ResponseProfessor Yang
+
+Question:Who are Zhu Xiaolong’s colleagues in the power company? ❌
+Correct Answer:Liu Yu
+Given ResponseChen Xiaohong
+
+Question:Which characters in the movie do Bruce Chu and Li Lili like? ❌
+Correct Answer:Qianxun; Tangbaba
+Given ResponseChen Xiaohong
+
+Question:Why were Bruce Chu and Li Lili attracted to the &quot;Spirited Away&quot; movie? ❌
+Correct Answer:Beautiful animation; Profound story
+Given ResponseBeautiful animation; Profound storyline; Attractive plot; Joy; Touching
+
+Question:What was Bruce Chu’s reaction to the recommended book? ❌
+Correct Answer:Very interested
+Given ResponseChen Xiaohong
+
+Question:Can Zhu Xiaolong provide Zhang San with suggestions on the loading and distribution of nanoparticles and how to improve the service life and durability of the catalyst? ❌
+Correct Answer:Nanoparticle loading; Nanoparticle distribution; Service life; Durability; Catalyst
+Given ResponseNanoparticles; Catalysis; Efficiency; Chemical reactions
+
+Question:Where were the scientific research projects that Zhu Xiaolong participated in conducted? ✅
+Correct Answer:Antarctica; Drake Station
+Given ResponseAntarctica; Drake Station
+
+Question:Who is Chen Xiaohong? ❌
+Correct Answer:Zhu Xiaolong; Neighbor
+Given ResponseChen Xiaohong
+
+Question:What outdoor activities does Chen Xiaohong like? ❌
+Correct Answer:Park; Exercise
+Given ResponseChen Xiaohong
+
+Question:What does the trailer show about the basic plot and main characters of the work? ✅
+Correct Answer:Attack on Titan; Plot; Main characters
+Given ResponseAttack on Titan; Plot; Main characters
+
+Question:Which artwork did Bruce Chu choose to echo the TV background wall? ✅
+Correct Answer:Jeff Koons; Starry Sky
+Given ResponseJeff Koons; Starry Sky
+
+Question:Zhang San raised questions about the application of nanomaterials in which fields? ❌
+Correct Answer:Methanol; Fuel cells
+Given ResponseNanomaterials; Catalysis
+
+Question:What is the relationship between Zhu Xiaolong and Wang Lu? ❌
+Correct Answer:Boyfriend; Girlfriend
+Given ResponseKeep in touch; Good friends
+
+Question:Zhu Xiaolong shared what techniques Zweig used to enrich the story? ❌
+Correct Answer:Historical events; Cultural phenomena; Natural landscapes; Characters
+Given ResponseChen Xiaohong
+
+Question:What role do horizontal slope protection and drainage systems play in geotechnical engineering? ❌
+Correct Answer:Protection; Drainage
+Given ResponseDiaphragm walls; Slope protection; Drainage systems
+
+Question:What does Zhu Xiaolong think of Li Lili’s teamwork ability? ❌
+Correct Answer:Teamwork; Coordination; Communication; Hard work
+Given ResponseCooperation
+
+Question:Which engineering project has Zhu Xiaolong participated in? ❌
+Correct Answer:Heating; Ventilation; Air-conditioning; Shanghai; World Financial Center
+Given ResponseElectrical; Engineering; Project
+
+Question:&quot;Balzac and the Little Seamstress&quot; sounds very interesting. Is Zhu Xiaolong interested in this book? ✅
+Correct Answer:Interested; Balzac; Little Seamstress
+Given ResponseInterested; Balzac; Little Seamstress
+
+Question:What aspect of the project is Zhang San responsible for? ❌
+Correct Answer:Electrical equipment; Selection; Installation
+Given ResponseElectrical; Engineering; Project
+
+Question:What structure and working principle of the Z machine did Zhu Xiaolong explain to Chen Xiaohong? ❌
+Correct Answer:Magnetic compressor; Driver; Observation device
+Given ResponseZ machine; Questions
+
+Question:What special atmosphere and scenes does the trailer show? ❌
+Correct Answer:Tense atmosphere; Fierce battle scenes
+Given ResponseBeautiful animation; Profound storyline; Attractive plot; Joy; Touching
+
+Question:What is the relationship between Zhu Xiaolong and Li Lili? ❌
+Correct Answer:College classmates; Good friends
+Given ResponseKeep in touch; Good friends
+
+Question:When and where do Zhu Xiaolong and Liu Yu plan to meet? ❌
+Correct Answer:Spicy hot pot; Near company; 12 noon; March 15; 2022
+Given ResponseLiu Yu
+
+Question:In what projects did Zhu Xiaolong participate in R&amp;D work? ❌
+Correct Answer:Seabed No. 1; Detector
+Given ResponseElectrical engineering
+
+Question:What special needs do Zhu Xiaolong and Liu Yu have when ordering? ❌
+Correct Answer:Special ingredients; Seasonings; Spicy hot pot
+Given ResponseCommunication; Cooperation
+
+Question:What opportunities did this scientific research project bring to Zhu Xiaolong? ❌
+Correct Answer:Electrical engineering; Polar environments; Applications; Challenges; Mentor guidance
+Given ResponseHelp; Opportunities; Resources
+
+Question:What kind of member of the community is Zhang San? ❌
+Correct Answer:Active member
+Given ResponseElectrical engineer
+
+Question:What did Allen Chu and Liu Yu do after lunch? ✅
+Correct Answer:Paid bill; Left restaurant; Returned to work; Power company
+Given ResponsePaid bill; Left restaurant; Returned to work; Power company
+
+Question:What is the Z machine? ❌
+Correct Answer:Magnetic compressor; Driver; Observation device; High-voltage physics
+Given ResponseAppreciation; High-pressure physics; Research results
+
+Question:What kind of interest did Chen Xiaohong have in the Z machine? ❌
+Correct Answer:Scale; Complexity; Working principle
+Given ResponseAppreciation; High-pressure physics; Research results
+
+Question:What is Zhu Xiaolong’s profession? ✅
+Correct Answer:Electrical engineer
+Given ResponseElectrical engineer
+
+Question:What are the specific tasks of Zhu Xiaolong’s participation in the Antarctic scientific research project? ✅
+Correct Answer:Collecting samples; Observing climate; Earth data
+Given ResponseCollecting samples; Observing climate; Collecting earth data
+
+Question:Who designed an exquisite cultural and creative product that Zhu Xiaolong noticed? ❌
+Correct Answer:Zhang San
+Given ResponseChen Xiaohong
+
+Question:Chen Xiaohong told Zhu Xiaolong what book she was reading? ❌
+Correct Answer:Psychology
+Given ResponseChen Xiaohong
+
+Question:What special glass screen is there in the living room? ✅
+Correct Answer:Glass screen; Botanical garden
+Given ResponseGlass screen; Botanical garden
+
+Question:What green plants are there on the balcony? ❌
+Correct Answer:Potted flowers
+Given ResponseMelaleuca fern; Ivy; Purple-backed bamboo
+
+Question:Zhu Xiaolong greeted Chen Xiaohong and asked her what? ❌
+Correct Answer:Book; Reading
+Given ResponseBook
+
+Question:Zhu Xiaolong introduced in detail the catalytic mechanism of what materials in methanol fuel cells? ❌
+Correct Answer:Platinum; Nanoparticles
+Given ResponseNanomaterials; Catalysis
+
+Question:What did Chen Xiaohong say about Zhu Xiaolong’s research results in the field of high-pressure physics? ✅
+Correct Answer:Appreciation; Research results; High-pressure physics
+Given ResponseAppreciation; High-pressure physics; Research results
+
+Question:What are the seating levels at the Colosseum? ❌
+Correct Answer:Emperors; Nobles; Ordinary people
+Given ResponseColosseum
+
+Question:After the visit, who did Allen Chu leave the construction site with? ❌
+Correct Answer:Zhu Xiaolong; Wang Lu
+Given ResponseChen Xiaohong
+
+Question:What did Allen Chu learn from Professor Yang? ✅
+Correct Answer:Electrical engineering; Practical knowledge; Skills
+Given ResponseElectrical engineering; Practical knowledge; Skills
+
+Question:What brand of hidden sound system is used on the TV background wall? ✅
+Correct Answer:Bose
+Given ResponseBose
+
+Question:What awards has Bruce Chu won? ❌
+Correct Answer:First prize; National Electric Power; Engineering Design
+Given ResponseOutstanding Achievement Award
+
+Question:What will the AI assistant focus on when working with Li Jing? ❌
+Correct Answer:Soil pollution; Analysis; Treatment
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What is Dandan grateful for Wang Li for doing in her career? ✅
+Correct Answer:Support; Understanding
+Given ResponseSupport; Understanding
+
+Question:What deep feelings did Ma Dan and Zhang Wei have about that mural? ✅
+Correct Answer:Impressed; Painting skills; Artistic conception; Historical background; Interesting details
+Given ResponseImpressed; Painting skills; Artistic conception; Historical background; Interesting details
+
+Question:What did this meeting do for future research collaborations? ✅
+Correct Answer:Foundation; Future research collaboration
+Given ResponseFoundation; Future research collaboration
+
+Question:What kind of video did Zhang Lei help produce? ✅
+Correct Answer:Edited video; Memories
+Given ResponseEdited video; Memories
+
+Question:What is the purpose of the cooperation between Ma Dan and Li Jing? ❌
+Correct Answer:Restore soil; Protect soil; Ecosystem
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What did Madan and Jack Ma review at the dinner? ❌
+Correct Answer:Growth; Details
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What is the relationship between Ma Dan and Li Jing? ❌
+Correct Answer:Colleagues
+Given ResponseGood friends; Community members
+
+Question:What did Ma Dan and Wang Li do during the meeting? ✅
+Correct Answer:Exchanges; Shared research results; Shared experiences
+Given ResponseExchanges; Shared research results; Shared experiences
+
+Question:After the press conference, what did Ma Dan and Jack Ma do? ✅
+Correct Answer:Private dinner; Celebrate; Game launch
+Given ResponsePrivate dinner; Celebrate; Game launch
+
+Question:How did Zhang Lei&#39;s help and encouragement affect Ma Dan&#39;s proposal process? ✅
+Correct Answer:Smoother;Successful
+Given ResponseSmoother; Successful
+
+Question:What did Zhang Wei&#39;s help bring to Ma Dan and Zhang Li? ❌
+Correct Answer:Unique charm
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What folk performances are performed on the boats? ✅
+Correct Answer:Dragon dance; Lion dance; Folk performances
+Given ResponseDragon dance; Lion dance; Folk performances; Talent displays
+
+Question:Does Madan have any wedding venue requirements? ❌
+Correct Answer:Luxurious; Romantic; Unique charm
+Given ResponseBeautiful gardens; Exquisite decoration
+
+Question:What did Mr. Ma Dan gain from the conversation with Liu Ming? ❌
+Correct Answer:Happiness; Appreciation; Experience; Insight; Inspiration
+Given ResponseFoundation; Future research collaboration
+
+Question:Is Zhang Wei interested in art? ✅
+Correct Answer:Art
+Given ResponseArt
+
+Question:What does Liu Ming think of Ma Dan&#39;s achievements? ❌
+Correct Answer:Achievements
+Given ResponseImpressed; Appreciation; Insight; Inspiration
+
+Question:What is the relationship between Ma Dan and Zhang Lei? ❌
+Correct Answer:Good friends; Community members
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What kind of seats did Dandan reserve in advance? ✅
+Correct Answer:Window seat; City views
+Given ResponseWindow seat; City views
+
+Question:What special significance did that visit have to Madan? ❌
+Correct Answer:Meaningful; Artistic experience
+Given ResponseFoundation; Future research collaboration
+
+Question:What are the results of the environmental protection projects carried out by Mr. Ma Dan and Mr. Zhang Lei? ❌
+Correct Answer:Environmental protection; Valuable suggestions
+Given ResponseRestore soil; Protect soil; Ecosystem
+
+Question:What drinks and desserts did Madan and Wang Li order? ✅
+Correct Answer:Coffee; Dessert
+Given ResponseCoffee; Dessert
+
+Question:Who participated in an environmental protection activity on May 12, 2022? ❌
+Correct Answer:Ma Dan; Zhang Lei
+Given ResponseMa Dan
+
+Question:Who are Dandan’s partners? ❌
+Correct Answer:Li Jing
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What deep understanding does Madan have about the cultural connotation of traditional Chinese festivals? ✅
+Correct Answer:Cultural connotation; Memory; Deceased relatives
+Given ResponseCultural connotation; Memory; Deceased relatives
+
+Question:What questions did Yang Chen ask Ma Dan? ✅
+Correct Answer:Soil; Ecosystem; Protection
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What suggestions did Madan give Wang Ming to improve soil quality? ❌
+Correct Answer:Fertilizer; Organic matter; Soil structure
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What meeting did Ma Dan and Wang Li attend? ❌
+Correct Answer:Soil Science Congress; June 10, 2022
+Given ResponseSoil; Ecosystem; Protection
+
+Question:great! Are there any opportunities for cooperation between them? ✅
+Correct Answer:Cooperation; Academic exchanges; Research collaboration
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What roles did Ma Dan and Wang Li play in the conference? ❌
+Correct Answer:Guest; Published research; Soil ecosystem protection
+Given ResponseFoundation; Future research collaboration
+
+Question:Madan, what positive impact does the cooperative relationship they have established have on the project? ❌
+Correct Answer:Research efficiency; Research results; Collaboration; Experience sharing
+Given ResponseFoundation; Future research collaboration
+
+Question:Ma Dan, what is the biggest advantage between Ma Dan and Ma Dan’s colleague Li Jing? ❌
+Correct Answer:Complementarity; Soil collection; Soil analysis; Microbial communities; Research
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What bouquets of flowers did Ma Dan and Zhang Wei observe holding in other people&#39;s hands to participate in the sacrificial ceremony? ✅
+Correct Answer:Chrysanthemums; Peach blossoms; Jasmine
+Given ResponseChrysanthemums; Peach blossoms; Jasmine
+
+Question:What is the relationship between Wang Ming and Dandan? ❌
+Correct Answer:Neighbor
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:Who is Dandan’s mentor? ❌
+Correct Answer:Li Xian; Soil scientist
+Given ResponseMentor; Research guidance; Soil science
+
+Question:Where is Wang Ming&#39;s farm? ❌
+Correct Answer:20 kilometers north;City
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What is Madan going to do to help Wang Ming? ❌
+Correct Answer:Soil testing; Farm; Crop yield
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:Who is Madan’s college roommate? ✅
+Correct Answer:Zhang Wei
+Given ResponseZhang Wei
+
+Question:What opportunities did this meeting create between Ma Dan and Yang Chen? ❌
+Correct Answer:Cooperation; Academic exchange
+Given ResponseFoundation; Future research collaboration
+
+Question:What folk performances and artist displays are performed during the sacrificial activities? ✅
+Correct Answer:Dragon dance; Lion dance; Folk performances; Talent displays
+Given ResponseDragon dance; Lion dance; Folk performances; Talent displays
+
+Question:Does Liu Ming&#39;s research have any inspiration for Ma Dan? ❌
+Correct Answer:Sustainable soil management
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What activities did the Madans hold after the press conference? ❌
+Correct Answer:Private dinner; Celebration
+Given ResponseSoil; Ecosystem; Protection
+
+Question:Where did Ma Dan and Zhang Wei go before the event? ❌
+Correct Answer:Wharf; Ancient canal
+Given ResponseSoil; Ecosystem; Protection
+
+Question:How did Wang Ming enhance the stability of the paper tower? ✅
+Correct Answer:Connection method; Paper cups
+Given ResponseConnection method; Paper cups
+
+Question:What is the relationship between Madan and Jack Ma? ❌
+Correct Answer:Brothers; Business partners
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What issues is Madan concerned about? ❌
+Correct Answer:Ethnic separatism; Xinjiang; Uyghur
+Given ResponseSoil; Ecosystem; Protection
+
+Question:Did Wang Ming adopt the soil improvement plan provided by Madan? ✅
+Correct Answer:Adopted; Soil improvement plan; Madan
+Given ResponseAdopted; Soil improvement plan; Madan
+
+Question:What courses did Wang Ming participate in? ❌
+Correct Answer:Social-emotional learning; Team-building
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What is the relationship between Ma Dan and Wang Ming? ❌
+Correct Answer:Neighbors; Friendly
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What problems did Madan discover after conducting soil testing? ❌
+Correct Answer:Nutrient imbalance; Low organic matter
+Given ResponseSoil; Pollution; Analysis; Control
+
+Question:What did Ma Dan and Wang Li feel together? ❌
+Correct Answer:Beauty; Tranquility; Nature
+Given ResponseFoundation; Future research collaboration
+
+Question:In which field is Li Jing an expert? ✅
+Correct Answer:Soil; Pollution; Analysis; Control
+Given ResponseSoil; Pollution; Analysis; Control
+
+Question:Dandan and Wang Li were walking hand in hand on the path in the park. What was around them? ❌
+Correct Answer:Flowers; Trees; Breeze
+Given ResponseSoil; Ecosystem; Protection
+
+Question:Where is the meeting location? ❌
+Correct Answer:Institute; Soil Science; University
+Given ResponseSoil Science Congress; June 10, 2022
+
+Question:What does Madan hope to study to provide scientific basis for solving the problem of ethnic divisions? ✅
+Correct Answer:Soil ecosystem; Social stability; Ethnic harmony
+Given ResponseSoil ecosystem; Social stability; Ethnic harmony
+
+Question:What did Ma Dan and Zhang Wei discuss after the exhibition? ❌
+Correct Answer:Work impact; Humanities; Social fields
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What does Madan expect from Madan’s wedding? ❌
+Correct Answer:Great success; Wonderful memories
+Given ResponseLuxurious; Romantic; Unique charm
+
+Question:What is the relationship between Dandan and Zhang Wei? ❌
+Correct Answer:Friends
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What did Ma Dan introduce to Ma Yun about the agricultural company? ✅
+Correct Answer:Operations; Research projects; Results
+Given ResponseOperations; Research projects; Results
+
+Question:What is Madan&#39;s major? ❌
+Correct Answer:Soil
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What kind of company does Jack Ma run? ✅
+Correct Answer:Agricultural company
+Given ResponseAgricultural company
+
+Question:What did Wang Ming show Ma Dan during the event? ✅
+Correct Answer:Farm technology; Planting methods
+Given ResponseFarm technology; Planting methods
+
+Question:What knowledge did Madan learn from the tea tasting? ✅
+Correct Answer:Origin; Baking methods; Tasting techniques; Chinese tea culture
+Given ResponseOrigin; Baking methods; Tasting techniques; Chinese tea culture
+
+Question:What advice did Jack Ma give to Madan at the dinner? ❌
+Correct Answer:Work hard; Game design; Soil scientist; Game designer
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What role did Zhang Lei play in the event? ❌
+Correct Answer:Environmental volunteer; Participated; Spread environmental protection
+Given ResponseEnvironmental protection; Valuable suggestions
+
+Question:What did Madan show to the audience? ❌
+Correct Answer:Game trailer; Gameplay demo
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What did Madan hear Ma Yun say at the dinner? ❌
+Correct Answer:Appreciation; Encouragement; Learning; Innovation; Game designer
+Given ResponseSoil; Ecosystem; Protection
+
+Question:Where are the Qingming Festival sacrificial activities held? ❌
+Correct Answer:Hangzhou; Ancient Canal
+Given ResponseCultural connotation; Memory; Deceased relatives
+
+Question:Who appreciated and praised the outstanding performance of Ma Dan and Zhang Lei? ✅
+Correct Answer:Event organizers; Participants
+Given ResponseEvent organizers; Participants
+
+Question:What are the problems with the soil in Wang Ming’s farmland? ❌
+Correct Answer:Nutrient imbalance; Low organic matter
+Given ResponseSoil; Pollution; Analysis; Control
+
+Question:What is Madan&#39;s major? ❌
+Correct Answer:Soil
+Given ResponseSoil protection; Soil utilization
+
+Question:What results have Ma Dan and Li Jing achieved in the project? ❌
+Correct Answer:Research papers; Recognition; Appreciation
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What does Madan think of the taste of &quot;Longjing Charm&quot; tea? ❌
+Correct Answer:Good taste; Refreshing fragrance; Not bitter
+Given ResponseUnique charm
+
+Question:What&#39;s the atmosphere like in the cafe? ✅
+Correct Answer:Warm;Elegant decor;Soft music
+Given ResponseWarm;Elegant decor;Soft music
+
+Question:When did the joint research project between Ma Dan and Li Jing begin? ❌
+Correct Answer:May 12; 2021
+Given ResponseSoil Science Congress; June 10, 2022
+
+Question:What did Ma Dan and Zhang Wei see when they arrived at the pier? ❌
+Correct Answer:Crowds; Tourists; Boats; Sacrificial rituals
+Given ResponseSoil; Pollution; Analysis; Control
+
+Question:What was the deepest feeling that Madan and his roommates felt after participating in the sacrificial activities? ❌
+Correct Answer:Affection; Loved ones
+Given ResponseHappiness; Appreciation; Experience; Insight; Inspiration
+
+Question:Who is Dandan&#39;s brother? ❌
+Correct Answer:Jack Ma
+Given ResponseMa Dan
+
+Question:What is Zhang Wei&#39;s occupation? ❌
+Correct Answer:Agricultural;Scientist
+Given ResponseAgricultural scientist
+
+Question:What is the relationship between Ma Dan and Zhang Wei? ❌
+Correct Answer:Friends
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What kind of proposal story has Madan heard? ❌
+Correct Answer:Touching; Proposal; Private screening
+Given ResponseSoil; Ecosystem; Protection
+
+Question:Li Xian&#39;s guidance and support enabled Dandan to participate in which plan? ❌
+Correct Answer:COVID-19; Vaccination; Plan
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What topics did Ma Dan and Liu Ming discuss? ✅
+Correct Answer:Soil; Ecosystems; Research; Protection
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What kind of activities did Wang Ming hold? ❌
+Correct Answer:Farm reception
+Given ResponseSoil; Ecosystem; Protection
+
+Question:Why did Ma Dan seek advice and help from Zhang Wei? ❌
+Correct Answer:Wedding; Decision
+Given ResponseSoil; Ecosystem; Protection
+
+Question:In this tasting, which tea do you particularly recommend? ❌
+Correct Answer:Longjing Charm
+Given ResponseSoil; Ecosystem; Protection
+
+Question:Where will the press conference be held? ❌
+Correct Answer:Convention center; Exhibition center
+Given ResponseInstitute; Soil Science; University
+
+Question:What kind of crowd did the press conference attract? ✅
+Correct Answer:Game enthusiasts; Media
+Given ResponseGame enthusiasts; Media
+
+Question:Who is Wang Ming? ❌
+Correct Answer:Dandan's neighbor; Farm
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What is the relationship between Li Xian and Dandan? ❌
+Correct Answer:Mentor; Research guidance; Soil science
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What kind of people did the exhibition attract? ❌
+Correct Answer:Art lovers; Cultural scholars
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What impressions did Ma Dan and Zhang Li have of the banquet hall? ❌
+Correct Answer:Beautiful gardens; Exquisite decoration
+Given ResponseLuxurious; Romantic; Unique charm
+
+Question:What is the relationship between Ma Dan and Liu Ming? ❌
+Correct Answer:Classmates;College
+Given ResponseColleagues
+
+Question:What abilities did Wang Ming demonstrate during the event? ❌
+Correct Answer:Teamwork; Problem-solving
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What research and understanding does Madan have on soil? ❌
+Correct Answer:Soil protection; Soil utilization
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What is the relationship between Dandan and Yang Chen? ❌
+Correct Answer:Strangers; First meeting; Academic conference
+Given ResponseFoundation; Future research collaboration
+
+Question:What kind of knowledge did Ma Dan and Zhang Lei share in community activities? ✅
+Correct Answer:Soil ecosystems; Environmental protection
+Given ResponseSoil; Ecosystem; Protection
+
+Question:What have Ma Dan and Zhang Lei added to the cause of environmental protection? ❌
+Correct Answer:Positive energy
+Given ResponseSoil; Ecosystem; Protection
+
+Question:How did Madan react to Wang Ming’s farm demonstration event? ✅
+Correct Answer:Interested; Farm demonstration
+Given ResponseInterested; Farm demonstration
+
+Question:Madan, how do they collaborate and advance their work in the &quot;Soil Ecosystem Protection and Restoration&quot; project? ❌
+Correct Answer:Communication; Cooperation; Weekly meetings; Discuss progress; Share experiences; Solve problems
+Given ResponseCooperation; Academic exchanges; Research collaboration
+
+Question:What systems are installed in the heating ventilation and air conditioning project at the Park Hyatt Residences? ❌
+Correct Answer:Intelligent automatic control
+Given ResponseCentral air-conditioning;Refrigeration;Fresh air system
+
+Question:What brand of equipment is used for the cooling water circulation pump in Park Hyatt Apartments? ✅
+Correct Answer:Grundfos;TPE
+Given ResponseGrundfos;TPE
+
+Question:How much yuan does Xiao Ming need to pay to join the group tour? ✅
+Correct Answer:798 yuan
+Given Response798 yuan
+
+Question:What do Kong Tingting and Sister Li have a deeper understanding of the cosmic background radiation? ✅
+Correct Answer:Gilbert oscillation;Anisotropic power spectrum
+Given ResponseGilbert oscillation;Anisotropic power spectrum
+
+Question:How did Mr. Zhang help Kong Tingting build her confidence? ✅
+Correct Answer:Community activities
+Given ResponseCommunity activities
+
+Question:After Kong Tingting leaves, will Sister Li continue to take care of her and her family? ❌
+Correct Answer:Sister Li;Continue;Care;Kong Tingting;Family
+Given ResponseYes;Help;Kong Tingting’s family
+
+Question:Why does Sister Li deserve to be respected? ❌
+Correct Answer:Support;Help
+Given ResponseCare;Support
+
+Question:Does Uchiha Sasuke play an important role in the plot? ✅
+Correct Answer:Uchiha Sasuke;Important role
+Given ResponseUchiha Sasuke;Important role
+
+Question:What will the investment help ABC Company achieve? ✅
+Correct Answer:Expand market;Strengthen R&D;Technical capabilities;Product innovation
+Given ResponseExpand market;Strengthen R&D;Technical capabilities;Product innovation
+
+Question:What does the Planck satellite documentary detail? ✅
+Correct Answer:Launch time;Main mission;Cosmic background radiation
+Given ResponseLaunch time;Main mission;Cosmic background radiation
+
+Question:In this case, who is Kong Tingting? ✅
+Correct Answer:Student;Special educational needs
+Given ResponseStudent;Special educational needs
+
+Question:What is the relationship between Kong Tingting and Sister Li? ✅
+Correct Answer:Neighbors;Friendship
+Given ResponseNeighbors;Friendship
+
+Question:What did Kong Tingting decide to do? ❌
+Correct Answer:FitConnect app;Exercise partners
+Given ResponseCommunity activities
+
+Question:What is Kong Tingting interested in recently? ❌
+Correct Answer:Optical materials;Metamaterials;Optical stealth
+Given ResponseFitConnect app;Exercise partners
+
+Question:What is the relationship between Kong Tingting and Li Fangfang? ✅
+Correct Answer:Family
+Given ResponseFamily
+
+Question:What does Mr. Zhang do in the community? ✅
+Correct Answer:Volunteer;Community activities
+Given ResponseVolunteer;Community activities
+
+Question:How did Kong Tingting participate in political forum activities? ❌
+Correct Answer:Li Fangfang;Political forum
+Given ResponseYouth Participation;Political Forum
+
+Question:Who does Teacher Wang lead on the special education learning journey? ✅
+Correct Answer:Kong Tingting
+Given ResponseKong Tingting
+
+Question:Which art museum does Kong Tingting think Kong Tingting likes? ✅
+Correct Answer:Uffizi Gallery
+Given ResponseUffizi Gallery
+
+Question:What is the relationship between Kong Tingting and Teacher Wang? ✅
+Correct Answer:Mentor;Student
+Given ResponseMentor;Student
+
+Question:What attracted Kong Tingting to the cathedral? ✅
+Correct Answer:Beautiful murals;Sculptures
+Given ResponseBeautiful murals;Sculptures
+
+Question:What information is displayed on the payment page? ❌
+Correct Answer:Success rate indicator
+Given ResponseFitConnect app;Exercise partners
+
+Question:Who are Kong Tingting’s volunteer friends? ❌
+Correct Answer:Mr. Zhang
+Given ResponseSister Li;Continue;Care;Kong Tingting;Family
+
+Question:What age children is suitable for &quot;Wonderful Painting Time&quot;? ✅
+Correct Answer:3-6 years
+Given Response3-6 years
+
+Question:Why did Kong Tingting go to Enderby Island to study? ✅
+Correct Answer:Education;Ecosystem;Wildlife
+Given ResponseEducation;Ecosystem;Wildlife
+
+Question:Who else did Kong Tingting meet during early education activities? ❌
+Correct Answer:Other children
+Given ResponsePolitical science professors;Social activists;Government representatives
+
+Question:XX Capital recently invested in ABC Company. Will this have any impact on their community? ❌
+Correct Answer:Better products
+Given ResponseYes;Help;Kong Tingting;Family
+
+Question:What are the broad applications of metamaterials in other fields? ❌
+Correct Answer:Optical communications;Optical device manufacturing
+Given ResponseOptical materials;Metamaterials;Optical stealth
+
+Question:What is Kong Tingting’s favorite part of early education activities? ❌
+Correct Answer:Art exhibitions;Paintings;Landscape painting
+Given ResponseCommunity activities
+
+Question:Is metamaterial research one of the most interesting directions in the field of optical science? ✅
+Correct Answer:Metamaterial;Optical science
+Given ResponseMetamaterials;Optical science
+
+Question:What is the name of the early childhood education activity that Kong Tingting participated in? ✅
+Correct Answer:Wonderful Painting Time
+Given ResponseWonderful Painting Time
+
+Question:What does the ventilation and air conditioning system of Park Hyatt Residence include? ✅
+Correct Answer:Central air-conditioning;Refrigeration;Fresh air system
+Given ResponseCentral air-conditioning;Refrigeration;Fresh air system
+
+Question:How much is the original price of this watch? ✅
+Correct Answer:999 yuan
+Given Response999 yuan
+
+Question:What is the purpose of early education activities? ✅
+Correct Answer:Creativity;Cognitive abilities;Painting;Parent-child interaction
+Given ResponseCreativity;Cognitive abilities;Painting;Parent-child interaction
+
+Question:When does Xiao Ming decide to pay the group fare? ❌
+Correct Answer:Immediately
+Given Response798 yuan
+
+Question:Does Sister Li often help Kong Tingting and her family? ❌
+Correct Answer:Yes;Helps;Kong Tingting;Family
+Given ResponseYes;Help;Kong Tingting;Family
+
+Question:Will Kong Tingting go to Sister Li? ✅
+Correct Answer:Go;Sister Li
+Given ResponseGo;Sister Li
+
+Question:How does Mr. Zhang encourage Kong Tingting to overcome difficulties? ❌
+Correct Answer:Encouragement
+Given ResponseCommunity activities
+
+Question:What brand of equipment is used in the full heat exchange air treatment unit? ✅
+Correct Answer:Daikin;HeatRecovery Ventilator
+Given ResponseDaikin;HeatRecovery Ventilator
+
+Question:What preparations has Kong Tingting made? ❌
+Correct Answer:Hiking shoes
+Given ResponseFitConnect app;Exercise partners
+
+Question:Who is Mr. Zhang? ❌
+Correct Answer:Volunteer;Kong Tingting;Community
+Given ResponseMr. Zhang
+
+Question:How did Teacher Wang teach and help Kong Tingting master this case? ❌
+Correct Answer:Personalized guidance;Interests;Analysis skills
+Given ResponseMentor;Student
+
+Question:What relationship was explored in Frankfurt&#39;s Butterfly Effect? ✅
+Correct Answer:Moral responsibility;Free will
+Given ResponseMoral responsibility;Free will
+
+Question:What are the other features of the FitConnect platform? ❌
+Correct Answer:Health advice
+Given ResponseCommunity activities
+
+Question:What did Mr. Zhang explain to Kong Tingting? ✅
+Correct Answer:Functions;Usage;FitConnect app
+Given ResponseFunctions;Usage;FitConnect app
+
+Question:What activities did Kong Tingting participate in yesterday afternoon? ❌
+Correct Answer:Youth Participation;Political Forum
+Given ResponseCommunity activities
+
+Question:What kind of progress has Kong Tingting made through Mr. Zhang’s care and help? ❌
+Correct Answer:Potential;Study;Life
+Given ResponseSelf-confidence;Interpersonal relationships
+
+Question:What activities are they planning to attend? ❌
+Correct Answer:Volunteer activity;Volunteer
+Given ResponseCommunity activities
+
+Question:What did Kong Tingting use to touch Botticelli&#39;s &quot;The Birth of Venus&quot;? ✅
+Correct Answer:hand
+Given Responsehand
+
+Question:Which period of art did Kong Tingting become interested in? ❌
+Correct Answer:Renaissance
+Given ResponseBeautiful murals;Sculptures
+
+Question:Who created the character Sasuke Uchiha? ✅
+Correct Answer:Masashi Kishimoto
+Given ResponseMasashi Kishimoto
+
+Question:What are Teacher Wang&#39;s responsibilities? ❌
+Correct Answer:Help;Overcome learning difficulties
+Given ResponseMentor;Student
+
+Question:Why did Mr. Zhang invite Kong Tingting to participate in community activities? ❌
+Correct Answer:Self-confidence;Interpersonal relationships
+Given ResponseCommunity activities
+
+Question:What does Kong Tingting think she gained from participating in early childhood education activities? ❌
+Correct Answer:Social skills
+Given ResponseCommunity activities
+
+Question:What blessings does Kong Tingting’s neighbor have for Tina? ❌
+Correct Answer:Smooth trip
+Given ResponseSister Li;Continue;Care;Kong Tingting;Family
+
+Question:How do children learn drawing skills and color matching? ✅
+Correct Answer:Observation;Imitation;Creation
+Given ResponseObservation;Imitation;Creation
+
+Question:In which year did XX Capital invest in ABC Company? ✅
+Correct Answer:2018
+Given Response2018
+
+Question:What functions are realized through the intelligent automatic control system? ❌
+Correct Answer:Temperature;Humidity;Wind speed;Fresh air volume
+Given ResponseIntelligent automatic control
+
+Question:Where are we going on our special education learning journey? ✅
+Correct Answer:Enderby Island
+Given ResponseEnderby Island
+
+Question:How did Sister Li help Kong Tingting&#39;s family? ❌
+Correct Answer:Care;Advice;Support
+Given ResponseSister Li;Continue;Care;Kong Tingting;Family
+
+Question:What does Kong Tingting think is the most valuable thing to learn from Teacher Wang? ❌
+Correct Answer:Trust;Respect
+Given ResponseGilbert oscillation;Anisotropic power spectrum
+
+Question:What kind of group-buying activities has been launched by a certain shopping platform? ❌
+Correct Answer:GroupGo
+Given ResponseCommunity activities
+
+Question:Kong Tingting Want to participate in more astronomy activities? ✅
+Correct Answer:Astronomy activities
+Given ResponseAstronomy activities
+
+Question:Why does Sister Li always treat Kong Tingting very well? ❌
+Correct Answer:Kindness;Compassion;Help others;Care
+Given ResponseSister Li;Continue;Care;Kong Tingting;Family
+
+Question:Why use &#39;Grundfos Magna3&#39; series of devices? ❌
+Correct Answer:Hot water
+Given ResponseIntelligent automatic control
+
+Question:What experimental case did Kong Tingting discuss in today&#39;s special education class? ❌
+Correct Answer:Frankfurt;Butterfly Effect
+Given ResponseSpecial educational needs
+
+Question:Who serves as Kong Tingting’s special education tutor? ✅
+Correct Answer:Teacher Wang
+Given ResponseTeacher Wang
+
+Question:What is the significance of XX Capital establishing a long-term strategic partnership with ABC Company? ❌
+Correct Answer:Regulatory policies;Financial products;Customer resources;Opportunities;Resources
+Given ResponseExpand market;Strengthen R&D;Technical capabilities;Product innovation
+
+Question:Is Kong Tingting a student with special educational needs? ❌
+Correct Answer:Special educational needs
+Given ResponseYes;Help;Kong Tingting;Family
+
+Question:Who is Ms. Li? ❌
+Correct Answer:Kong Tingting
+Given ResponseSister Li
+
+Question:What technology does Park Hyatt Residence use when it comes to heating? ❌
+Correct Answer:Ground source;Heat pump
+Given ResponseCentral air-conditioning;Refrigeration;Fresh air system
+
+Question:Which application did Mr. Zhang introduce to Kong Tingting? ❌
+Correct Answer:FitConnect
+Given ResponseFitConnect app;Exercise partners
+
+Question:What changes does Kong Tingting think that participating in early childhood education activities has brought to Kong Tingting? ❌
+Correct Answer:Confidence;Social
+Given Responsecommunity activities;kong tingting;life;growth
+
+Question:What is the role of Teacher Wang? ❌
+Correct Answer:Special education tutor
+Given ResponseMentor;Student
+
+Question:Which two artists&#39; works did Kong Tingting appreciate at the Pitti Palace? ❌
+Correct Answer:Raphael;Monterosso
+Given ResponseBeautiful murals;Sculptures
+
+Question:Why does Mr. Zhang care about Kong Tingting? ❌
+Correct Answer:Special educational needs
+Given ResponseCommunity activities
+
+Question:What is Kong Tingting’s impression of Frankfurt’s butterfly effect experimental case? ✅
+Correct Answer:Deeply impressed;Free will;Restricted
+Given ResponseDeeply impressed;Free will;Restricted
+
+Question:Does Sister Li still help Kong Tingting’s family? ✅
+Correct Answer:Yes;Help;Kong Tingting’s family
+Given ResponseYes;Help;Kong Tingting’s family
+
+Question:What can the FitConnect app offer Kong Tingting? ❌
+Correct Answer:Social platform
+Given ResponseFitConnect app;Exercise partners
+
+Question:What guidance and encouragement did Kong Tingting get from the forum this morning? ❌
+Correct Answer:Social activists;Government representatives
+Given ResponsePolitical science professors;Social activists;Government representatives
+
+Question:What did Kong Tingting become interested in? ❌
+Correct Answer:Metamaterials
+Given ResponseOptical materials;Metamaterials;Optical stealth
+
+Question:Which activity has Xiao Ming become a member of? ✅
+Correct Answer:GroupGo
+Given ResponseGroupGo
+
+Question:What is the relationship between Teacher Wang and Kong Tingting? ❌
+Correct Answer:Tutor
+Given ResponseMentor;Student
+
+Question:What did Kong Tingting and Xiao Ming read in the book? ✅
+Correct Answer:Metamaterials;Optical stealth;Case studies
+Given ResponseOptical materials;Metamaterials;Optical stealth
+
+Question:What role does Mr. Zhang play in the community? ❌
+Correct Answer:community activities;kong tingting;life;growth
+Given ResponseVolunteer;Community activities
+
+Question:What kind of person does Kong Tingting think Sister Li is? ❌
+Correct Answer:Good neighbor
+Given ResponseSupport;Help
+
+Question:What information is displayed on a certain shopping platform? ❌
+Correct Answer:Watch products;GroupGo
+Given ResponseFitConnect app;Exercise partners
+
+Question:What attracted Xiao Ming to? ❌
+Correct Answer:Group buying
+Given ResponseOptical materials;Metamaterials;Optical stealth
+
+Question:Who is Li Fangfang to Kong Tingting? ✅
+Correct Answer:Cousin
+Given ResponseCousin
+
+Question:What notification will Xiao Ming receive after successful payment? ❌
+Correct Answer:3 days
+Given ResponseGroupGo
+
+Question:Who is Kong Tingting? ✅
+Correct Answer:Kong Tingting;Community
+Given ResponseKong Tingting;Community
+
+Question:What did Li Fangfang encourage Kong Tingting to do in the forum? ✅
+Correct Answer:Participate;Community projects;Political decisions
+Given ResponseParticipate;Community projects;Political decisions
+
+Question:What practical help did Kong Tingting get from the forum this afternoon? ❌
+Correct Answer:Political science professors;Social activists;Government representatives
+Given ResponseFitConnect app;Exercise partners
+
+Question:What brand of equipment is used in the ground source heat pump unit of Park Hyatt Apartment? ✅
+Correct Answer:Yokohama;Earth2Earth
+Given ResponseYokohama;Earth2Earth
+
+Question:What product does Xiao Ming want to buy? ✅
+Correct Answer:Smart watch
+Given ResponseSmart watch
+
+Question:Metamaterial shells could make aircraft virtually undetectable in what tests? ❌
+Correct Answer:Infrared;Radar
+Given ResponseOptical stealth
+
+Question:What does Sister Li know about Kong Tingting&#39;s situation? ❌
+Correct Answer:Special educational needs;Student
+Given ResponseSister Li;Continue;Care;Kong Tingting;Family
+
+Question:What early education activities did Kong Tingting participate in? ❌
+Correct Answer:Wonderful Painting Time
+Given ResponseCommunity activities
+
+Question:Where did Kong Tingting go to climb the stairs? ❌
+Correct Answer:Cathedral
+Given ResponseCommunity activities
+
+Question:What is included in the heating system at Park Hyatt Apartments? ❌
+Correct Answer:Radiator
+Given ResponseCentral air-conditioning;Refrigeration;Fresh air system
+
+Question:What is the relationship between Xiong Fei and Chen Hua? ❌
+Correct Answer:Neighbors
+Given ResponseArt
+
+Question:What did Xiong Fei and Wang Li think this visit enriched? ❌
+Correct Answer:Buddhism;History;Understanding
+Given ResponseUnderstanding
+
+Question:Can we meet in the Sutton Place Hotel restaurant? ✅
+Correct Answer:Sutton Place Hotel;Restaurant;Meet
+Given ResponseSutton Place Hotel;Restaurant;Meet
+
+Question:What brands of lamps and display stands are recommended? ✅
+Correct Answer:MaQiu;Oma Sirocco
+Given ResponseMaQiu;Oma Sirocco
+
+Question:On what platform did Xiong Yan and Sarah Lee start their professional exchanges? ✅
+Correct Answer:ConnexPro
+Given ResponseConnexPro
+
+Question:What content did Ms. Zhang share during the course? ✅
+Correct Answer:Parenting skills;Educational concepts;Resistance;Self-protection awareness
+Given ResponseParenting skills;Educational concepts;Resistance;Self-protection awareness
+
+Question:Who are the supporting characters? ❌
+Correct Answer:Wang Li
+Given ResponseXiong Yan;Threatened;Attacked
+
+Question:Xiaofei asked Wang Min if he was suitable to join Meet World? ✅
+Correct Answer:Xiaofei;Wang Min;Meet World;Suitable
+Given ResponseXiaofei;Wang Min;Meet World;Suitable
+
+Question:What are Wang Min’s expectations for Xiong Fei’s future? ✅
+Correct Answer:Outstanding;Biomedical;Scientist
+Given ResponseOutstanding;Biomedical;Scientist
+
+Question:How do Xiong Fei and Wang Li handle their respective careers and interests? ✅
+Correct Answer:Respect;Support;Cooperation
+Given ResponseRespect;Support;Cooperation
+
+Question:What is the theme of the exchange between Xiong Fei and Li Li? ❌
+Correct Answer:Art
+Given ResponseGoogle Assistant;Medical knowledge;Treatments;Medications
+
+Question:Which country is Wang Min from? ✅
+Correct Answer:China
+Given ResponseChina
+
+Question:Was Xiong Fei&#39;s sister also threatened? ✅
+Correct Answer:Xiong Yan;Threatened;Attacked
+Given ResponseXiong Yan;Threatened;Attacked
+
+Question:After the auction, what kind of interest did Xiong Fei&#39;s neighbor Chen Hua have in the cartoon materials and related artworks of &quot;Leon Forever&quot;? ❌
+Correct Answer:Collect
+Given ResponseAnimation art;Collection culture
+
+Question:What does Xiong Fei think of Xiong Fei&#39;s performance in making handicrafts? ❌
+Correct Answer:Patient guidance;Wang Min
+Given ResponseArtistic talent;Handicrafts
+
+Question:Why does Xiong Fei think that cooperation with Zhang Qiang is beneficial to project application? ✅
+Correct Answer:Better solutions;Nanoparticle polymer;Solar cells
+Given ResponseBetter solutions;Nanoparticle polymer;Solar cells
+
+Question:What did Xiong Fei show under Wang Min&#39;s guidance? ✅
+Correct Answer:Artistic talent;Handicrafts
+Given ResponseArtistic talent;Handicrafts
+
+Question:Did Xiong Fei and Zhang Qiang finally succeed in applying the technology to practical fields and achieve results? ❌
+Correct Answer:Nanoparticle;Polymer;Solar cell;Photovoltaic;Power generation
+Given ResponseYes
+
+Question:What is the relationship between Xiao Fei and Wang Min? ✅
+Correct Answer:Mentor
+Given ResponseMentor
+
+Question:Why did Xiong Yan feel that establishing a connection with Sarah Lee might provide opportunities for mutual learning and cooperation? ✅
+Correct Answer:Senior marketing manager
+Given ResponseSenior marketing manager
+
+Question:What are Wang Min&#39;s physical characteristics? ❌
+Correct Answer:Tall;Medium-long hair
+Given ResponseOutstanding;Biomedical;Scientist
+
+Question:Why was Xiong Fei shocked by this discussion? ❌
+Correct Answer:Vivid descriptions;M. Fabiny;Jean Varza
+Given ResponseBuddhism;History;Understanding
+
+Question:What formula did Xiong Fei use to explain the method of calculating the area of a triangle? ✅
+Correct Answer:Heron's formula
+Given ResponseHeron's formula
+
+Question:What fashion show did Zhang Qiang attend? ✅
+Correct Answer:Louis Vuitton;Fashion show
+Given ResponseLouis Vuitton;Fashion show
+
+Question:What gains did Li Ming and Xiao Fei bring to Xiao Fei through the process of discussing and selecting home decoration plans? ✅
+Correct Answer:Deeper understanding;Home decoration;Modern living room
+Given ResponseDeeper understanding;Home decoration;Modern living room
+
+Question:Why does Xiaofei think Meet World has an impact on social circles and the field of making friends? ✅
+Correct Answer:Age differences;Social circles;Friendships;Like-minded;Partners
+Given ResponseAge differences;Social circles;Friendships;Like-minded;Partners
+
+Question:What does Musical Dedication explore? ❌
+Correct Answer:Music theory;Expression
+Given ResponseMusic
+
+Question:How did the AI assistant introduce Google Assistant to Li Li? ✅
+Correct Answer:Google Assistant;Painters;Painting techniques;Terminology
+Given ResponseGoogle Assistant;Painters;Painting techniques;Terminology
+
+Question:What is the relationship between Xiong Fei and Li Li? ✅
+Correct Answer:Community members
+Given ResponseCommunity members
+
+Question:Regarding the flower elements in wallpaper and sticker design, can Xiong Fei introduce us to some design concepts and techniques? ❌
+Correct Answer:Pattern design;Hierarchy;Proportion
+Given ResponseFloral;Peanut trees;Flowers;Light and shadow;Color matching
+
+Question:How does AI assistant assist Xiong Fei in searching for cancer-related information? ✅
+Correct Answer:Google Assistant;Medical knowledge;Treatments;Medications
+Given ResponseGoogle Assistant;Medical knowledge;Treatments;Medications
+
+Question:What is Zhang Lei&#39;s hobby? ✅
+Correct Answer:Running;Swimming
+Given ResponseRunning;Swimming
+
+Question:What kind of behavior does citizens express their personal opinions through criticism? ❌
+Correct Answer:Criticism
+Given ResponseXiong Yan;Threatened;Attacked
+
+Question:Where did Xiong Fei and Liu Fang see the sculpture &quot;Embryo&quot;? ❌
+Correct Answer:Art exhibition
+Given ResponseArt
+
+Question:Why were Xiong Fei and Liu Fang amazed by the sculpture &quot;Embryo&quot;? ❌
+Correct Answer:Craftsmanship
+Given ResponseArt
+
+Question:What words did the Constitutional Court note that citizens used in their speech? ❌
+Correct Answer:Malicious words
+Given ResponseXiong Yan;Threatened;Attacked
+
+Question:Why did Chen Hua specially invite Xiong Fei to share his collection experience and the charm of &quot;Forever Leon&quot;? ❌
+Correct Answer:Influence;Uniqueness;Forever Leon
+Given ResponseAnimation art;Collection culture
+
+Question:In addition to Helen&#39;s formula, which method did Xiong Fei mention to calculate the area of a triangle? ✅
+Correct Answer:Vector;Cross product
+Given ResponseVector;Cross product
+
+Question:What did Xiong Fei discuss with his friends at that college party? ❌
+Correct Answer:Les Misérables;French society;19th century
+Given ResponseNanoparticle;Polymer;Solar cell;Photovoltaic;Power generation
+
+Question:What building in Paris did Xiao Fei and community member Li Li decide to visit? ✅
+Correct Answer:Notre Dame
+Given ResponseNotre Dame
+
+Question:What does Xiong Fei think of the entire decoration plan? ❌
+Correct Answer:Perfect;Looking forward
+Given ResponseDeeper understanding;Home decoration;Modern living room
+
+Question:What is the relationship between Xiong Fei and Wang Min? ✅
+Correct Answer:Mentor
+Given ResponseMentor
+
+Question:How did Xiong Fei respond to Zhang Qiang’s interest in biomedical projects? ❌
+Correct Answer:Willingness;Further exchanges;Cooperation
+Given ResponseOutstanding;Biomedical;Scientist
+
+Question:Which Buddha statue in the temple impressed Xiong Fei and Wang Li the most? ❌
+Correct Answer:Sakyamuni
+Given ResponseArt
+
+Question:What is Li Li&#39;s occupation? ❌
+Correct Answer:Teacher
+Given ResponseArt
+
+Question:What are Xiong Fei and Wang Li particularly passionate about? ✅
+Correct Answer:Music
+Given ResponseMusic
+
+Question:I hope we can cooperate happily. ❌
+Correct Answer:Cooperation
+Given ResponseRespect;Support;Cooperation
+
+Question:What did visiting Notre Dame make Xiao Fei and Li Li value more? ❌
+Correct Answer:Cultural heritage
+Given ResponseArt
+
+Question:Is Xiong Fei willing to cooperate with Zhang Qiang? ✅
+Correct Answer:Willing;Cooperate;Zhang Qiang
+Given ResponseWilling;Cooperate;Zhang Qiang
+
+Question:What advice did Li Ming give Xiaofei about furniture selection? ❌
+Correct Answer:Bedroom furniture set;German brand;Movinia
+Given ResponseMaQiu;Oma Sirocco
+
+Question:Does Xiong Fei agree with the AI assistant’s suggestion? ❌
+Correct Answer:Yes
+Given ResponseRespect;Support;Cooperation
+
+Question:What status does Xiong Fei think the work &quot;Embryo&quot; presents? ✅
+Correct Answer:True state;Newborn baby
+Given ResponseTrue state;Newborn baby
+
+Question:What is Xiong Fei’s reaction to Li Li’s creative achievements? ❌
+Correct Answer:Praise;Biomedical science;Research results
+Given ResponseRespect;Support;Cooperation
+
+Question:What kind of precious collection does Chen Hua regard this work as, and is he proud of it? ✅
+Correct Answer:Animation;Collection;Proud
+Given ResponseAnimation art;Collection;Proud
+
+Question:How did Wiles apply the model to the proof? ✅
+Correct Answer:Elliptic curves;Spectral theory;Fermat's last theorem
+Given ResponseElliptic curves;Spectral theory;Fermat's last theorem
+
+Question:What contact information did Xiong Fei and Zhang Qiang exchange? ✅
+Correct Answer:Contact information
+Given ResponseContact information
+
+Question:What is the brand of furniture? ✅
+Correct Answer:Movinia;German
+Given ResponseMovinia;German
+
+Question:Ultimately, how does the court rule on this citizen’s speech? ❌
+Correct Answer:Freedom of speech
+Given ResponseXiong Yan;Threatened;Attacked
+
+Question:Why is Zhang Qiang interested in Xiong Fei’s project? ❌
+Correct Answer:Nanoparticle;Polymer;Solar cell
+Given ResponseBetter solutions;Nanoparticle polymer;Solar cells
+
+Question:What brand of wool carpet does the AI assistant recommend? ✅
+Correct Answer:Yamura
+Given ResponseYamura
+
+Question:How does Li Li talk to Google Assistant? ❌
+Correct Answer:Google Assistant;Inspiration
+Given ResponseGoogle Assistant;Painters;Painting techniques;Terminology
+
+Question:What did he wear in the fashion show? ❌
+Correct Answer:Peaked cap;Shoulder bag;Photographic equipment
+Given ResponseLouis Vuitton;Fashion show
+
+Question:By participating in this training, Xiong Fei and Liu Fang have a deeper understanding of whose growth? ✅
+Correct Answer:Liangliang
+Given ResponseLiangliang
+
+Question:What does Zhang Qiang carry with him? ❌
+Correct Answer:Photographic equipment
+Given ResponsePeaked cap;Shoulder bag;Photographic equipment
+
+Question:What does Liu Fang think the work &quot;Embryo&quot; expresses? ✅
+Correct Answer:Human existence;Reflection
+Given ResponseHuman existence;Reflection
+
+Question:How to connect with Sarah Lee? ❌
+Correct Answer:ConnexPro;Introduction;Interests;Professional background
+Given ResponseConnexPro
+
+Question:What importance does Xiong Fei think computational geometry has in practical applications? ✅
+Correct Answer:Important;Practical applications
+Given ResponseImportant;Practical applications
+
+Question:What is Fermat&#39;s last theorem? ❌
+Correct Answer:Fermat's Last Theorem;Integer
+Given ResponseElliptic curves;Spectral theory;Fermat's last theorem
+
+Question:When can we choose to meet? ❌
+Correct Answer:Dinner;Restaurant;Sutton Place Hotel
+Given ResponseSutton Place Hotel;Restaurant;Meet
+
+Question:What are the supporting characters’ hobbies? ❌
+Correct Answer:Music
+Given ResponseRunning;Swimming
+
+Question:Where does Xiong Fei come from? ✅
+Correct Answer:China
+Given ResponseChina
+
+Question:What did Teacher Wang Min encourage Xiong Fei to do after the activity? ❌
+Correct Answer:Biomedical science;Study;In depth
+Given ResponseOutstanding;Biomedical;Scientist
+
+Question:What is the purpose of the biomedical project that Xiong Fei and his classmates collaborated on? ❌
+Correct Answer:Research;New treatments
+Given ResponseOutstanding;Biomedical;Scientist
+
+Question:What did he witness? ❌
+Correct Answer:Holographic projection
+Given ResponseCommunity members
+
+Question:Would you like to make an appointment to communicate together next time? ❌
+Correct Answer:Next time
+Given ResponseXiaofei;Wang Min;Meet World;Suitable
+
+Question:How did the government respond to this citizen’s comments? ❌
+Correct Answer:Constitutional Court
+Given ResponseCriticism
+
+Question:What are the nationalities of the supporting characters? ❌
+Correct Answer:Chinese
+Given ResponseChina
+
+Question:What are the stranger’s hobbies? ✅
+Correct Answer:Running;Swimming
+Given ResponseRunning;Swimming
+
+Question:Why does Li Ming recommend these brands of floors and carpets to Xiaofei? ❌
+Correct Answer:Material quality;Design style;Excellent
+Given ResponseDeeper understanding;Home decoration;Modern living room
+
+Question:Who does the Global Marketing Summit event attract? ✅
+Correct Answer:Industry professionals;Marketing leaders;Experts
+Given ResponseIndustry professionals;Marketing leaders;Experts
+
+Question:In what way did Li Li display her paintings? ❌
+Correct Answer:Community
+Given ResponseArt exhibition
+
+Question:What did Xiao Fei and Wang Li share about their respective musical themes of &quot;Music Dedication&quot;? ❌
+Correct Answer:Understand;Feel
+Given ResponseMusic theory;Expression
+
+Question:Xiong Fei emphasized that such discussions allowed them to understand each other better and have a deeper spiritual connection. ✅
+Correct Answer:Understand each other;Spiritual connection
+Given ResponseUnderstand each other;Spiritual connection
+
+Question:Which animator drew Leon&#39;s original painting? ✅
+Correct Answer:Li Ming
+Given ResponseLi Ming
+
+Question:Is Li Li interested in this feature? ❌
+Correct Answer:Interested
+Given ResponseGoogle Assistant;Painters;Painting techniques;Terminology
+
+Question:What characteristics make Xiaofei interested in Notre Dame? ✅
+Correct Answer:Architectural art;Religious culture;Medieval period
+Given ResponseArchitectural art;Religious culture;Medieval period
+
+Question:Would Xiong Fei be willing to hear an example about calculating the area of a triangle? ❌
+Correct Answer:Willing;Area;Triangle
+Given ResponseYes
+
+Question:Why is the proof of Fermat&#39;s Last Theorem considered an important milestone in mathematics? ❌
+Correct Answer:Milestone
+Given ResponseElliptic curves;Spectral theory;Fermat's last theorem
+
+Question:What impact did the sculpture &quot;Embryo&quot; have on Xiong Fei and Liu Fang? ❌
+Correct Answer:Career development;Outlook on life
+Given ResponseArt
+
+Question:What is the nationality of the stranger? ❌
+Correct Answer:Chinese
+Given ResponseChina
+
+Question:What did this exchange bring to Xiong Fei and Li Li? ✅
+Correct Answer:Wallpaper;Sticker design;Academic exchange
+Given ResponseWallpaper;Sticker design;Academic exchange
+
+Question:How complex is Wiles&#39; proof? ❌
+Correct Answer:In-depth derivation
+Given ResponseDeeper understanding;Home decoration;Modern living room
+
+Question:What musical works did Xiong Fei introduce to Wang Li? ✅
+Correct Answer:Bach;Musical Offering
+Given ResponseBach;Musical Offering
+
+Question:What is the relationship between Xiong Fei and Liu Fang? ❌
+Correct Answer:Colleagues
+Given ResponseArt
+
+Question:What occupation does Li Li hold in the community? ❌
+Correct Answer:Teacher
+Given ResponseArt
+
+Question:What are the results of empirical research on science clubs? ✅
+Correct Answer:67%;Science Club;Quantum mechanics
+Given Response67%;Science Club;Quantum mechanics
+
+Question:Can you describe in detail the design of the Flowers Falling Wallpaper? ✅
+Correct Answer:Floral;Peanut trees;Flowers;Light and shadow;Color matching
+Given ResponseFloral;Peanut trees;Flowers;Light and shadow;Color matching
+
+Question:What decorations line the long corridors of Notre Dame? ❌
+Correct Answer:Murals;Sculptures;Paintings
+Given ResponseArt
+
+Question:Why did Xiong Fei invite Zhang Qiang to visit the laboratory? ❌
+Correct Answer:Photovoltaic
+Given ResponseBetter solutions;Nanoparticle polymer;Solar cells
+
+Question:What content did Xiong Fei and Chen Hua begin to communicate and discuss? ✅
+Correct Answer:Animation art;Collection culture
+Given ResponseAnimation art;Collection culture
+
+Question:How does Zhao Hua choose the raw materials for tea? ❌
+Correct Answer:Fresh leaves; Young leaves
+Given ResponseFresh tea leaves
+
+Question:What did He Feng and Wang Li do on the last day of the celebration? ❌
+Correct Answer:Carried wings; Sacred site; Final prayers; Blessings
+Given ResponseFun day; Activities; Delicious food
+
+Question:Why has &quot;Game of Thrones&quot; aroused great interest from global audiences? ✅
+Correct Answer:Complex plot; Rich characters
+Given ResponseComplex plot; Rich characters
+
+Question:Why does XYZ Bank set different interest rates for different types of personal loans? ✅
+Correct Answer:Risk; Needs; Loan types
+Given ResponseRisk; Needs; Loan types
+
+Question:What are the conditions for the emergence of Bose-Einstein condensation of cold atomic gases? ✅
+Correct Answer:Low temperature; High density
+Given ResponseLow temperature; High density
+
+Question:Is He Feng&#39;s conclusion on the mechanism of black hole activity still recognized by the modern astronomical community? ✅
+Correct Answer:Recognized; Black hole activity; High-energy matter loss
+Given ResponseRecognized; Black hole activity; High-energy matter loss
+
+Question:What is the atmosphere like at team dinners? ✅
+Correct Answer:Enthusiasm; Expectations; Lively
+Given ResponseEnthusiasm; Expectations; Lively
+
+Question:What does the Animal Party mean to Mr. Chen and the children? ✅
+Correct Answer:Parent-child event; Closer; Happier
+Given ResponseParent-child event; Closer; Happier
+
+Question:What content in the work did He Feng and Mr. Zhang discuss? ✅
+Correct Answer:Exciting plot; Rooted characters; Suspense; Reasoning
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What do the bride and groom hold up at their wedding? ✅
+Correct Answer:Golden wedding ring; Louis Vuitton
+Given ResponseGolden wedding ring; Louis Vuitton
+
+Question:Why did Zhao Hua choose fresh milk? ✅
+Correct Answer:Fresh milk; Delicate; Plump
+Given ResponseFresh milk; Delicate; Plump
+
+Question:How do I contact Professor He Feng with questions about fashion or art? ✅
+Correct Answer:He Feng; Contact; Fashion; Art
+Given ResponseHe Feng; Contact; Fashion; Art
+
+Question:How is Mr. Chen playing with the children? ❌
+Correct Answer:Game; Children
+Given ResponseFun day; Activities; Delicious food
+
+Question:What color helmet is Wang Chen wearing? ✅
+Correct Answer:red
+Given Responsered
+
+Question:What is the relationship between He Feng and Wang Li? ✅
+Correct Answer:Friends
+Given ResponseFriends
+
+Question:What support did He Feng receive during his entrepreneurial journey? ❌
+Correct Answer:Mother; Land; Loans; Foundation
+Given ResponsePolicy support; Shenzhen Government; Mother’s help; Technology company
+
+Question:Who is Liu Qiang? ✅
+Correct Answer:He Feng; Working partner
+Given ResponseHe Feng; Working partner
+
+Question:What blessing did Liu Qiang express to the newlyweds at the banquet? ✅
+Correct Answer:Happiness; Best wishes
+Given ResponseHappiness; Best wishes
+
+Question:What is the Cassini-Hueygens mission? ✅
+Correct Answer:Cassini-Hueygens; ESA; Titan; Lander
+Given ResponseCassini-Hueygens; ESA; Titan; Lander
+
+Question:Did He Feng attend the team dinner on the evening of May 12, 2022? ✅
+Correct Answer:Yes; Present; May 12, 2022; Team dinner
+Given ResponseYes; Present; May 12, 2022; Team dinner
+
+Question:What does Mr. Chen do whenever research results on cold atomic gases are released? ✅
+Correct Answer:Read papers; He Feng
+Given ResponseRead papers; He Feng
+
+Question:Why does Professor Wang think this work not only embodies Chanel&#39;s classic style, but also injects the artistic atmosphere of fashion week? ✅
+Correct Answer:Chanel; Classic style; Artistic atmosphere; Fashion week
+Given ResponseChanel; Classic style; Artistic atmosphere; Fashion week
+
+Question:How does Zhao Hua’s milk tea taste? ✅
+Correct Answer:White peony; Milk tea; Very good
+Given ResponseWhite peony; Milk tea; Very good
+
+Question:Did He Feng and Mr. Zhang talk about Conan&#39;s true identity and plot development? ❌
+Correct Answer:Plot development;Important clues
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What is the name of the observed black hole? ✅
+Correct Answer:Galactic Center A*
+Given ResponseGalactic Center A*
+
+Question:What is Ms. Li’s identity in He Feng’s community? ❌
+Correct Answer:Member
+Given ResponseGene therapy; Treatment hopes; Genetic diseases
+
+Question:Do you have anything special to say at the celebration? ❌
+Correct Answer:Birth; Christ Child; Story
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What important information does this landing bring to the field of astronomy? ✅
+Correct Answer:Titan surface; Atmospheric composition
+Given ResponseTitan surface; Atmospheric composition
+
+Question:What is the highlight of the celebration? ✅
+Correct Answer:Wings; Holy Infant
+Given ResponseWings; Holy Infant
+
+Question:What measures has Russia taken in terms of cyber warfare? ✅
+Correct Answer:Critical infrastructure; Communications networks; Ukraine
+Given ResponseCritical infrastructure; Communications networks; Ukraine
+
+Question:What kind of day is He Feng looking forward to spending with his children? ❌
+Correct Answer:Fun day; Activities; Delicious food
+Given ResponseParent-child event; Closer; Happier
+
+Question:What does He Feng expect from the lecture? ✅
+Correct Answer:High expectations; Success; Gene therapy; Spread
+Given ResponseHigh expectations; Success; Gene therapy; Spread
+
+Question:How does Zhao Hua make outstanding milk tea? ✅
+Correct Answer:Fresh tea leaves; High-quality milk; Care; Attention
+Given ResponseFresh tea leaves; High-quality milk; Care; Attention
+
+Question:Which restaurant did He Feng and Zhang Ting choose to hold their dinner party? ✅
+Correct Answer:High-end restaurant; City center; Private room
+Given ResponseHigh-end restaurant; City center; Private room
+
+Question:What topics do Mr. Chen and He Feng often discuss about &quot;Game of Thrones&quot;? ✅
+Correct Answer:Plot development; Character fate; Production
+Given ResponsePlot development; Character fate; Production
+
+Question:Whose eyes did this piece catch? ❌
+Correct Answer:Professor Wang
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What kind of person is Mr. Zhang? ❌
+Correct Answer:Middle-aged; 40 years; Tall; Black hair; Kind face; Casual attire; Good spirits
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What were He Feng and Mr. Zhang talking about in the park? ❌
+Correct Answer:Detective Conan; Anime
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What is the relationship between He Feng and Mr. Chen? ❌
+Correct Answer:Neighbors
+Given ResponseFriends
+
+Question:How helpful will Ms. Li’s lectures be to community members? ❌
+Correct Answer:Gene therapy; Treatment hopes; Genetic diseases
+Given ResponseHigh expectations; Success; Gene therapy; Spread
+
+Question:What impression does He Feng have on this design called &#39;Les Grands Spectacles&#39;? ❌
+Correct Answer:Fashion;Drama
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:Interest rate adjustment is an important measure taken by XYZ Bank in response to what? ✅
+Correct Answer:Market fluctuations; Risks
+Given ResponseMarket fluctuations; Risks
+
+Question:What materials and processes are used in &#39;Les Grands Spectacles&#39;? ❌
+Correct Answer:Silk
+Given ResponseLes Grands Spectacles; Paris Fashion Week; Spring/Summer 2019; Satin; Hand embroidery
+
+Question:What functions does SafeGuard technology have against malicious information? ✅
+Correct Answer:Interception; Shielding; Privacy protection; Data security; Harassment prevention; Infringement prevention
+Given ResponseInterception; Shielding; Privacy protection; Data security; Harassment prevention; Infringement prevention
+
+Question:Can He Feng tell me about Chanel&#39;s &#39;Les Grands Spectacles&#39; collection launched at Paris Fashion Week Spring/Summer 2019? ❌
+Correct Answer:Les Grands Spectacles; Paris Fashion Week; Spring/Summer 2019; Satin; Hand embroidery
+Given ResponseChanel; Classic style; Artistic atmosphere; Fashion week
+
+Question:What are the characteristics of White Peony Milk Tea? ❌
+Correct Answer:Chinese tea; Western tea; Integration; Unique charm; Tea and food
+Given ResponseFresh tea leaves; High-quality milk; Care; Attention
+
+Question:How did He Feng and Liu Qiang solve the mystery? ❌
+Correct Answer:Sculptures; Stone carvings; Patterns; Cooperation; Communication
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:Is there any recent adjustment to the loan interest rate of XYZ Bank? ✅
+Correct Answer:Interest rate adjustment; 0.5% increase; Personal loan
+Given ResponseInterest rate adjustment; 0.5% increase; Personal loan
+
+Question:How does Ms. Li feel about traditional weddings? ✅
+Correct Answer:Attracted; Traditional weddings; Traditional culture
+Given ResponseAttracted; Traditional weddings; Traditional culture
+
+Question:What areas did the observations contribute to? ❌
+Correct Answer:Black hole; Research
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What impact did this chance encounter have on He Feng’s understanding of animation? ❌
+Correct Answer:Detective Conan; Deeper understanding
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What did the observation reveal? ❌
+Correct Answer:High-energy; Material loss
+Given ResponseRecognized; Black hole activity; High-energy matter loss
+
+Question:Which Queen song was He Feng listening to today? ✅
+Correct Answer:Bohemian Rhapsody
+Given ResponseBohemian Rhapsody
+
+Question:What was He Feng doing on May 10 last year? ✅
+Correct Answer:Walking; City center park; Met Mr. Zhang
+Given ResponseWalking; City center park; Met Mr. Zhang
+
+Question:How did He Feng and Mr. Zhang feel when they left the park? ❌
+Correct Answer:Anime; Joy; New friends
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:Which parts of &quot;Bohemian Rhapsody&quot; are particularly interesting to He Feng&#39;s girlfriend? ✅
+Correct Answer:Piano intro;Emotional ending
+Given ResponsePiano intro; Emotional ending
+
+Question:What strategy did Russia adopt during the conflict in eastern Ukraine? ❌
+Correct Answer:Unrestricted warfare; Electronic warfare; Electromagnetic weapons; Electronic jamming; Satellite reconnaissance
+Given ResponseSurprise attacks; Sneaking behind lines; Major blow
+
+Question:What was the atmosphere of the ceremony like? ✅
+Correct Answer:Solemn; Festive
+Given ResponseSolemn; Festive
+
+Question:Does He’s mother know anything about electronic jamming equipment and drone surveillance in conflicts? ❌
+Correct Answer:Electronic jamming; Drone surveillance; Eastern Ukraine
+Given ResponseYes; Present; May 12, 2022; Team dinner
+
+Question:When did Wang Li and He Feng meet? ❌
+Correct Answer:Middle school
+Given ResponseWalking; City center park; Met Mr. Zhang
+
+Question:As He Feng’s mentor, what is Professor Wang’s evaluation of this Chanel work? ❌
+Correct Answer:Strength; Innovation; Leading brand
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:Will XYZ Bank’s loan interest rate be adjusted in the future? ✅
+Correct Answer:Floating adjustment; Market risk; Supply and demand; Central bank policy; Capital cost; Risk assessment; Future adjustment
+Given ResponseFloating adjustment; Market risk; Supply and demand; Central bank policy; Capital cost; Risk assessment; Future adjustment
+
+Question:On the night of the wedding, what blessing did Liu Qiang give to He Feng and the bride? ❌
+Correct Answer:Blessing; Cooperation experience
+Given ResponseHappiness; Best wishes
+
+Question:How did these special forces attack the Ukrainian army? ✅
+Correct Answer:Surprise attacks; Sneaking behind lines; Major blow
+Given ResponseSurprise attacks; Sneaking behind lines; Major blow
+
+Question:Why does He Feng have a soft spot for Mao Lilan? ✅
+Correct Answer:Bravery; Intelligence; Impression
+Given ResponseBravery; Intelligence; Impression
+
+Question:How does Zhao Hua enrich the layers and taste of milk tea? ❌
+Correct Answer:Coconut fruits; Pearls
+Given ResponseFresh tea leaves; High-quality milk; Care; Attention
+
+Question:How does Wang Chen move on the court? ❌
+Correct Answer:Flexible; Shuttle
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What does He Feng think of Zhao Hua’s tea art skills and taste? ✅
+Correct Answer:Appreciation; Tea art skills; Taste; Respect; Persistence
+Given ResponseAppreciation; Tea art skills; Taste; Respect; Persistence
+
+Question:What does it mean that He Feng and Wang Li walked around the auditorium carrying the wings of the Holy Infant? ❌
+Correct Answer:Jesus Christ; Salvation; Power; Hope
+Given ResponseWings; Holy Infant
+
+Question:How did He Feng start his business? ✅
+Correct Answer:Policy support; Shenzhen Government; Mother’s help; Technology company
+Given ResponsePolicy support; Shenzhen Government; Mother’s help; Technology company
+
+Question:How to promote gene therapy so that more people know about it and get help? ❌
+Correct Answer:Community lecture; Experts; Principles; Technology; Application prospects; Research progress
+Given ResponseHigh expectations; Success; Gene therapy; Spread
+
+Question:What is the relationship between He Feng and Professor Wang? ❌
+Correct Answer:Mentor; Student
+Given ResponseMentor; Guidance; Support; Contributions
+
+Question:Why does Mr. Zhang like the character Haihara Ai? ❌
+Correct Answer:Smart; Witty; Conan's assistant
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:How does SafeGuard technology protect Zhao Hua’s personal privacy and data security? ❌
+Correct Answer:Interception; Blocking
+Given ResponseInterception; Shielding; Privacy protection; Data security; Harassment prevention; Infringement prevention
+
+Question:What do Mr. Chen and the children think of the special delicacies? ❌
+Correct Answer:Liked; Special delicacies
+Given ResponseFun day; Activities; Delicious food
+
+Question:What kind of maneuver tactics did the Russian army implement? ✅
+Correct Answer:Rapid maneuvers; Raids; Occupation
+Given ResponseRapid maneuvers; Raids; Occupation
+
+Question:Why are He Feng and Mr. Chen interested in the Bose-Einstein condensation of cold atomic gases? ❌
+Correct Answer:Condensed matter physics; Related fields; Chandler; Wayman
+Given ResponseLow temperature; High density
+
+Question:Who came to an ancient tomb full of puzzles and mechanisms? ❌
+Correct Answer:Lila Crawford; Liu Qiang
+Given ResponseSculptures; Stone carvings; Patterns; Cooperation; Communication
+
+Question:Can you tell me the details of that gathering? ❌
+Correct Answer:1975; He Feng; Zhang Ting; Bohemian Rhapsody; Party; Excited; Sway
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What did He Feng and Wang Li do on the first day of the celebration? ❌
+Correct Answer:Gorgeous dresses; Jewelry; Gathered; Square; Church
+Given ResponseFun day; Activities; Delicious food
+
+Question:What classic scenes from the TV series &quot;Game of Thrones&quot; will He Feng and Mr. Chen reminisce about together? ✅
+Correct Answer:Iron Throne Room; Dragonfort; Dragonstone
+Given ResponseIron Throne Room; Dragonfort; Dragonstone
+
+Question:How should Ukraine counter Russia’s tactics? ✅
+Correct Answer:Electronic warfare; Network security; Drones; Special forces; Informatization; Modern armaments
+Given ResponseElectronic warfare; Network security; Drones; Special forces; Informatization; Modern armaments
+
+Question:What recent research has the XYZ Sports Science Institute done in the field of basketball? ✅
+Correct Answer:Kinetic Jump Analysis; Motion Capture; 3D Motion Analysis; Jump Data
+Given ResponseKinetic Jump Analysis; Motion Capture; 3D Motion Analysis; Jump Data
+
+Question:What is the purpose of Yang Jing and Zhang Ting organizing this dinner? ✅
+Correct Answer:Relax; Team cohesion
+Given ResponseRelax; Team cohesion
+
+Question:How did Ms. Li behave on He Feng&#39;s wedding day? ❌
+Correct Answer:Active
+Given ResponseGongs; Drums; Lion dance
+
+Question:In what year did the TV series &quot;Game of Thrones&quot; premiere? ✅
+Correct Answer:2011
+Given Response2011
+
+Question:Who helped He Feng find land and loan support during his entrepreneurial journey? ❌
+Correct Answer:Mother
+Given ResponseMother; Land; Loans; Foundation
+
+Question:What other performances are there at the wedding? ✅
+Correct Answer:Gongs; Drums; Lion dance
+Given ResponseGongs; Drums; Lion dance
+
+Question:What is a black hole considered to be? ❌
+Correct Answer:Active; Central object
+Given ResponseBlack hole; Research
+
+Question:What materials did Zhao Hua and He Feng prepare? ❌
+Correct Answer:White peony tea; Mengniu milk; Syrup
+Given ResponseFresh tea leaves; High-quality milk; Care; Attention
+
+Question:What is the relationship between He Feng and Ms. Li? ❌
+Correct Answer:Community members
+Given ResponseNeighbors
+
+Question:Have they visited the completion site of Tianhua Building? ✅
+Correct Answer:Visited; Tianhua Building
+Given ResponseVisited; Tianhua Building
+
+Question:Has He Feng ever participated in a matrix sponsorship project for a women’s rights organization? ✅
+Correct Answer:Yes; Matrix sponsorship; O Poya; Women’s rights; Brazil; May 15, 2022
+Given ResponseYes; Matrix sponsorship; O Poya; Women’s rights; Brazil; May 15, 2022
+
+Question:What is the relationship between He Feng and Zhang Ting? ✅
+Correct Answer:Boyfriend; Zhang Ting
+Given ResponseBoyfriend; Zhang Ting
+
+Question:How does this research help basketball players’ training and performance? ✅
+Correct Answer:New ideas; New methods
+Given ResponseNew ideas; New methods
+
+Question:What other efforts have they made to improve the quality of life in rural areas? ✅
+Correct Answer:Rural infrastructure; Social welfare; Travel conditions; Living conditions
+Given ResponseRural infrastructure; Social welfare; Travel conditions; Living conditions
+
+Question:What caused Wang Li to reconsider the new interest rate level? ❌
+Correct Answer:Personal loan; Interest rate adjustment
+Given ResponseFloating adjustment; Market risk; Supply and demand; Central bank policy; Capital cost; Risk assessment; Future adjustment
+
+Question:What role does Professor Wang play in rural revitalization projects? ✅
+Correct Answer:Mentor; Guidance; Support; Contributions
+Given ResponseMentor; Guidance; Support; Contributions
+
+Question:How does Mr. He Feng feel about using SafeGuard technology? ✅
+Correct Answer:Very satisfied; SafeGuard technology; Intercepted; Blocked
+Given ResponseVery satisfied; SafeGuard technology; Intercepted; Blocked
+
+Question:What are the decorations in the banquet hall? ❌
+Correct Answer:Red flowers; Gold flowers; Arrangements
+Given ResponseExciting plot; Rooted characters; Suspense; Reasoning
+
+Question:What did the existence of Yang Lele bring to Yang Wei? ❌
+Correct Answer:Solid backing; Warm embrace
+Given ResponseSolid backing; Warm embrace; Confidence
+
+Question:What is Ms. Li Li&#39;s attitude toward Yang Wei&#39;s explanation of the principles of the experiment? ✅
+Correct Answer:Interested; Asked questions
+Given ResponseInterested; Asked questions
+
+Question:Did Yang Wei mention the treatment process and precautions for CAR-T cell therapy? ✅
+Correct Answer:T cell extraction; Gene editing; Reinjection; 3-4 weeks; Side effects; Monitoring management
+Given ResponseT cell extraction; Gene editing; Reinjection; 3-4 weeks; Side effects; Monitoring management
+
+Question:When did Yang Wei and Zhao Na agree to play chess? ✅
+Correct Answer:May 12, 2022; 8 pm
+Given ResponseMay 12, 2022; 8 pm
+
+Question:Which element in &quot;The Last Supper&quot; attracted Yang Wei? ❌
+Correct Answer:Jesus; Triangle; Sacrifice; Betrayal
+Given ResponseEcological designer
+
+Question:What running apps has Yang Wei been using lately? ✅
+Correct Answer:Keep
+Given ResponseKeep
+
+Question:What caused the relationship between Yang Wei and Zhang Lin to become closer? ❌
+Correct Answer:Repairing camera; Friendship
+Given ResponseKeep; Running; Challenge
+
+Question:What is the relationship between Yang Wei and Zhang Liang? ❌
+Correct Answer:Friend
+Given ResponseFriends
+
+Question:Where is the party taking place? ❌
+Correct Answer:Yang Wei; Garden
+Given ResponseThe meeting is planned to take place at a cafe in the city center.
+
+Question:What does Yang Wei think of Zhao Na&#39;s chess skills? ✅
+Correct Answer:Admire
+Given ResponseAdmire
+
+Question:In what ways does Zhao Na help reveal the spread and risk factors of the epidemic? ✅
+Correct Answer:Contact history; Travel history; Viral load
+Given ResponseContact history; Travel history; Viral load
+
+Question:When exactly is the running challenge? ✅
+Correct Answer:Next Saturday; Morning
+Given ResponseNext Saturday; Morning
+
+Question:How long will this adventure last? ✅
+Correct Answer:Three days
+Given ResponseThree days
+
+Question:What did Yang Wei and Zhang Liang notice about Jesus and the disciples in The Last Supper? ✅
+Correct Answer:Expressions; Gestures; Postures
+Given ResponseExpressions; Gestures; Postures
+
+Question:What is the relationship between Yang Wei and Wang Ming? ✅
+Correct Answer:Old classmate; Ecological designer
+Given ResponseOld classmate; Ecological designer
+
+Question:In what way does Yang Lele express her encouragement and support for Yang Wei? ❌
+Correct Answer:Eyes; Smile
+Given ResponseCheering; Supporting; Encouragement
+
+Question:On March 15, 2022, which organization&#39;s environmental education project did Yang Wei and Wang Ming participate in? ✅
+Correct Answer:Green Action; Environmental Education
+Given ResponseGreen Action; Environmental Education
+
+Question:What gene therapy technology did Yang Wei introduce to Wang Ming in detail? ❌
+Correct Answer:CAR-T; Cell therapy
+Given ResponseCAR-T cell therapy; Kymriah; Novartis; Treatment process; Efficacy; Precautions
+
+Question:Besides Yang Wei, who is a user of “Keep”? ✅
+Correct Answer:Zhang Lin
+Given ResponseZhang Lin
+
+Question:What did Yang Wei discover when he encountered difficulties? ❌
+Correct Answer:Burly man; Climb cliff
+Given ResponseSolid backing; Warm embrace; Confidence
+
+Question:What do Yang Wei and Li Hua hope to arouse people&#39;s attention and participation through this event? ❌
+Correct Answer:Environmental protection
+Given ResponseGreen Action; Environmental Education
+
+Question:What kind of person is Yang Wei&#39;s friend Zhang Liang? ✅
+Correct Answer:Adventurer;Outdoor activities
+Given ResponseAdventurer; Outdoor activities
+
+Question:Who is Wang Yu? ❌
+Correct Answer:Stranger; Yang Wei; Outdoor adventure
+Given ResponseMountaineering enthusiast
+
+Question:What is the relationship between Yang Wei and Li Hua? ❌
+Correct Answer:Community members
+Given ResponseFriends
+
+Question:For whom did Yang Wei prepare a wonderful birthday party? ✅
+Correct Answer:Zhang Lin
+Given ResponseZhang Lin
+
+Question:What kind of place did Yang Wei choose as an adventure destination? ✅
+Correct Answer:Mountainous area; Beautiful scenery
+Given ResponseMountainous area; Beautiful scenery
+
+Question:What aspects of the city did Liu Lei focus on designing? ✅
+Correct Answer:Sustainable energy; Circular economy
+Given ResponseSustainable energy; Circular economy
+
+Question:Who did Yang Wei organize this project with? ❌
+Correct Answer:Yang Wei; Wang Ming
+Given ResponseZhang Lin
+
+Question:How does Yang Wei feel about traveling to Dunhuang? ❌
+Correct Answer:Peaceful; Enjoyment; Nature
+Given ResponseAdventurer; Outdoor activities
+
+Question:Did Yang Wei notice Zhang Lin&#39;s record on &quot;Keep&quot;? ✅
+Correct Answer:Yang Wei;Noticed;Zhang Lin;Keep
+Given ResponseYang Wei;Noticed;Zhang Lin;Keep
+
+Question:How does Yang Wei’s wife support his music career? ❌
+Correct Answer:Cheering; Supporting; Encouragement
+Given ResponseSolid backing; Warm embrace; Confidence
+
+Question:What will Yang Wei and Wang Ming talk about after the meeting? ❌
+Correct Answer:CAR-T cell therapy; Kymriah; Novartis; Treatment process; Efficacy; Precautions
+Given ResponseCAR-T; Cell therapy
+
+Question:During the tree planting activity held in the community, who did Yang Wei come to the community&#39;s green belt with? ❌
+Correct Answer:Li Hua
+Given ResponseYang Wei; Community members
+
+Question:What is the wonderful phenomenon of the double-slit interference experiment observed by Yang Wei in the laboratory? ✅
+Correct Answer:Interference fringes; Light and dark; Coherence
+Given ResponseInterference fringes; Light and dark; Coherence
+
+Question:What kind of birthday party has Yang Wei prepared for Zhang Lin? ❌
+Correct Answer:Flowers; Green plants; Garden; Natural; Ecological
+Given ResponseSpecial celebration; Planning
+
+Question:Is Yang Wei interested in participating in the running challenge invited by Zhang Lin? ✅
+Correct Answer:Accepted; Running challenge; Health; Sports achievements
+Given ResponseAccepted; Running challenge; Health; Sports achievements
+
+Question:What is Yang Wei&#39;s identity? ✅
+Correct Answer:Ecological designer
+Given ResponseEcological designer
+
+Question:What are the similarities between Yang Wei and Wang Yu’s views on outdoor adventure? ❌
+Correct Answer:Challenge; Exploration; Humanity
+Given ResponseAdventurer; Outdoor activities
+
+Question:Are there any special art activities at the party? ❌
+Correct Answer:Artist; Portrait drawing; Zhang Lin
+Given ResponseKeep
+
+Question:How do Yang Wei and Li Li feel about the Mogao Grottoes murals? ❌
+Correct Answer:Impressed; Beauty; Delicacy; Outstanding talent; Ancient art
+Given ResponseAdmire
+
+Question:What impact does Yang Wei think having Yang Lele’s support have on his music career? ✅
+Correct Answer:Solid backing; Warm embrace; Confidence
+Given ResponseSolid backing; Warm embrace; Confidence
+
+Question:What is Yang Wei&#39;s profession? ❌
+Correct Answer:Ecological;Designer
+Given ResponseEcological designer
+
+Question:In what areas does Green Clean Home Cleaning Company have extensive experience? ❌
+Correct Answer:Home cleaning
+Given ResponseEnvironmental protection
+
+Question:What are the identities of Yang Wei and Zhang Liang? ❌
+Correct Answer:Adventurer; Outdoor activities
+Given ResponseEcological designer
+
+Question:What is the relationship between Yang Wei and Zhang Lin? ❌
+Correct Answer:Neighbor
+Given ResponseFriends
+
+Question:When discussing the wave-particle duality in quantum mechanics and the impact of observation on experiments, do Yang Wei and Ms. Li Li have any discoveries or ideas? ✅
+Correct Answer:Wave-particle duality; Observation; Quantum mechanics; Physics; Scientific exploration
+Given ResponseWave-particle duality; Observation; Quantum mechanics; Physics; Scientific exploration
+
+Question:What did Yang Wei and Wang Ming observe during the game? ✅
+Correct Answer:Interrelationships; Plants; Animals; Jungle
+Given ResponseInterrelationships; Plants; Animals; Jungle
+
+Question:Yang Wei mentioned what anti-counterfeiting marking system launched by ABC brand? ✅
+Correct Answer:SafeTrace
+Given ResponseSafeTrace
+
+Question:What competition did Yang Wei and Liu Lei decide to participate in? ❌
+Correct Answer:Equestrian; Event
+Given ResponseYang Wei; Liu Lei; Equestrian competition; Participate
+
+Question:According to Yang Wei, in addition to preventing the purchase of fake goods, does the SafeTrace system have other value-added services? ✅
+Correct Answer:Production information; Quality complaints; Consumer rights; Brand reputation
+Given ResponseProduction information; Quality complaints; Consumer rights; Brand reputation
+
+Question:What achievements and recognition have Yang Wei and Liu Lei received after the project was completed? ❌
+Correct Answer:Innovative design solutions; XX Design Award; Model case; Ecological urban planning
+Given ResponseEquestrian; Event
+
+Question:What services does Yang Wei need? ❌
+Correct Answer:Deep cleaning; Home environment; Eco-friendly agents
+Given ResponseSolid backing; Warm embrace; Confidence
+
+Question:Who is Yang Wei&#39;s old classmate? ✅
+Correct Answer:Wang Ming
+Given ResponseWang Ming
+
+Question:Did Yang Wei participate in the community tree planting activity on October 15? ❌
+Correct Answer:Yang Wei; Environmental activities
+Given ResponseYang Wei; Garden
+
+Question:Which attraction did Yang Wei and Li Li visit? ❌
+Correct Answer:Mogao Grottoes
+Given ResponseGreen Action; Environmental Education
+
+Question:Which disease has CAR-T cell therapy achieved remarkable results in treating? ✅
+Correct Answer:B-cell; Acute lymphoblastic leukemia
+Given ResponseB-cell; Acute lymphoblastic leukemia
+
+Question:What kind of lectures did Yang Wei and Yang Lele attend? ✅
+Correct Answer:Antarctica geography; Climate change; Conservation policies
+Given ResponseAntarctica geography; Climate change; Conservation policies
+
+Question:When did Yang Wei play the &quot;Ultima: Human Evolution&quot; virtual reality game with his friends? ✅
+Correct Answer:May 12, 2023
+Given ResponseMay 12, 2023
+
+Question:What is the content of the environmental education project that Yang Wei participated in? ❌
+Correct Answer:Environmental courses; Ecological design
+Given ResponseGreen Action; Environmental Education
+
+Question:Who is Yang Wei&#39;s girlfriend? ❌
+Correct Answer:Li Li
+Given ResponseZhang Lin
+
+Question:What did Yang Wei&#39;s wife once do for Yang Wei at the concert? ❌
+Correct Answer:Bouquet;Flowers
+Given ResponseSolid backing; Warm embrace
+
+Question:In which project did Yang Wei work closely with Liu Lei? ❌
+Correct Answer:Ecological; Urban planning
+Given ResponseYang Wei; Liu Lei; Equestrian competition; Participate
+
+Question:What is Wang Yu&#39;s identity? ❌
+Correct Answer:Mountaineering;Enthusiast
+Given ResponseEcological designer
+
+Question:Yang Wei mentioned what problems may arise with CAR-T cell therapy? ❌
+Correct Answer:Side effects; Monitoring; Management
+Given ResponseT cell extraction; Gene editing; Reinjection; 3-4 weeks; Side effects; Monitoring management
+
+Question:What is the relationship between Yang Wei and Wang Yu? ❌
+Correct Answer:Like-minded; Friends
+Given ResponseFriend
+
+Question:How did Yang Wei perform in the equestrian competition? ❌
+Correct Answer:Superb skills; Coordination; Difficult actions; Impressed judges
+Given ResponseAccepted; Running challenge; Health; Sports achievements
+
+Question:What did Yang Wei and Liu Lei successfully accomplish? ❌
+Correct Answer:Planning; Design; Project
+Given ResponseYang Wei; Liu Lei; Equestrian competition; Participate
+
+Question:What did Yang Wei and Li Hua teach the volunteers during the event? ❌
+Correct Answer:Tree planting; Tips; Knowledge
+Given ResponseGreen Action; Environmental Education
+
+Question:What challenge did Zhang Lin invite Yang Wei to participate in? ❌
+Correct Answer:Keep; Running; Challenge
+Given ResponseKeep
+
+Question:Is Yang Wei ready to study the city&#39;s topography, climate and ecological characteristics? ❌
+Correct Answer:Topography; Climate; Ecological characteristics
+Given ResponseInterested; Asked questions
+
+Question:What was the atmosphere of the entire party like? ✅
+Correct Answer:Friendly; Helpful; Lively; Unforgettable
+Given ResponseFriendly; Helpful; Lively; Unforgettable
+
+Question:Which systems and measures of the city was Yang Wei responsible for designing? ✅
+Correct Answer:Greening systems; Biodiversity protection
+Given ResponseGreening systems; Biodiversity protection
+
+Question:How to use social networks to control the spread of the epidemic? ✅
+Correct Answer:Contact tracing; Vaccination; Prevention measures
+Given ResponseContact tracing; Vaccination; Prevention measures
+
+Question:Will Yang Wei and his friends continue to explore this virtual world? ✅
+Correct Answer:Yes; Virtual Genesis; Exploring maps; Tasks; Evolve civilization
+Given ResponseYes; Virtual Genesis; Exploring maps; Tasks; Evolve civilization
+
+Question:Who did Yang Wei accidentally meet during an outdoor adventure? ❌
+Correct Answer:Wang Yu
+Given ResponseStranger; Yang Wei; Outdoor adventure
+
+Question:Which famous attraction did Yang Wei and Li Li visit? ❌
+Correct Answer:Dunhuang; Mogao Grottoes
+Given ResponseMogao Grottoes
+
+Question:According to Yang Wei, how can the SafeTrace system read the information of RFID tags? ✅
+Correct Answer:QR code; NFC; Mobile phone
+Given ResponseQR code; NFC; Mobile phone
+
+Question:Which company developed CAR-T cell therapy? ✅
+Correct Answer:Novartis
+Given ResponseNovartis
+
+Question:Who is a member of Yang Wei&#39;s community who is actively involved in environmental activities? ✅
+Correct Answer:Li Hua
+Given ResponseLi Hua
+
+Question:Where did Yang Wei and Wang Yu successfully climb? ❌
+Correct Answer:Cliff; Top
+Given ResponseMountainous area; Beautiful scenery
+
+Question:Who was the man who went with Yang Wei when he went exploring in the mountains? ❌
+Correct Answer:Wang Yu
+Given ResponseZhang Lin
+
+Question:Who is Yang Wei&#39;s learning instructor? ❌
+Correct Answer:Zhao Na
+Given ResponseWang Ming
+
+Question:What is the name of the stranger Yang Wei knows? ❌
+Correct Answer:Wang Yu
+Given ResponseYang Wei
+
+Question:At what stages of this project were Yang Wei and Zhang Lei involved? ❌
+Correct Answer:Conceptual design; Construction supervision
+Given ResponseKeep
+
+Question:What is the relationship between Yang Wei and Li Li? ❌
+Correct Answer:Romantic partners
+Given ResponsePositive impact; Deepened relationship; Support; Encourage
+
+Question:Did the trip to Amundsen-Scott Station have an impact on the relationship between Yang Wei and his wife? ✅
+Correct Answer:Positive impact; Deepened relationship; Support; Encourage
+Given ResponsePositive impact; Deepened relationship; Support; Encourage
+
+Question:What did Yang Wei do on difficult sections while exploring the mountains? ❌
+Correct Answer:Stone; Climb
+Given ResponseCheering; Supporting; Encouragement
+
+Question:What other practical activities are included in the environmental education project organized by Yang Wei and Wang Ming? ✅
+Correct Answer:Planting trees; Recyclable waste handicrafts
+Given ResponsePlanting trees; Recyclable waste handicrafts
+
+Question:Why did Yang Wei contact Yang Lele’s friends in March? ❌
+Correct Answer:Special celebration; Planning
+Given ResponseSolid backing; Warm embrace
+
+Question:Which facilities at Amundsen-Scott Station did Yang Wei and Yang Lele visit? ✅
+Correct Answer:Laboratories; Accommodation facilities; Medical stations
+Given ResponseLaboratories; Accommodation facilities; Medical stations
+
+Question:What role does cluster analysis play in epidemic investigation? ❌
+Correct Answer:Geographical location; Epidemiological data; Prevention; Control measures
+Given ResponseContact history; Travel history; Viral load
+
+Question:In which school did Yang Wei and Wang Ming set up an environmentally friendly classroom? ✅
+Correct Answer:Beijing; Experimental; Primary School
+Given ResponseBeijing Experimental Primary School
+
+Question:Are Yang Wei and Liu Lei planning to participate in equestrian competitions? ❌
+Correct Answer:Yang Wei; Liu Lei; Equestrian competition; Participate
+Given ResponseYes; Virtual Genesis; Exploring maps; Tasks; Evolve civilization
+
+Question:What tools and items did Yang Wei and Li Hua bring during the tree planting activity? ✅
+Correct Answer:Shovels; Seedlings; Kettles
+Given ResponseShovels; Seedlings; Kettles
+
+Question:Was there anything that particularly impressed Yang Wei’s wife during her visit to Amundsen-Scott Station? ❌
+Correct Answer:Scientific researchers; International cooperation; Climate change; Conservation policies
+Given ResponseAdmire
+
+Question:What experimental devices did Yang Wei and Li Li see in the laboratory? ✅
+Correct Answer:Electronics; Barrier plates; Double slits; Recording boards
+Given ResponseElectronics; Barrier plates; Double slits; Recording boards
+
+Question:What was the relationship between Yang Wei and Wang Yu? ❌
+Correct Answer:Friends
+Given ResponseFriend
+
+Question:Which work by Italian painter Leonardo da Vinci did Yang Wei and Zhang Liang visit together? ✅
+Correct Answer:The Last Supper
+Given ResponseThe Last Supper
+
+Question:Are Yang Wei and Liu Lei ready for horse racing? ❌
+Correct Answer:Rigorous training; Fully prepared
+Given ResponseYes; Virtual Genesis; Exploring maps; Tasks; Evolve civilization
+
+Question:Why does Li Hua think that choosing Lvjie Home Cleaning Company can provide Yang Wei with a clean, hygienic and comfortable home environment? ❌
+Correct Answer:Environmental protection; Sanitation
+Given ResponseDeep cleaning; Home environment; Eco-friendly agents
+
+Question:What did Xiao Ming and Zhang Tao show on the stage? ❌
+Correct Answer:Love;Dance;Talent
+Given ResponseLove
+

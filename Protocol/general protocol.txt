@@ -1,0 +1,555 @@
+results for Experiments1v2
+
+BEST: Result(threshold=0.5776381909547738, finalScore=0.16345833333333332, incorrect=0.24404166666666668) for: paraphrase-multilingual-MiniLM-L12-v2
+BEST: Result(threshold=0.8306532663316583, finalScore=0.15075, incorrect=0.24174999999999996) for: multi-qa-MiniLM-L6-dot-v1
+BEST: Result(threshold=0.5298994974874371, finalScore=0.23112500000000005, incorrect=0.4163750000000001) for: paraphrase-multilingual-mpnet-base-v2
+BEST: Result(threshold=0.9356783919597988, finalScore=0.22375000000000006, incorrect=0.30624999999999997) for: bi-encoder_msmarco_bert-base_german
+
+accuracy on Experiments1v2 with old threshold
+
+paraphrase-multilingual-MiniLM-L12-v2  finalscore:25.33%  incorrect:74.41%
+multi-qa-MiniLM-L6-dot-v1  finalscore:20.80%  incorrect:79.10%
+paraphrase-multilingual-mpnet-base-v2  finalscore:28.40%  incorrect:71.60%
+bi-encoder_msmarco_bert-base_german  finalscore:34.13% incorrect:64.17%
+
+results for Experiments1
+
+BEST: Result(threshold=0.3580402010050251, finalScore=0.5632545931758534, incorrect=0.1769028871391076) for: paraphrase-multilingual-MiniLM-L12-v2
+BEST: Result(threshold=0.7351758793969848, finalScore=0.446587926509187, incorrect=0.2935695538057741) for: multi-qa-MiniLM-L6-dot-v1
+BEST: Result(threshold=0.3389447236180904, finalScore=0.5918635170603675, incorrect=0.17979002624671916) for: paraphrase-multilingual-mpnet-base-v2
+BEST: Result(threshold=0.9118090452261306, finalScore=0.5545275590551184, incorrect=0.18956692913385828) for: bi-encoder_msmarco_bert-base_german
+
+results for Experiments1v3
+
+BEST: Result(threshold=0.4726130653266331, finalScore=0.5864166666666667, incorrect=0.17858333333333334) for: paraphrase-multilingual-MiniLM-L12-v2
+BEST: Result(threshold=0.7924623115577889, finalScore=0.4738333333333333, incorrect=0.26616666666666644) for: multi-qa-MiniLM-L6-dot-v1
+BEST: Result(threshold=0.4487437185929648, finalScore=0.6488750000000002, incorrect=0.14862500000000006) for: paraphrase-multilingual-mpnet-base-v2
+BEST: Result(threshold=0.9165829145728642, finalScore=0.7986250000000007, incorrect=0.13637499999999997) for: bi-encoder_msmarco_bert-base_german
+BEST: Result(threshold=0.5251256281407035, finalScore=0.6814166666666667, incorrect=0.19108333333333344) for: multi-qa-mpnet-base-dot-v1
+
+results Experiment1v4
+BEST: Result(threshold=0.5298994974874371, finalScore=0.6955416666666667, incorrect=0.1844583333333334) for: multi-qa-mpnet-base-dot-v1
+BEST: Result(threshold=0.9213567839195979, finalScore=0.7945000000000008, incorrect=0.14550000000000002) for: bi-encoder_msmarco_bert-base_german
+BEST: Result(threshold=0.5585427135678391, finalScore=0.5115416666666668, incorrect=0.20845833333333338) for: paraphrase-multilingual-mpnet-base-v2
+BEST: Result(threshold=0.8211055276381909, finalScore=0.39408333333333345, incorrect=0.2509166666666666) for: multi-qa-MiniLM-L6-dot-v1
+
+
+0:00:02.667191
+BEST: Result(threshold=0.5251256281407035, finalScore=0.7119583333333336, incorrect=0.17054166666666673) for: multi-qa-mpnet-base-dot-v1
+0:00:02.456562
+BEST: Result(threshold=0.9165829145728642, finalScore=0.8370416666666671, incorrect=0.09795833333333327) for: bi-encoder_msmarco_bert-base_german
+0:00:02.460314
+BEST: Result(threshold=0.4487437185929648, finalScore=0.6829583333333337, incorrect=0.12204166666666671) for: paraphrase-multilingual-mpnet-base-v2
+0:00:01.524494
+BEST: Result(threshold=0.7972361809045225, finalScore=0.48979166666666657, incorrect=0.2527083333333332) for: multi-qa-MiniLM-L6-dot-v1
+
+
+After adding more irrelevant facts
+0:00:02.581554
+BEST: Result(threshold=0.9131578947368421, finalScore=0.8059583333333344, incorrect=0.18904166666666694) for: bi-encoder_msmarco_bert-base_german
+
+
+results for Experiments2
+
+FinalScore:89.81%
+ZeromatchScore:0.01%
+
+
+Experiment3: 3 People and 300 Questions.
+embeddingstrategy : "multi-qa-MiniLM-L6-dot-v1"
+factextractionPrompt : "You are a spy that intercepted the conversation between a person and a Chatbot. It is your job to gather facts about that Person based on the last question of the chatbot and the Persons answer. Those fact will be used by another chatbot at a later date. Always seperate facts with a |. Bundle facts if possible and only use the Response of the User for facts and not the question."
+promptForGeneralAPICall : "It is your job to use the Information provided to you to choose the correct answer out of the valid answers Provided. Just responde with the correct answer no other text required"
+FinalScore : 38%
+
+Experiment3: 3 People and 300 Questions.
+embeddingstrategy: "bi-encoder_msmarco_bert-base_german"
+factextractionPrompt: "You are a spy that intercepted the conversation between a person and a Chatbot. It is your job to gather facts about that Person based on the last question of the chatbot and the Persons answer. Those fact will be used by another chatbot at a later date. Always seperate facts with a |. Bundle facts if possible and only use the Response of the User for facts and not the question."
+promptForGeneralAPICall: "It is your job to use the Information provided to you to choose the correct answer out of the valid answers Provided. Just responde with the correct answer no other text required"
+FinalScore: 36%
+
+Experiment3 with the whole Dataset:
+embeddingstrategy : "multi-qa-MiniLM-L6-dot-v1"
+factextractionPrompt : "You are a spy that intercepted the conversation between a person and a Chatbot. It is your job to gather facts about that Person based on the last question of the chatbot and the Persons answer. Those fact will be used by another chatbot at a later date. Always seperate facts with a |. Bundle facts if possible and only use the Response of the User for facts and not the question."
+promptForGeneralAPICall : "It is your job to use the Information provided to you to choose the correct answer out of the valid answers Provided. Just responde with the correct answer no other text required"
+FinalScore : 37.85%
+
+
+Experiment3 with three People: "multi-qa-MiniLM-L6-dot-v1" added general Knowledge: 38.87%
+
+
+Experiment3 with full Dataset: "multi-qa-MiniLM-L6-dot-v1" added general Knowledge: 28.63%
+
+Experiment3 10 Users :multi-qa-mpnet-base-dot-v1 44.76%
+Full dataset:30.33%
+
+
+Spracherkennung: 50 Speaker: 98,36%
+librispeech 5: 100%
+librispeechtest:97.84%
+
+
+Spracherkennung Full Index 5442 samples
+
+50 Speakers: 98.36% 1 false identification 7 failed Identifications
+librispeech mini: 100%
+librispeech : 98.27% 12 failed identifications
+
+majority Vote:
+librispeech: 99.13% 6 false identifications
+librispeech mini: 100%
+50 Speakers: 99.18% 4 false identifications
+
+
+Minimum Case 5 Embeddings per user Adding Embeddings after search:
+librispeech small: 94.95%  [['1970', 0], ['7312', 21], ['19', 0], ['3947', 0], ['1898', 46], ['226', 0], ['118', 0], ['4680', 0], ['4640', 0], ['7367', 0], ['1088', 0], ['6848', 0], ['7859', 0], ['32', 0], ['3242', 0], ['163', 0], ['332', 0], ['2136', 0], ['3526', 0], ['1737', 0], ['3664', 0], ['669', 0], ['8629', 0], ['5789', 0], ['2416', 0], ['6272', 0], ['1867', 0], ['460', 0]]
+Errors isolated to ids: 7312 and 1898
+librispeech: 90.95% 17/2188 false identifications  [['2961', 0], ['7127', 2], ['8455', 23], ['4507', 6], ['1580', 2], ['6930', 0], ['1284', 6], ['260', 11], ['5683', 0], ['61', 6], ['121', 2], ['8230', 0], ['3570', 0], ['4992', 1], ['8463', 0], ['4970', 6], ['8224', 0], ['3575', 0], ['5105', 0], ['237', 1], ['8555', 2], ['1320', 0], ['7176', 1], ['3729', 42], ['1089', 4], ['1188', 1], ['2300', 0], ['1221', 0], ['6829', 0], ['4446', 6], ['5142', 3], ['2830', 0], ['908', 1], ['1995', 1], ['4077', 0], ['672', 70], ['7729', 0], ['7021', 0], ['2094', 1], ['5639', 0]]
+
+
+
+
+Minimum Case not adding Embeddings
+librispeech small: ✅ Accuracy: 80.24% (1064/1326) 0 false identifications mainly isolated to 4 IDs   [['1970', 0], ['7312', 21], ['19', 0], ['3947', 0], ['1898', 46], ['226', 0], ['118', 0], ['4680', 4], ['4640', 1], ['7367', 28], ['1088', 0], ['6848', 1], ['7859', 2], ['32', 0], ['3242', 1], ['163', 15], ['332', 0], ['2136', 3], ['3526', 36], ['1737', 1], ['3664', 0], ['669', 0], ['8629', 36], ['5789', 0], ['2416', 67], ['6272', 0], ['1867', 0], ['460', 0]]
+librispeech  Accuracy: 81.12% (1775/2188) 1 false Identification [['2961', 9], ['7127', 4], ['8455', 64], ['4507', 41], ['1580', 38], ['6930', 1], ['1284', 12], ['260', 23], ['5683', 3], ['61', 11], ['121', 1], ['8230', 2], ['3570', 0], ['4992', 3], ['8463', 0], ['4970', 8], ['8224', 0], ['3575', 3], ['5105', 1], ['237', 5], ['8555', 7], ['1320', 1], ['7176', 11], ['3729', 40], ['1089', 4], ['1188', 5], ['2300', 0], ['1221', 0], ['6829', 2], ['4446', 15], ['5142', 9], ['2830', 2], ['908', 2], ['1995', 2], ['4077', 0], ['672', 70], ['7729', 1], ['7021', 3], ['2094', 5], ['5639', 5]]    {'2961': 9, '7127': 4, '8455': 64, '4507': 41, '1580': 38, '6930': 1, '1284': 12, '260': 23, '5683': 3, '61': 11, '121': 1, '8230': 2, '4992': 3, '4970': 8, '3575': 3, '5105': 1, '237': 5, '8555': 7, '1320': 1, '7176': 11, '3729': 40, '1089': 4, '1188': 5, '6829': 2, '4446': 15, '5142': 9, '2830': 2, '908': 2, '1995': 2, '672': 70, '7729': 1, '7021': 3, '2094': 5, '5639': 5}
+50 Speakers: AAccuracy 86.30% 0 falseidentifications.
+
+Minimum Case not adding Embeddings majority Vote
+50 Speakers: Accuracy 96.94% 67 false idnetifications [[0, 0], [1, 0], [2, 0], [3, 0], [4, 0], [5, 0], [6, 0], [7, 0], [8, 0], [9, 0], [10, 0], [11, 0], [12, 0], [13, 0], [14, 0], [15, 0], [16, 0], [17, 0], [18, 0], [19, 0], [20, 0], [21, 0], [22, 0], [23, 0], [24, 0], [25, 0], [26, 0], [27, 0], [28, 0], [29, 0], [30, 0], [31, 0], [32, 0], [33, 0], [34, 0], [35, 0], [36, 0], [37, 0], [38, 0], [39, 0], [40, 0], [41, 0], [42, 0], [43, 0], [44, 0], [45, 0], [46, 0], [47, 0], [48, 0], [49, 0], [50, 0]]
+librispeech: 97.21% Accuracy 61 false identifications
+librispeech mini: 99.92% 1 false identification
+
+
+Maximum Case No Add
+LibrispeechMini
+IDs that were Missidentified:(0/,28)                                                                                                                                        
+FalseIdentifications: 0.00% (0/304)
+✅ Accuracy: 100.00% (304/304)
+ Mistakes: 0.00% (0/304)
+Librispeech
+IDs that were Missidentified:(9/40)                                                                                                                                        
+FalseIdentifications: 0.00% (1/562)
+✅ Accuracy: 97.51% (548/562)
+Mistakes: 2.49% (14/562)
+50Speakers
+IDs that were Missidentified:(6/,51)
+FalseIdentifications: 0.00% (1/488)
+✅ Accuracy: 98.36% (480/488)
+Mistakes: 1.64% (8/488)
+
+Trainingcycle Maximum Case MajorityVote
+LibrispeechMini
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/304)
+✅ Accuracy: 100.00% (304/304)
+ Mistakes: 0.00% (0/304)
+Librispeech
+IDs that were Missidentified:(4/40)                                                                                                                                         
+FalseIdentifications: 0.01% (4/562)
+✅ Accuracy: 99.29% (558/562)
+ Mistakes: 0.71% (4/562)
+50Speakers
+IDs that were Missidentified:(4/51)
+FalseIdentifications: 0.01% (4/488)
+✅ Accuracy: 99.18% (484/488)
+ Mistakes: 0.82% (4/488)
+
+Trainingcycle MinimumCase Add
+LibrispeechMini                                                                                                                                                             
+IDs that were Missidentified:(3/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/1326)
+✅ Accuracy: 99.62% (1321/1326)
+Mistakes: 0.38% (5/1326)
+Librispeech
+IDs that were Missidentified:(23/40)                                                                                                                                        
+FalseIdentifications: 0.00% (7/2188)
+✅ Accuracy: 91.50% (2002/2188)
+ Mistakes: 8.50% (186/2188)
+50Speakers
+IDs that were Missidentified:(6/51)
+FalseIdentifications: 0.00% (1/488)
+✅ Accuracy: 98.36% (480/488)
+ Mistakes: 1.64% (8/488)
+
+Trainingcycle Minimumcase Add MajorityVote
+LibrispeechMini                                                                                                                                                             
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/1326)
+✅ Accuracy: 100.00% (1326/1326)
+ Mistakes: 0.00% (0/1326)
+Librispeech
+IDs that were Missidentified:(15/40)                                                                                                                                        
+FalseIdentifications: 0.04% (87/2188)
+✅ Accuracy: 96.02% (2101/2188)
+ Mistakes: 3.98% (87/2188)
+50Speakers
+IDs that were Missidentified:(5/51)
+FalseIdentifications: 0.01% (5/488)
+✅ Accuracy: 98.98% (483/488)
+ Mistakes: 1.02% (5/488)
+
+ Trainingcycle Maximumcase Add
+
+LibrispeechMini                                                                                                                                                             
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/304)
+✅ Accuracy: 100.00% (304/304)
+ Mistakes: 0.00% (0/304)
+
+Librispeech
+IDs that were Missidentified:(9/40)                                                                                                                                         
+FalseIdentifications: 0.00% (0/562)
+✅ Accuracy: 98.22% (552/562)
+ Mistakes: 1.78% (10/562)
+
+50Speakers
+IDs that were Missidentified:(6/51)
+FalseIdentifications: 0.00% (1/488)
+✅ Accuracy: 98.36% (480/488)
+ Mistakes: 1.64% (8/488)
+
+Trainingcycle Maximumcase Add Majorityvote
+
+ LibrispeechMini
+
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/304)
+
+✅ Accuracy: 100.00% (304/304)
+
+ Mistakes: 0.00% (0/304)
+Librispeech
+
+IDs that were Missidentified:(5/40)                                                                                                                                         
+FalseIdentifications: 0.01% (6/562)
+
+✅ Accuracy: 98.93% (556/562)
+
+ Mistakes: 1.07% (6/562)
+50Speakers
+
+IDs that were Missidentified:(5/51)
+FalseIdentifications: 0.01% (5/488)
+
+✅ Accuracy: 98.98% (483/488)
+
+ Mistakes: 1.02% (5/488)
+
+
+
+
+ Experiment 2 v4
+ multi-qa-mpnet-base-dot-v1
+finalscore:69.69%
+incorrect:22.35%
+zeromatches:27
+3291
+bi-encoder_msmarco_bert-base_german
+finalscore:80.63%
+incorrect:18.97%
+zeromatches:29
+7191
+paraphrase-multilingual-mpnet-base-v2
+finalscore:59.05%
+incorrect:40.95%
+zeromatches:96
+11196
+multi-qa-MiniLM-L6-dot-v1
+finalscore:42.45%
+incorrect:57.55%
+zeromatches:122
+
+
+
+
+
+
+
+Trainingcycle Minimum Case no add
+
+
+LibrispeechMini                                                                                                                                                             
+
+IDs that were Missidentified:(11/28)                                                                                                                                        
+FalseIdentifications: 0.00% (0/1326)
+
+✅ Accuracy: 94.42% (1252/1326)
+
+ Mistakes: 5.58% (74/1326)
+Librispeech
+
+IDs that were Missidentified:(34/40)                                                                                                                                        
+FalseIdentifications: 0.09% (2/2188)
+
+✅ Accuracy: 80.90% (1770/2188)
+
+ Mistakes: 19.10% (418/2188)
+50Speakers
+
+
+IDs that were Missidentified:(29/51)
+FalseIdentifications: 0.09% (2/2190)
+
+✅ Accuracy: 86.30% (1890/2190)
+
+ Mistakes: 13.70% (300/2190)
+
+Trainingcycle Minimum Case no add Majority Vote
+
+LibrispeechMini
+
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/1326)
+
+✅ Accuracy: 100.00% (1326/1326)
+
+ Mistakes: 0.00% (0/1326)
+Librispeech
+
+IDs that were Missidentified:(17/40)                                                                                                                                        
+FalseIdentifications: 3.47% (76/2188)
+
+✅ Accuracy: 96.53% (2112/2188)
+
+ Mistakes: 3.47% (76/2188)
+50Speakers
+
+IDs that were Missidentified:(21/51)
+FalseIdentifications: 2.79% (61/2190)
+
+✅ Accuracy: 97.21% (2129/2190)
+
+ Mistakes: 2.79% (61/2190)
+
+Trainingcycle Maximum Case no add
+
+LibrispeechMini                                                                                                                                                             
+
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/304)
+
+✅ Accuracy: 100.00% (304/304)
+
+ Mistakes: 0.00% (0/304)
+Librispeech
+
+IDs that were Missidentified:(10/40)                                                                                                                                        
+FalseIdentifications: 0.00% (0/562)
+
+✅ Accuracy: 97.51% (548/562)
+
+ Mistakes: 2.49% (14/562)
+50Speakers
+
+IDs that were Missidentified:(6/51)
+FalseIdentifications: 0.20% (1/488)
+
+✅ Accuracy: 98.36% (480/488)
+
+ Mistakes: 1.64% (8/488)
+
+Trainingcycle Maximum Case MajorityVote
+
+LibrispeechMini
+
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/304)
+
+✅ Accuracy: 100.00% (304/304)
+
+ Mistakes: 0.00% (0/304)
+Librispeech
+
+IDs that were Missidentified:(10/40)                                                                                                                                        
+FalseIdentifications: 0.00% (0/562)
+
+✅ Accuracy: 97.51% (548/562)
+
+ Mistakes: 2.49% (14/562)
+50Speakers
+
+IDs that were Missidentified:(6/51)
+FalseIdentifications: 0.20% (1/488)
+
+✅ Accuracy: 98.36% (480/488)
+
+ Mistakes: 1.64% (8/488)
+
+Trainingcycle MinimumCase Add
+
+LibrispeechMini                                                                                                                                                             
+
+IDs that were Missidentified:(6/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/1326)
+
+✅ Accuracy: 96.91% (1285/1326)
+
+ Mistakes: 3.09% (41/1326)
+Librispeech
+
+IDs that were Missidentified:(23/40)                                                                                                                                        
+FalseIdentifications: 0.23% (5/2188)
+
+✅ Accuracy: 88.85% (1944/2188)
+
+ Mistakes: 11.15% (244/2188)
+50Speakers
+
+IDs that were Missidentified:(28/51)
+FalseIdentifications: 0.18% (4/2190)
+
+✅ Accuracy: 91.96% (2014/2190)
+
+ Mistakes: 8.04% (176/2190)
+
+Trainingcycle Minimumcase Add MajorityVote
+
+LibrispeechMini                                                                                                                                                             
+
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/1326)
+
+✅ Accuracy: 100.00% (1326/1326)
+
+ Mistakes: 0.00% (0/1326)
+Librispeech
+
+IDs that were Missidentified:(10/40)                                                                                                                                        
+FalseIdentifications: 3.52% (77/2188)
+
+✅ Accuracy: 96.48% (2111/2188)
+
+ Mistakes: 3.52% (77/2188)
+50Speakers
+
+IDs that were Missidentified:(22/51)
+FalseIdentifications: 3.11% (68/2190)
+
+✅ Accuracy: 96.89% (2122/2190)
+
+ Mistakes: 3.11% (68/2190)
+
+Trainingcycle Maximumcase Add
+
+LibrispeechMini                                                                                                                                                             
+
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/304)
+
+✅ Accuracy: 100.00% (304/304)
+
+ Mistakes: 0.00% (0/304)
+Librispeech
+
+IDs that were Missidentified:(8/40)                                                                                                                                         
+FalseIdentifications: 0.00% (0/562)
+
+✅ Accuracy: 97.86% (550/562)
+
+ Mistakes: 2.14% (12/562)
+50Speakers
+
+IDs that were Missidentified:(6/51)
+FalseIdentifications: 0.20% (1/488)
+
+✅ Accuracy: 98.36% (480/488)
+
+ Mistakes: 1.64% (8/488)
+
+Trainingcycle Maximumcase Add Majorityvote
+
+LibrispeechMini                                                                                                                                                             
+
+IDs that were Missidentified:(0/28)                                                                                                                                         
+FalseIdentifications: 0.00% (0/304)
+
+✅ Accuracy: 100.00% (304/304)
+
+ Mistakes: 0.00% (0/304)
+Librispeech
+
+IDs that were Missidentified:(3/40)                                                                                                                                         
+FalseIdentifications: 0.53% (3/562)
+
+✅ Accuracy: 99.47% (559/562)
+
+ Mistakes: 0.53% (3/562)
+50Speakers
+
+IDs that were Missidentified:(5/51)
+FalseIdentifications: 1.02% (5/488)
+
+✅ Accuracy: 98.98% (483/488)
+
+ Mistakes: 1.02% (5/488)
+
+
+Pareto optimised Threshholds on v4
+multi-qa-mpnet-base-dot-v1
+finalscore:68.85%
+incorrect:30.97%
+zeromatches:36
+bi-encoder_msmarco_bert-base_german
+finalscore:80.38%
+incorrect:19.62%
+zeromatches:29
+paraphrase-multilingual-mpnet-base-v2
+finalscore:59.05%
+incorrect:40.95%
+zeromatches:96
+multi-qa-MiniLM-L6-dot-v1
+finalscore:42.60%
+incorrect:57.40%
+zeromatches:122
+
+
+Pareto optimised Threshholds on v3
+
+multi-qa-mpnet-base-dot-v1
+finalscore:72.52%
+incorrect:26.18%
+zeromatches:25
+bi-encoder_msmarco_bert-base_german
+finalscore:84.55%
+incorrect:13.06%
+zeromatches:15
+paraphrase-multilingual-mpnet-base-v2
+finalscore:71.72%
+incorrect:27.92%
+zeromatches:43
+multi-qa-MiniLM-L6-dot-v1
+finalscore:54.73%
+incorrect:45.27%
+zeromatches:66
+
+New on v4 optimised Pareto Threshholds on v4
+multi-qa-mpnet-base-dot-v1
+finalscore:70.06%
+incorrect:23.43%
+zeromatches:30
+bi-encoder_msmarco_bert-base_german
+finalscore:80.18%
+incorrect:18.18%
+zeromatches:29
+paraphrase-multilingual-mpnet-base-v2
+finalscore:59.05%
+incorrect:40.95%
+zeromatches:96
+multi-qa-MiniLM-L6-dot-v1
+finalscore:43.62%
+incorrect:52.33%
+zeromatches:120
+
+
+on v3 optimised Threshholds
+
+BEST: Result(threshold=0.4773869346733668, finalScore=0.7262916666666667, incorrect=0.2562083333333335) for: multi-qa-mpnet-base-dot-v1
+BEST: Result(threshold=0.9118090452261306, finalScore=0.8436666666666669, incorrect=0.1213333333333333) for: bi-encoder_msmarco_bert-base_german
+BEST: Result(threshold=0.3484924623115577, finalScore=0.7172083333333336, incorrect=0.27779166666666666) for: paraphrase-multilingual-mpnet-base-v2
+BEST: Result(threshold=0.7399497487437185, finalScore=0.5487916666666667, incorrect=0.45120833333333343) for: multi-qa-MiniLM-L6-dot-v1
+
+on v4 optimised Threshholds
+
+BEST: Result(threshold=0.5203517587939698, finalScore=0.7012500000000002, incorrect=0.21375000000000002) for: multi-qa-mpnet-base-dot-v1
+BEST: Result(threshold=0.9165829145728642, finalScore=0.804625000000001, incorrect=0.17537500000000023) for: bi-encoder_msmarco_bert-base_german
+BEST: Result(threshold=0.0, finalScore=0.5904999999999998, incorrect=0.4095000000000001) for: paraphrase-multilingual-mpnet-base-v2
+BEST: Result(threshold=0.7924623115577889, finalScore=0.4362916666666667, incorrect=0.47370833333333323) for: multi-qa-MiniLM-L6-dot-v1

@@ -1,0 +1,1887 @@
+{
+  "eintraege": [
+    {
+      "frage": "Was ist mein Name?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie heiße ich?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie ist mein Name?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie lautet mein Name?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie ist mein Vorname?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie nennt man mich?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie werde ich genannt?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Unter welchem Namen bin ich bekannt?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Kannst du mir meinen Namen sagen?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Kennst du meinen Namen?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie heißt die Person?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie heißt die Person mit Vornamen?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie lautet der Vorname der Person?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie ist der Name der Person?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie lautet mein Vorname nochmal?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie heißt die Person eigentlich?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Welchen Namen habe ich?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie lautet mein richtiger Name?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie lautet mein Vorname genau?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie soll ich angesprochen werden?",
+      "antworten": [
+        "Die Person heißt Max.",
+        "Der Name der Person ist Max."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich jetzt?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich aktuell?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich derzeit?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Welches Alter habe ich?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "In welchem Alter bin ich?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Was ist mein Lebensalter?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie viele Lebensjahre habe ich?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie viele Jahre alt bin ich?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie hoch ist mein Alter?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Welches Lebensalter habe ich?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt ist die Person?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt ist Max?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich im Moment?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich heutzutage?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich in Jahren?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich genau?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt bin ich eigentlich?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt ist die Person genau?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Wie alt ist die Person aktuell?",
+      "antworten": [
+        "Die Person ist 75 Jahre alt.",
+        "Das Alter der Person beträgt 75 Jahre."
+      ]
+    },
+    {
+      "frage": "Besitze ich Haustiere?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Habe ich Haustiere?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Haustiere habe ich?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Habe ich ein Haustier?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Gibt es Haustiere bei mir?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Habe ich Tiere?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Tiere habe ich zuhause?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Besitze ich ein Tier?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Lebe ich mit einem Haustier zusammen?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Habe ich einen Hund?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Besitze ich einen Hund?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Habe ich einen Vierbeiner?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Gibt es einen Hund bei mir?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Habe ich ein Haustierhund?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Art Haustier habe ich?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Wie heißt mein Hund?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie ist der Name meines Hunds?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie lautet der Name meines Hundes?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie wird mein Hund genannt?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt mein Hund nochmal?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt mein Vierbeiner?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt mein Haustier?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt der Hund der Person?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Kennst du den Namen meines Hundes?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt mein Hund genau?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt der Hund eigentlich?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie lautet der Hundename?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt mein Hund in echt?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt Fido?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie lautet der Name von Fido?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne mit meinem Hund spazieren?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne mit dem Hund spazieren?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Gehe ich oft mit meinem Hund raus?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Mache ich gerne Spaziergänge mit meinem Hund?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Verbringe ich gerne Zeit mit meinem Hund draußen?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Gehe ich regelmäßig mit meinem Hund spazieren?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Gehört Spazierengehen mit dem Hund zu meinem Alltag?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Mache ich gerne Gassi?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne Gassi?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne mit Fido spazieren?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Was mache ich gerne mit meinem Hund?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Welche Aktivitäten mache ich gerne mit meinem Hund?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Wie verbringe ich Zeit mit meinem Hund?",
+      "antworten": [
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido."
+      ]
+    },
+    {
+      "frage": "Habe ich einen Hund?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Besitze ich einen Hund?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Habe ich Haustiere?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Besitze ich Haustiere?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Wie viele Haustiere habe ich?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Wie viele Tiere habe ich?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Wie viele Hunde habe ich?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Haustierart habe ich?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Art von Haustier habe ich?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Tiere gehören zu mir?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Gehört ein Hund zu meinen Haustieren?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Ist mein Haustier ein Hund?",
+      "antworten": [
+        "Die Person hat einen Hund.",
+        "Der Hund der Person heißt Fido.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Habe ich einen Hund mit Namen Fido?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Heißt mein Hund Fido?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Ist der Name meines Hundes Fido?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Trägt mein Hund den Namen Fido?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie heißt mein Hund, der Fido heißt?",
+      "antworten": [
+        "Der Hund der Person heißt Fido.",
+        "Die Person hat einen Hund."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder habe ich?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Habe ich Enkelkinder?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Habe ich zwei Enkelkinder?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkel habe ich?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie alt sind meine Enkelkinder?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Wie alt sind meine Enkel?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Wie alt sind meine beiden Enkelkinder?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Wie alt sind die Enkelkinder der Person?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Welche Altersangaben gibt es zu meinen Enkelkindern?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Wie ist das Alter meiner Enkelkinder?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder hat die Person?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie alt sind die zwei Enkelkinder der Person?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Sind meine Enkelkinder 10 und 12 Jahre alt?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Habe ich Enkelkinder im Alter von 10 und 12 Jahren?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder gehören zu meiner Familie?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie alt sind meine Enkelkinder genau?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder habe ich insgesamt?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder gibt es bei mir?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie alt sind die Enkelkinder aktuell?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder habe ich?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Habe ich Enkel?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Gibt es Enkelkinder bei mir?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Gibt es Enkel bei mir?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder habe ich?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkel habe ich?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Kannst du sagen, wie viele Enkelkinder ich habe?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Kannst du sagen, wie alt meine Enkelkinder sind?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Weißt du, wie viele Enkelkinder ich habe?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Weißt du, wie alt meine Enkelkinder sind?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Weißt du zufällig, wie viele Enkelkinder ich habe?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Weißt du zufällig, wie alt meine Enkelkinder sind?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Kannst du mir sagen, wie viele Enkelkinder ich habe?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Kannst du mir sagen, wie alt meine Enkelkinder sind?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Sind es zwei Enkelkinder?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder habe ich in der Familie?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie alt sind meine Enkelkinder 10 und 12?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Haben meine Enkelkinder die Altersangaben 10 und 12 Jahre?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Sind meine Enkelkinder zwei an der Zahl?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie viele Enkelkinder hat Max?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder."
+      ]
+    },
+    {
+      "frage": "Wie alt sind die Enkelkinder von Max?",
+      "antworten": [
+        "Die Person hat zwei Enkelkinder.",
+        "Die Enkelkinder der Person sind 10 und 12 Jahre alt."
+      ]
+    },
+    {
+      "frage": "Habe ich ein Auto?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Besitze ich ein Auto?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Was für ein Auto fahre ich?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Auto fahre ich?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Auto besitze ich?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Auto hat die Person?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Was ist mein Auto?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Was ist das Auto der Person?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Was für ein Fahrzeug habe ich?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Fahre ich einen Polo?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Ist mein Auto ein Polo?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Modell ist mein Auto?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Wie heißt mein Auto-Modell?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Auto-Modell besitze ich?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welche Art Auto habe ich?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Mit welchem Auto bin ich unterwegs?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welche Karre fahre ich?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Habe ich einen Polo?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Ist mein Fahrzeug ein Polo?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Was ist der Fahrzeugtyp der Person?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Auto?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Was für ein Auto?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Mit welchem Auto?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Habe ich ein Auto? aktuell?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Auto aktuell?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Auto eigentlich?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Welches Auto genau?",
+      "antworten": [
+        "Die Person besitzt ein Auto.",
+        "Das Auto der Person ist ein Polo."
+      ]
+    },
+    {
+      "frage": "Wo gehe ich gerne spazieren?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Wo spaziere ich am liebsten?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne spazieren?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne am See spazieren?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Spaziere ich gerne am See entlang?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Verbringe ich gerne Zeit am See?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Mag ich es, am See zu sein?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Orte mag ich für Spaziergänge?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Wo gehe ich gerne mit meinem Hund spazieren?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne an der frischen Luft spazieren?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Bin ich gerne am Wasser unterwegs?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne ans Wasser?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Umgebung mag ich zum Abschalten?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Wo kann ich gut entspannen?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Was ist mein Lieblingsort zum Entspannen?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Verbringe ich gerne Zeit draußen am See?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Wo halte ich mich gerne in der Natur auf?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Outdoor-Orte mag ich?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne am Ufer spazieren?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gern zum See?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne am See spazieren eigentlich?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne am See spazieren oft?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne am See spazieren regelmäßig?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Gehört der See zu meinen Lieblingsorten?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Spaziere ich gerne mit meinem Hund am See?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren.",
+        "Die Person geht gerne mit ihrem Hund spazieren."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne am See spazieren, wenn ich Zeit habe?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Wo verbringe ich gerne Zeit in meiner Freizeit?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Mache ich gerne Spaziergänge am Wasser?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Welche Orte am Wasser gefallen mir?",
+      "antworten": [
+        "Die Person verbringt gerne Zeit am See.",
+        "Die Person geht gerne am See spazieren."
+      ]
+    },
+    {
+      "frage": "Was für Sport mache ich in meiner Freizeit?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Mache ich Sport?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Treibe ich Sport?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Welche Sportarten mache ich?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Welche Sportarten mache ich gerne?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne laufen?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne joggen?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne bouldern?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Mache ich gerne Bouldern?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Wie halte ich mich fit?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Wie bleibe ich in Form?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Was mache ich, um fit zu bleiben?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Wie sieht mein Sportprogramm aus?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Welche sportlichen Aktivitäten mag ich?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Bin ich gerne sportlich aktiv?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Mag ich Bewegung?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Bin ich gerne aktiv?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Welche Aktivitäten mache ich körperlich gern?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Was mache ich sportlich am liebsten?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Wie bewege ich mich in der Freizeit?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Mache ich Sport oft?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Mache ich Sport regelmäßig?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Mache ich Sport am liebsten?",
+      "antworten": [
+        "Die Person macht gerne Sport.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern."
+      ]
+    },
+    {
+      "frage": "Was sind meine Hobbys?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Hobbys habe ich?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was mache ich gerne in meiner Freizeit?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Freizeitaktivitäten habe ich?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Womit beschäftige ich mich gerne?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was sind meine Lieblingsbeschäftigungen?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was mache ich gerne am Wochenende?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Dinge mache ich gerne?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Interessen habe ich?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was mache ich gerne zum Entspannen?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was mache ich gerne drinnen?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was mache ich gerne draußen?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Beschäftigungen machen mir Spaß?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was sind meine Freizeitinteressen?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Hobbys habe ich außer Sport?",
+      "antworten": [
+        "Die Person liest gerne.",
+        "Die Person geht gerne mit ihrem Hund spazieren.",
+        "Die Person geht gerne laufen.",
+        "Die Person geht gerne bouldern.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was für Musik höre ich gerne?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Musik höre ich gerne?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Musikrichtung mag ich?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Musikrichtung bevorzuge ich?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Mag ich klassische Musik?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Höre ich gerne Klassik?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was ist mein Musikgeschmack?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche musikalischen Vorlieben habe ich?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Gehe ich gerne auf Konzerte?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Besuche ich gerne Konzerte?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Bin ich gerne bei Live-Musik dabei?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Konzerte besuche ich gerne?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Kulturveranstaltungen mag ich?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Mag ich kulturelle Veranstaltungen wie Konzerte?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Musik höre ich gerne zur Entspannung?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Musik läuft bei mir oft?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Musik gefällt mir?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Was höre ich musikalisch am liebsten?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Welche Musik begleitet mich?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    },
+    {
+      "frage": "Wie verbringe ich Zeit musikalisch?",
+      "antworten": [
+        "Die Person hört gerne klassische Musik.",
+        "Die Person besucht gerne Konzerte."
+      ]
+    }
+  ],
+  "alle_antworten": [
+    "Das Alter der Person beträgt 75 Jahre.",
+    "Das Auto der Person ist ein Polo.",
+    "Der Hund der Person heißt Fido.",
+    "Der Name der Person ist Max.",
+    "Die Enkelkinder der Person sind 10 und 12 Jahre alt.",
+    "Die Person besitzt ein Auto.",
+    "Die Person besucht gerne Konzerte.",
+    "Die Person geht gerne am See spazieren.",
+    "Die Person geht gerne bouldern.",
+    "Die Person geht gerne laufen.",
+    "Die Person geht gerne mit ihrem Hund spazieren.",
+    "Die Person hat einen Hund.",
+    "Die Person hat zwei Enkelkinder.",
+    "Die Person heißt Max.",
+    "Die Person hört gerne klassische Musik.",
+    "Die Person ist 75 Jahre alt.",
+    "Die Person liest gerne.",
+    "Die Person macht gerne Sport.",
+    "Die Person verbringt gerne Zeit am See."
+  ]
+}

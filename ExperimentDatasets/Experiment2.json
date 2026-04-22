@@ -1,0 +1,2594 @@
+[
+  {
+    "id":1,
+    "aussage": "Ich bin heute mit dem Fahrrad zum Supermarkt gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person besitzt ein Fahrrad",
+      "Die Person war heute im/am Supermarkt"
+    ]
+  },
+  {
+    "id": 2,
+    "aussage": "Ich habe heute meinen Opa am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Opa",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 3,
+    "aussage": "Ich habe heute meine Schwester am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Schwester",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 4,
+    "aussage": "Ich war heute im Drogerie und habe Gemüse gekauft und bar bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Drogerie",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat bar bezahlt"
+    ]
+  },
+  {
+    "id": 5,
+    "aussage": "Nach der Arbeit habe ich Staub gesaugt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 6,
+    "aussage": "Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 7,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 8,
+    "aussage": "Im Büro habe ich heute eine E-Mail geschrieben.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 9,
+    "aussage": "Ich habe heute meinen Mutter angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat eine Mutter"
+    ]
+  },
+  {
+    "id": 10,
+    "aussage": "Ich habe mich heute mit Sofia im Café getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 11,
+    "aussage": "Ich habe heute meinen Hund gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 12,
+    "aussage": "Ich hatte heute Kopfschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 13,
+    "aussage": "Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 14,
+    "aussage": "Heute Abend bin ich ein Buch gelesen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 15,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 16,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 17,
+    "aussage": "Ich bin heute mit dem E-Scooter zum Waschsalon gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt einen E-Scooter",
+      "Die Person war heute im/am Waschsalon"
+    ]
+  },
+  {
+    "id": 18,
+    "aussage": "Ich habe heute meinen Opa am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Opa",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 19,
+    "aussage": "Ich habe heute meine Mutter am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Mutter",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 20,
+    "aussage": "Ich war heute im Drogerie und habe Bananen gekauft und per App bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Drogerie",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per App bezahlt"
+    ]
+  },
+  {
+    "id": 21,
+    "aussage": "Nach der Arbeit habe ich Wäsche gewaschen.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 22,
+    "aussage": "Ich habe heute Abend Pasta gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 23,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 24,
+    "aussage": "Im Büro habe ich heute an einem Meeting teilgenommen.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 25,
+    "aussage": "Ich habe heute meine Vater angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat einen Vater"
+    ]
+  },
+  {
+    "id": 26,
+    "aussage": "Ich habe mich heute mit Jonas im Restaurant getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Restaurant"
+    ]
+  },
+  {
+    "id": 27,
+    "aussage": "Ich habe heute meinen Hund gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 28,
+    "aussage": "Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 29,
+    "aussage": "Ich habe heute Geld abgehoben und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 30,
+    "aussage": "Heute Abend bin ich Yoga gemacht und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 31,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 32,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 33,
+    "aussage": "Ich bin heute mit dem Auto zum Restaurant gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person besitzt ein Auto",
+      "Die Person war heute im/am Restaurant"
+    ]
+  },
+  {
+    "id": 34,
+    "aussage": "Ich habe heute meinen Bruder am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Bruder",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 35,
+    "aussage": "Ich habe heute meine Cousine am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat einen Cousin",
+      "Die Person hat eine Cousine",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 36,
+    "aussage": "Ich war heute im Supermarkt und habe Joghurt gekauft und per App bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Supermarkt",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per App bezahlt"
+    ]
+  },
+  {
+    "id": 37,
+    "aussage": "Nach der Arbeit habe ich die Küche aufgeräumt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 38,
+    "aussage": "Ich habe heute Abend eine Suppe gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 39,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 40,
+    "aussage": "Im Büro habe ich heute eine E-Mail geschrieben.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 41,
+    "aussage": "Ich habe heute meinen Partnerin angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat einen Partner",
+      "Die Person hat eine Partnerin"
+    ]
+  },
+  {
+    "id": 42,
+    "aussage": "Ich habe mich heute mit Jonas im Café getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 43,
+    "aussage": "Ich habe heute meinen Hund gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 44,
+    "aussage": "Ich hatte heute eine Erkältung und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 45,
+    "aussage": "Ich habe heute Geld abgehoben und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 46,
+    "aussage": "Heute Abend bin ich mit Freunden gekocht und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht",
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 47,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 48,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 49,
+    "aussage": "Ich bin heute mit dem Bus zum Flughafen gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt öffentliche Verkehrsmittel",
+      "Die Person war heute im/am Flughafen"
+    ]
+  },
+  {
+    "id": 50,
+    "aussage": "Ich habe heute meinen Opa am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Opa",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 51,
+    "aussage": "Ich habe heute meine Oma am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Oma",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 52,
+    "aussage": "Ich war heute im Drogerie und habe Tee gekauft und bar bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Drogerie",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat bar bezahlt"
+    ]
+  },
+  {
+    "id": 53,
+    "aussage": "Nach der Arbeit habe ich das Bad geputzt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 54,
+    "aussage": "Ich habe heute Abend Pasta gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 55,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 56,
+    "aussage": "Im Büro habe ich heute an einem Meeting teilgenommen.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 57,
+    "aussage": "Ich habe heute meine Nachbar angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat einen Nachbar"
+    ]
+  },
+  {
+    "id": 58,
+    "aussage": "Ich habe mich heute mit Lena im Park getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 59,
+    "aussage": "Ich habe heute meinen Katze gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 60,
+    "aussage": "Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 61,
+    "aussage": "Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 62,
+    "aussage": "Heute Abend bin ich ein Buch gelesen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 63,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 64,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 65,
+    "aussage": "Ich bin heute mit dem Auto zum Bibliothek gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person besitzt ein Auto",
+      "Die Person war heute im/am Bibliothek"
+    ]
+  },
+  {
+    "id": 66,
+    "aussage": "Ich habe heute meinen Cousin am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Cousin",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 67,
+    "aussage": "Ich habe heute meine Oma am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Oma",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 68,
+    "aussage": "Ich war heute im Supermarkt und habe Reis gekauft und per App bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Supermarkt",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per App bezahlt"
+    ]
+  },
+  {
+    "id": 69,
+    "aussage": "Nach der Arbeit habe ich die Küche aufgeräumt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 70,
+    "aussage": "Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 71,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 72,
+    "aussage": "Im Büro habe ich heute eine Präsentation vorbereitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 73,
+    "aussage": "Ich habe heute meine Oma angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat eine Oma"
+    ]
+  },
+  {
+    "id": 74,
+    "aussage": "Ich habe mich heute mit Lena im Café getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 75,
+    "aussage": "Ich habe heute meinen Katze gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 76,
+    "aussage": "Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 77,
+    "aussage": "Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 78,
+    "aussage": "Heute Abend bin ich im Café gesessen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 79,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 80,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 81,
+    "aussage": "Ich bin heute mit dem Bus zum Schule gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt öffentliche Verkehrsmittel"
+    ]
+  },
+  {
+    "id": 82,
+    "aussage": "Ich habe heute meinen Vater am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Vater",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 83,
+    "aussage": "Ich habe heute meine Cousine am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat einen Cousin",
+      "Die Person hat eine Cousine",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 84,
+    "aussage": "Ich war heute im Supermarkt und habe Milch gekauft und bar bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Supermarkt",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat bar bezahlt"
+    ]
+  },
+  {
+    "id": 85,
+    "aussage": "Nach der Arbeit habe ich das Bad geputzt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 86,
+    "aussage": "Ich habe heute Abend Pasta gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 87,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 88,
+    "aussage": "Im Büro habe ich heute Tickets bearbeitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 89,
+    "aussage": "Ich habe heute meine Mutter angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat eine Mutter"
+    ]
+  },
+  {
+    "id": 90,
+    "aussage": "Ich habe mich heute mit Mara im Restaurant getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Restaurant"
+    ]
+  },
+  {
+    "id": 91,
+    "aussage": "Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 92,
+    "aussage": "Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 93,
+    "aussage": "Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 94,
+    "aussage": "Heute Abend bin ich im Park spazieren gegangen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 95,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 96,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 97,
+    "aussage": "Ich bin heute mit dem Tram zum Bibliothek gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt öffentliche Verkehrsmittel",
+      "Die Person war heute im/am Bibliothek"
+    ]
+  },
+  {
+    "id": 98,
+    "aussage": "Ich habe heute meinen Bruder am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Bruder",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 99,
+    "aussage": "Ich habe heute meine Oma am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Oma",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 100,
+    "aussage": "Ich war heute im Bäckerei und habe Pasta gekauft und per Überweisung bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Bäckerei",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per Überweisung bezahlt"
+    ]
+  },
+  {
+    "id": 101,
+    "aussage": "Nach der Arbeit habe ich den Müll rausgebracht.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 102,
+    "aussage": "Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 103,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 104,
+    "aussage": "Im Büro habe ich heute Telefonate geführt.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 105,
+    "aussage": "Ich habe heute meinen Tochter angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat eine Tochter"
+    ]
+  },
+  {
+    "id": 106,
+    "aussage": "Ich habe mich heute mit Mila im Park getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 107,
+    "aussage": "Ich habe heute meinen Kaninchen gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 108,
+    "aussage": "Ich hatte heute Kopfschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 109,
+    "aussage": "Ich habe heute eine Rechnung bezahlt und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 110,
+    "aussage": "Heute Abend bin ich joggen gewesen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 111,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 112,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 113,
+    "aussage": "Ich bin heute mit dem U-Bahn zum Bank gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt öffentliche Verkehrsmittel",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 114,
+    "aussage": "Ich habe heute meinen Bruder am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Bruder",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 115,
+    "aussage": "Ich habe heute meine Oma am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Oma",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 116,
+    "aussage": "Ich war heute im Bäckerei und habe Brot gekauft und bar bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Bäckerei",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat bar bezahlt"
+    ]
+  },
+  {
+    "id": 117,
+    "aussage": "Nach der Arbeit habe ich die Spülmaschine eingeräumt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 118,
+    "aussage": "Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 119,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 120,
+    "aussage": "Im Büro habe ich heute an einem Meeting teilgenommen.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 121,
+    "aussage": "Ich habe heute meinen Cousine angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat einen Cousin",
+      "Die Person hat eine Cousine"
+    ]
+  },
+  {
+    "id": 122,
+    "aussage": "Ich habe mich heute mit Fatima im Café getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 123,
+    "aussage": "Ich habe heute meinen Hund gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 124,
+    "aussage": "Ich hatte heute eine Erkältung und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 125,
+    "aussage": "Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 126,
+    "aussage": "Heute Abend bin ich eine Serie geschaut und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 127,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 128,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 129,
+    "aussage": "Ich bin heute mit dem U-Bahn zum Park gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt öffentliche Verkehrsmittel",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 130,
+    "aussage": "Ich habe heute meinen Vater am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Vater",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 131,
+    "aussage": "Ich habe heute meine Oma am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Oma",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 132,
+    "aussage": "Ich war heute im Bäckerei und habe Reis gekauft und mit Karte bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Bäckerei",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat mit Karte bezahlt"
+    ]
+  },
+  {
+    "id": 133,
+    "aussage": "Nach der Arbeit habe ich Wäsche gewaschen.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 134,
+    "aussage": "Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 135,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 136,
+    "aussage": "Im Büro habe ich heute Tickets bearbeitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 137,
+    "aussage": "Ich habe heute meine Kind angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat ein Kind"
+    ]
+  },
+  {
+    "id": 138,
+    "aussage": "Ich habe mich heute mit Lisa im Restaurant getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Restaurant"
+    ]
+  },
+  {
+    "id": 139,
+    "aussage": "Ich habe heute meinen Hund gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 140,
+    "aussage": "Ich hatte heute Kopfschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 141,
+    "aussage": "Ich habe heute eine Rechnung bezahlt und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 142,
+    "aussage": "Heute Abend bin ich im Park spazieren gegangen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 143,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 144,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 145,
+    "aussage": "Ich bin heute mit dem Bus zum Supermarkt gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt öffentliche Verkehrsmittel",
+      "Die Person war heute im/am Supermarkt"
+    ]
+  },
+  {
+    "id": 146,
+    "aussage": "Ich habe heute meinen Vater am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Vater",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 147,
+    "aussage": "Ich habe heute meine Schwester am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Schwester",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 148,
+    "aussage": "Ich war heute im Supermarkt und habe Eier gekauft und bar bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Supermarkt",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat bar bezahlt"
+    ]
+  },
+  {
+    "id": 149,
+    "aussage": "Nach der Arbeit habe ich die Küche aufgeräumt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 150,
+    "aussage": "Ich habe heute Abend eine Suppe gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 151,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 152,
+    "aussage": "Im Büro habe ich heute eine E-Mail geschrieben.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 153,
+    "aussage": "Ich habe heute meine Mutter angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat eine Mutter"
+    ]
+  },
+  {
+    "id": 154,
+    "aussage": "Ich habe mich heute mit Lisa im Café getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 155,
+    "aussage": "Ich habe heute meinen Kaninchen gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 156,
+    "aussage": "Ich hatte heute eine Erkältung und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 157,
+    "aussage": "Ich habe heute eine Rechnung bezahlt und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 158,
+    "aussage": "Heute Abend bin ich eine Serie geschaut und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 159,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 160,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 161,
+    "aussage": "Ich bin heute mit dem E-Scooter zum Schule gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt einen E-Scooter"
+    ]
+  },
+  {
+    "id": 162,
+    "aussage": "Ich habe heute meinen Cousin am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Cousin",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 163,
+    "aussage": "Ich habe heute meine Cousine am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat einen Cousin",
+      "Die Person hat eine Cousine",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 164,
+    "aussage": "Ich war heute im Drogerie und habe Obst gekauft und bar bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Drogerie",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat bar bezahlt"
+    ]
+  },
+  {
+    "id": 165,
+    "aussage": "Nach der Arbeit habe ich die Pflanzen gegossen.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 166,
+    "aussage": "Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 167,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 168,
+    "aussage": "Im Büro habe ich heute eine Präsentation vorbereitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 169,
+    "aussage": "Ich habe heute meine Kind angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat ein Kind"
+    ]
+  },
+  {
+    "id": 170,
+    "aussage": "Ich habe mich heute mit Emma im Park getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 171,
+    "aussage": "Ich habe heute meinen Hund gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 172,
+    "aussage": "Ich hatte heute Rückenschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 173,
+    "aussage": "Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 174,
+    "aussage": "Heute Abend bin ich joggen gewesen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 175,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 176,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 177,
+    "aussage": "Ich bin heute mit dem Fahrrad zum Schule gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person besitzt ein Fahrrad"
+    ]
+  },
+  {
+    "id": 178,
+    "aussage": "Ich habe heute meinen Vater am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Vater",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 179,
+    "aussage": "Ich habe heute meine Schwester am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Schwester",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 180,
+    "aussage": "Ich war heute im Bäckerei und habe Gemüse gekauft und per Überweisung bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Bäckerei",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per Überweisung bezahlt"
+    ]
+  },
+  {
+    "id": 181,
+    "aussage": "Nach der Arbeit habe ich das Bad geputzt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 182,
+    "aussage": "Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 183,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 184,
+    "aussage": "Im Büro habe ich heute eine Präsentation vorbereitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 185,
+    "aussage": "Ich habe heute meinen Mutter angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat eine Mutter"
+    ]
+  },
+  {
+    "id": 186,
+    "aussage": "Ich habe mich heute mit Jana im Park getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 187,
+    "aussage": "Ich habe heute meinen Hund gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 188,
+    "aussage": "Ich hatte heute Rückenschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 189,
+    "aussage": "Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 190,
+    "aussage": "Heute Abend bin ich im Park spazieren gegangen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 191,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 192,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 193,
+    "aussage": "Ich bin heute mit dem S-Bahn zum Flughafen gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt öffentliche Verkehrsmittel",
+      "Die Person war heute im/am Flughafen"
+    ]
+  },
+  {
+    "id": 194,
+    "aussage": "Ich habe heute meinen Cousin am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Cousin",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 195,
+    "aussage": "Ich habe heute meine Cousine am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat einen Cousin",
+      "Die Person hat eine Cousine",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 196,
+    "aussage": "Ich war heute im Bäckerei und habe Reis gekauft und per Überweisung bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Bäckerei",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per Überweisung bezahlt"
+    ]
+  },
+  {
+    "id": 197,
+    "aussage": "Nach der Arbeit habe ich den Müll rausgebracht.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 198,
+    "aussage": "Ich habe heute Abend Pasta gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 199,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 200,
+    "aussage": "Im Büro habe ich heute eine Präsentation vorbereitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 201,
+    "aussage": "Ich habe heute meinen Nachbar angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat einen Nachbar"
+    ]
+  },
+  {
+    "id": 202,
+    "aussage": "Ich habe mich heute mit Lena im Restaurant getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Restaurant"
+    ]
+  },
+  {
+    "id": 203,
+    "aussage": "Ich habe heute meinen Kaninchen gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 204,
+    "aussage": "Ich hatte heute eine Erkältung und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 205,
+    "aussage": "Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 206,
+    "aussage": "Heute Abend bin ich eine Serie geschaut und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 207,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 208,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 209,
+    "aussage": "Ich bin heute mit dem S-Bahn zum Fitnessstudio gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person nutzt öffentliche Verkehrsmittel",
+      "Die Person war heute im/am Fitnessstudio"
+    ]
+  },
+  {
+    "id": 210,
+    "aussage": "Ich habe heute meinen Vater am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Vater",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 211,
+    "aussage": "Ich habe heute meine Mutter am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Mutter",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 212,
+    "aussage": "Ich war heute im Supermarkt und habe Käse gekauft und bar bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Supermarkt",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat bar bezahlt"
+    ]
+  },
+  {
+    "id": 213,
+    "aussage": "Nach der Arbeit habe ich den Müll rausgebracht.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 214,
+    "aussage": "Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 215,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 216,
+    "aussage": "Im Büro habe ich heute Telefonate geführt.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 217,
+    "aussage": "Ich habe heute meinen Schwester angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat eine Schwester"
+    ]
+  },
+  {
+    "id": 218,
+    "aussage": "Ich habe mich heute mit Lisa im Café getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 219,
+    "aussage": "Ich habe heute meinen Katze gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 220,
+    "aussage": "Ich hatte heute Rückenschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 221,
+    "aussage": "Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 222,
+    "aussage": "Heute Abend bin ich ein Buch gelesen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 223,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 224,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 225,
+    "aussage": "Ich bin heute mit dem zu Fuß zum Post gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person war heute im/am Post"
+    ]
+  },
+  {
+    "id": 226,
+    "aussage": "Ich habe heute meinen Vater am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Vater",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 227,
+    "aussage": "Ich habe heute meine Mutter am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Mutter",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 228,
+    "aussage": "Ich war heute im Supermarkt und habe Bananen gekauft und per App bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Supermarkt",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per App bezahlt"
+    ]
+  },
+  {
+    "id": 229,
+    "aussage": "Nach der Arbeit habe ich Wäsche gewaschen.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 230,
+    "aussage": "Ich habe heute Abend Pasta gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 231,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 232,
+    "aussage": "Im Büro habe ich heute Tickets bearbeitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 233,
+    "aussage": "Ich habe heute meine Cousine angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat einen Cousin",
+      "Die Person hat eine Cousine"
+    ]
+  },
+  {
+    "id": 234,
+    "aussage": "Ich habe mich heute mit Lena im Restaurant getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Restaurant"
+    ]
+  },
+  {
+    "id": 235,
+    "aussage": "Ich habe heute meinen Katze gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 236,
+    "aussage": "Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 237,
+    "aussage": "Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 238,
+    "aussage": "Heute Abend bin ich joggen gewesen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 239,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 240,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 241,
+    "aussage": "Ich bin heute mit dem Fahrrad zum Supermarkt gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person besitzt ein Fahrrad",
+      "Die Person war heute im/am Supermarkt"
+    ]
+  },
+  {
+    "id": 242,
+    "aussage": "Ich habe heute meinen Cousin am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Cousin",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 243,
+    "aussage": "Ich habe heute meine Mutter am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Mutter",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 244,
+    "aussage": "Ich war heute im Supermarkt und habe Reis gekauft und per App bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Supermarkt",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per App bezahlt"
+    ]
+  },
+  {
+    "id": 245,
+    "aussage": "Nach der Arbeit habe ich das Bad geputzt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 246,
+    "aussage": "Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 247,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 248,
+    "aussage": "Im Büro habe ich heute eine E-Mail geschrieben.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 249,
+    "aussage": "Ich habe heute meinen Freundin angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert"
+    ]
+  },
+  {
+    "id": 250,
+    "aussage": "Ich habe mich heute mit Tim im Café getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 251,
+    "aussage": "Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 252,
+    "aussage": "Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 253,
+    "aussage": "Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 254,
+    "aussage": "Heute Abend bin ich Yoga gemacht und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 255,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 256,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 257,
+    "aussage": "Ich bin heute mit dem Fahrrad zum Bahnhof gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person besitzt ein Fahrrad",
+      "Die Person war heute im/am Bahnhof"
+    ]
+  },
+  {
+    "id": 258,
+    "aussage": "Ich habe heute meinen Opa am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Opa",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 259,
+    "aussage": "Ich habe heute meine Mutter am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Mutter",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 260,
+    "aussage": "Ich war heute im Supermarkt und habe Gemüse gekauft und per App bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Supermarkt",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per App bezahlt"
+    ]
+  },
+  {
+    "id": 261,
+    "aussage": "Nach der Arbeit habe ich Wäsche gewaschen.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 262,
+    "aussage": "Ich habe heute Abend Pasta gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 263,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 264,
+    "aussage": "Im Büro habe ich heute Tickets bearbeitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 265,
+    "aussage": "Ich habe heute meine Cousin angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat einen Cousin"
+    ]
+  },
+  {
+    "id": 266,
+    "aussage": "Ich habe mich heute mit Lena im Park getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 267,
+    "aussage": "Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 268,
+    "aussage": "Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 269,
+    "aussage": "Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 270,
+    "aussage": "Heute Abend bin ich im Park spazieren gegangen und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht",
+      "Die Person war heute im/am Park"
+    ]
+  },
+  {
+    "id": 271,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 272,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 273,
+    "aussage": "Ich bin heute mit dem zu Fuß zum Büro gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 274,
+    "aussage": "Ich habe heute meinen Bruder am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Bruder",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 275,
+    "aussage": "Ich habe heute meine Mutter am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Mutter",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 276,
+    "aussage": "Ich war heute im Apotheke und habe Gemüse gekauft und per App bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Apotheke",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per App bezahlt"
+    ]
+  },
+  {
+    "id": 277,
+    "aussage": "Nach der Arbeit habe ich das Bad geputzt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 278,
+    "aussage": "Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 279,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 280,
+    "aussage": "Im Büro habe ich heute Telefonate geführt.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 281,
+    "aussage": "Ich habe heute meine Bruder angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert",
+      "Die Person hat einen Bruder"
+    ]
+  },
+  {
+    "id": 282,
+    "aussage": "Ich habe mich heute mit Mila im Café getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Café"
+    ]
+  },
+  {
+    "id": 283,
+    "aussage": "Ich habe heute meinen Katze gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 284,
+    "aussage": "Ich hatte heute Rückenschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  },
+  {
+    "id": 285,
+    "aussage": "Ich habe heute Geld abgehoben und alles in meiner Banking-App dokumentiert.",
+    "fakten": [
+      "Die Person nutzt Online-Banking",
+      "Die Person war heute im/am Bank"
+    ]
+  },
+  {
+    "id": 286,
+    "aussage": "Heute Abend bin ich eine Serie geschaut und danach habe ich geduscht.",
+    "fakten": [
+      "Die Person hat heute Freizeitaktivitäten gemacht",
+      "Die Person hat geduscht"
+    ]
+  },
+  {
+    "id": 287,
+    "aussage": "Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.",
+    "fakten": [
+      "Die Person hat ein Kind",
+      "Die Person war heute in der Kita",
+      "Die Person war heute im/am Kita"
+    ]
+  },
+  {
+    "id": 288,
+    "aussage": "Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.",
+    "fakten": [
+      "Die Person war heute bei der Post",
+      "Die Person hat ein Paket abgegeben",
+      "Die Person war heute im/am Post",
+      "Die Person hat heute ein Paket abgegeben"
+    ]
+  },
+  {
+    "id": 289,
+    "aussage": "Ich bin heute mit dem zu Fuß zum Bahnhof gefahren.",
+    "fakten": [
+      "Die Person war heute unterwegs",
+      "Die Person war heute im/am Bahnhof"
+    ]
+  },
+  {
+    "id": 290,
+    "aussage": "Ich habe heute meinen Bruder am Flughafen abgeholt.",
+    "fakten": [
+      "Die Person war am Flughafen",
+      "Die Person war heute im/am Flughafen",
+      "Die Person hat einen Bruder",
+      "Die Person hat jemanden am Flughafen abgeholt"
+    ]
+  },
+  {
+    "id": 291,
+    "aussage": "Ich habe heute meine Oma am Bahnhof abgeholt.",
+    "fakten": [
+      "Die Person war am Bahnhof",
+      "Die Person war heute im/am Bahnhof",
+      "Die Person hat eine Oma",
+      "Die Person hat jemanden am Bahnhof abgeholt"
+    ]
+  },
+  {
+    "id": 292,
+    "aussage": "Ich war heute im Apotheke und habe Milch gekauft und per App bezahlt.",
+    "fakten": [
+      "Die Person war heute einkaufen",
+      "Die Person war heute im/am Apotheke",
+      "Die Person hat heute etwas gekauft",
+      "Die Person hat per App bezahlt"
+    ]
+  },
+  {
+    "id": 293,
+    "aussage": "Nach der Arbeit habe ich die Küche aufgeräumt.",
+    "fakten": [
+      "Die Person ist arbeiten gegangen",
+      "Die Person hat Hausarbeit erledigt"
+    ]
+  },
+  {
+    "id": 294,
+    "aussage": "Ich habe heute Abend Pasta gekocht und danach aufgeräumt.",
+    "fakten": [
+      "Die Person hat heute gekocht"
+    ]
+  },
+  {
+    "id": 295,
+    "aussage": "Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.",
+    "fakten": [
+      "Die Person hat heute im Homeoffice gearbeitet",
+      "Die Person hat eine Videokonferenz gemacht",
+      "Die Person hat heute eine Videokonferenz gemacht"
+    ]
+  },
+  {
+    "id": 296,
+    "aussage": "Im Büro habe ich heute Tickets bearbeitet.",
+    "fakten": [
+      "Die Person war heute im Büro",
+      "Die Person war heute im/am Büro"
+    ]
+  },
+  {
+    "id": 297,
+    "aussage": "Ich habe heute meinen Freundin angerufen, um kurz zu reden.",
+    "fakten": [
+      "Die Person hat heute telefoniert"
+    ]
+  },
+  {
+    "id": 298,
+    "aussage": "Ich habe mich heute mit Kian im Restaurant getroffen.",
+    "fakten": [
+      "Die Person hat sich heute mit jemandem getroffen",
+      "Die Person war heute im/am Restaurant"
+    ]
+  },
+  {
+    "id": 299,
+    "aussage": "Ich habe heute meinen Katze gefüttert und danach den Napf gespült.",
+    "fakten": [
+      "Die Person hat ein Haustier",
+      "Die Person kümmert sich um ein Haustier"
+    ]
+  },
+  {
+    "id": 300,
+    "aussage": "Ich hatte heute Kopfschmerzen und habe einen Arzttermin vereinbart.",
+    "fakten": [
+      "Die Person hatte heute gesundheitliche Beschwerden",
+      "Die Person hat einen Arzttermin vereinbart"
+    ]
+  }
+]

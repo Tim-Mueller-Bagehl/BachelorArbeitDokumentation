@@ -1,0 +1,1890 @@
+Query:Ich bin heute mit dem Fahrrad zum Supermarkt gefahren.
+Good Matches:
+('person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+('person fährt mit dem fahrrad', 'Die Person besitzt ein Fahrrad')
+
+Query:Ich habe heute meinen Opa am Flughafen abgeholt.
+Good Matches:
+('die person hat heute am flughafen jemanden abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat einen opa', 'Die Person hat einen Opa')
+('die person hat einen bezug zum flughafen', 'Die Person war am Flughafen')
+
+Query:Ich habe heute meine Schwester am Bahnhof abgeholt.
+Good Matches:
+('die person hat sie heute am bahnhof abgeholt.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine schwester', 'Die Person hat eine Schwester')
+
+Query:Ich war heute im Drogerie und habe Gemüse gekauft und bar bezahlt.
+Good Matches:
+('die person hat gemüse gekauft', 'Die Person hat heute etwas gekauft')
+('die person hat bar bezahlt.', 'Die Person hat bar bezahlt')
+('die person war heute in einer drogerie', 'Die Person war heute im/am Drogerie')
+
+Query:Nach der Arbeit habe ich Staub gesaugt.
+Good Matches:
+('die person führt haushaltsaufgaben durch', 'Die Person hat Hausarbeit erledigt')
+('die person hat eine arbeit', 'Die Person ist arbeiten gegangen')
+('die person hat nach der arbeit staub gesaugt', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pfannkuchen gebacken', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat heute gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('die person hat eine videokonferenz gemacht', 'Die Person hat eine Videokonferenz gemacht')
+('die person arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute eine E-Mail geschrieben.
+Good Matches:
+('hat heute eine e-mail geschrieben', 'Die Person war heute im/am Büro')
+('arbeitet im büro', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Mutter angerufen, um kurz zu reden.
+Good Matches:
+('die person hat ein gutes verhältnis zu ihrer mutter', 'Die Person hat eine Mutter')
+('die person kommuniziert regelmäßig mit ihrer familie.', 'Die Person hat eine Mutter')
+('die person hat heute ihre mutter angerufen', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Sofia im Café getroffen.
+Good Matches:
+('die person hat sich heute mit jemandem namens sofia im café getroffen.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person war heute im café.', 'Die Person war heute im/am Café')
+('die person hat soziale kontakte.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Hund gefüttert und danach den Napf gespült.
+Good Matches:
+('hat einen hund', 'Die Person hat ein Haustier')
+('füttert seinen hund regelmäßig', 'Die Person kümmert sich um ein Haustier')
+
+Bad Matches: 
+('spült den napf nach dem füttern', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Kopfschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute kopfschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person dokumentiert ihre finanzen.', 'Die Person nutzt Online-Banking')
+('die person hat ihr konto heute geprüft', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich ein Buch gelesen und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person hat heute abend ein buch gelesen', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person hat heute ihr kind aus der kita abgeholt', 'Die Person war heute in der Kita')
+('die person hat ein kind', 'Die Person hat ein Kind')
+('das kind geht in die kita', 'Die Person hat ein Kind')
+
+Bad Matches: 
+('die person ist nach hause gegangen', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem E-Scooter zum Waschsalon gefahren.
+Good Matches:
+('die person hat heute etwas unternommen', 'Die Person war heute unterwegs')
+('die person fährt e-scooter', 'Die Person nutzt einen E-Scooter')
+('die person hat einen waschsalon besucht', 'Die Person war heute im/am Waschsalon')
+
+Query:Ich habe heute meinen Opa am Flughafen abgeholt.
+Good Matches:
+('die person hat einen opa', 'Die Person hat einen Opa')
+('die person ist in der lage, jemanden am flughafen abzuholen.', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat heute ihren opa am flughafen abgeholt', 'Die Person hat einen Opa')
+
+Query:Ich habe heute meine Mutter am Bahnhof abgeholt.
+Good Matches:
+('die person hat zugang zu einem bahnhof', 'Die Person war am Bahnhof')
+('die person hat heute etwas unternommen', 'Die Person war heute im/am Bahnhof')
+('die person hat ihre mutter am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+
+Query:Ich war heute im Drogerie und habe Bananen gekauft und per App bezahlt.
+Good Matches:
+('die person war heute im drogerie', 'Die Person war heute im/am Drogerie')
+('die person hat per app bezahlt', 'Die Person hat per App bezahlt')
+
+Bad Matches: 
+('die person hat bananen gekauft', 'Die Person hat heute etwas gekauft')
+
+Query:Nach der Arbeit habe ich Wäsche gewaschen.
+Good Matches:
+('die person hat eine berufliche tätigkeit.', 'Die Person ist arbeiten gegangen')
+('die person erledigt hausarbeiten nach der arbeit.', 'Die Person hat Hausarbeit erledigt')
+('die person hat nach der arbeit wäsche gewaschen.', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend Pasta gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pasta gekocht', 'Die Person hat heute gekocht')
+('die person hat nach dem kochen aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+('war heute aktiv beruflich tätig', 'Die Person hat heute im Homeoffice gearbeitet')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute an einem Meeting teilgenommen.
+Good Matches:
+('die person hat heute an einem meeting teilgenommen.', 'Die Person war heute im Büro')
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Vater angerufen, um kurz zu reden.
+Good Matches:
+('die person hat ein gutes verhältnis zu ihrem vater', 'Die Person hat einen Vater')
+('die person hat heute ihren vater angerufen', 'Die Person hat heute telefoniert')
+('die person kommuniziert regelmäßig mit ihrer familie.', 'Die Person hat einen Vater')
+
+Query:Ich habe mich heute mit Jonas im Restaurant getroffen.
+Good Matches:
+('treffpunkt war ein restaurant', 'Die Person war heute im/am Restaurant')
+('person hat sich heute mit jemandem namens jonas getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Hund gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat heute den hund gefüttert', 'Die Person kümmert sich um ein Haustier')
+('die person hat den napf des hundes gespült', 'Die Person kümmert sich um ein Haustier')
+('die person hat einen hund', 'Die Person hat ein Haustier')
+
+Query:Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute halsschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute Geld abgehoben und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person dokumentiert ihre finanzen.', 'Die Person nutzt Online-Banking')
+('die person hat heute geld abgehoben', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich Yoga gemacht und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht', 'Die Person hat geduscht')
+('die person hat heute abend yoga gemacht', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person und das kind sind nach hause gegangen', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem Auto zum Restaurant gefahren.
+Good Matches:
+('die person hat ein restaurant besucht', 'Die Person war heute im/am Restaurant')
+('die person fährt auto', 'Die Person besitzt ein Auto')
+('die person hat heute etwas unternommen', 'Die Person war heute unterwegs')
+
+Query:Ich habe heute meinen Bruder am Flughafen abgeholt.
+Good Matches:
+('die person hat einen bruder', 'Die Person hat einen Bruder')
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('das ereignis fand heute statt.', 'Die Person war heute im/am Flughafen')
+
+Query:Ich habe heute meine Cousine am Bahnhof abgeholt.
+Good Matches:
+('die person hat sie am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine cousine', 'Die Person hat eine Cousine')
+
+Bad Matches: 
+('die abholung fand heute statt.', 'Die Person war heute im/am Bahnhof')
+
+Query:Ich war heute im Supermarkt und habe Joghurt gekauft und per App bezahlt.
+Good Matches:
+('die person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+('die person hat joghurt gekauft', 'Die Person hat heute etwas gekauft')
+('die person hat per app bezahlt', 'Die Person hat per App bezahlt')
+
+Query:Nach der Arbeit habe ich die Küche aufgeräumt.
+Good Matches:
+('die person hat nach der arbeit die küche aufgeräumt.', 'Die Person hat Hausarbeit erledigt')
+('die person arbeitet', 'Die Person ist arbeiten gegangen')
+
+Query:Ich habe heute Abend eine Suppe gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat nach dem kochen aufgeräumt.', 'Die Person hat heute gekocht')
+('die person hat heute abend eine suppe gekocht', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+('hat heute gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('person arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute eine E-Mail geschrieben.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die person hat heute eine e-mail geschrieben.', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Partnerin angerufen, um kurz zu reden.
+Good Matches:
+('die person hat einen partner oder eine partnerin', 'Die Person hat einen Partner')
+('die person hat mit ihrer partnerin geredet', 'Die Person hat eine Partnerin')
+('die person hat heute telefoniert', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Jonas im Café getroffen.
+Good Matches:
+('das treffen fand in einem café statt.', 'Die Person war heute im/am Café')
+('person hat sich heute mit jemandem namens jonas getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Hund gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat den napf des hundes gespült.', 'Die Person kümmert sich um ein Haustier')
+('die person hat heute ihren hund gefüttert', 'Die Person hat ein Haustier')
+('die person hat einen hund', 'Die Person hat ein Haustier')
+
+Query:Ich hatte heute eine Erkältung und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute eine erkältung', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute Geld abgehoben und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person dokumentiert ihre finanzen in der app.', 'Die Person nutzt Online-Banking')
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person hat heute geld abgehoben', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich mit Freunden gekocht und danach habe ich geduscht.
+Good Matches:
+('die person hat heute abend mit freunden gekocht', 'Die Person hat heute gekocht')
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person hat das kind heute aus der kita abgeholt', 'Die Person war heute in der Kita')
+('die person ist mit dem kind nach hause gegangen', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+('das kind geht in die kita', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem Bus zum Flughafen gefahren.
+Good Matches:
+('die person hat heute mit dem bus zum flughafen gefahren.', 'Die Person war heute im/am Flughafen')
+('die person hat einen flughafen besucht.', 'Die Person war heute im/am Flughafen')
+('die person nutzt öffentliche verkehrsmittel.', 'Die Person nutzt öffentliche Verkehrsmittel')
+
+Query:Ich habe heute meinen Opa am Flughafen abgeholt.
+Good Matches:
+('die person hat einen opa', 'Die Person hat einen Opa')
+('die person ist in der lage, jemanden am flughafen abzuholen.', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat heute ihren opa am flughafen abgeholt', 'Die Person hat einen Opa')
+
+Query:Ich habe heute meine Oma am Bahnhof abgeholt.
+Good Matches:
+('die person ist in der lage, jemandem am bahnhof zu helfen.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine oma', 'Die Person hat eine Oma')
+('die person hat heute ihre oma am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+
+Query:Ich war heute im Drogerie und habe Tee gekauft und bar bezahlt.
+Good Matches:
+('die person hat bar bezahlt', 'Die Person hat bar bezahlt')
+('die person hat tee gekauft', 'Die Person hat heute etwas gekauft')
+('die person war heute in einer drogerie', 'Die Person war heute im/am Drogerie')
+
+Query:Nach der Arbeit habe ich das Bad geputzt.
+Good Matches:
+('die person hat nach der arbeit das bad geputzt.', 'Die Person hat Hausarbeit erledigt')
+('die person arbeitet', 'Die Person ist arbeiten gegangen')
+
+Query:Ich habe heute Abend Pasta gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pasta gekocht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat heute gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('die person hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+('die person hat im homeoffice gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute an einem Meeting teilgenommen.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die person hat an einem meeting teilgenommen', 'Die Person war heute im/am Büro')
+('das meeting fand heute statt.', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Nachbar angerufen, um kurz zu reden.
+Good Matches:
+('die person hat möglicherweise eine freundliche beziehung zu ihrem nachbarn.', 'Die Person hat einen Nachbar')
+('die person hat ein interesse daran, mit ihrem nachbarn zu kommunizieren', 'Die Person hat einen Nachbar')
+('die person hat kontakt zu ihrem nachbarn', 'Die Person hat einen Nachbar')
+('die person hat heute ihren nachbarn angerufen', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Lena im Park getroffen.
+Good Matches:
+('es handelt sich um eine aktuelle aktivität.', 'Die Person hat sich heute mit jemandem getroffen')
+('das treffen fand im park statt', 'Die Person war heute im/am Park')
+('die person hat sich heute mit einer person namens lena getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Katze gefüttert und danach den Napf gespült.
+Good Matches:
+('die person spült den napf nach dem füttern', 'Die Person kümmert sich um ein Haustier')
+('die person füttert ihre katze', 'Die Person kümmert sich um ein Haustier')
+('die person hat eine katze', 'Die Person hat ein Haustier')
+
+Query:Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute halsschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app zur dokumentation ihrer finanzen.', 'Die Person nutzt Online-Banking')
+
+Bad Matches: 
+('die person hat heute die miete überwiesen', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich ein Buch gelesen und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person hat heute abend ein buch gelesen', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person hat das kind heute aus der kita abgeholt', 'Die Person war heute in der Kita')
+('die person ist nach dem abholen mit dem kind nach hause gegangen.', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+('das kind geht in die kita', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem Auto zum Bibliothek gefahren.
+Good Matches:
+('die person hat heute einen ausflug gemacht', 'Die Person war heute unterwegs')
+('die person war heute in der bibliothek', 'Die Person war heute im/am Bibliothek')
+('die person fährt auto', 'Die Person besitzt ein Auto')
+
+Query:Ich habe heute meinen Cousin am Flughafen abgeholt.
+Good Matches:
+('das ereignis fand heute statt.', 'Die Person war heute im/am Flughafen')
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat einen cousin', 'Die Person hat einen Cousin')
+
+Query:Ich habe heute meine Oma am Bahnhof abgeholt.
+Good Matches:
+('die person hat heute ihre oma am bahnhof abgeholt.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine oma', 'Die Person hat eine Oma')
+
+Query:Ich war heute im Supermarkt und habe Reis gekauft und per App bezahlt.
+Good Matches:
+('die person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+('die person hat per app bezahlt', 'Die Person hat per App bezahlt')
+('die person hat reis gekauft', 'Die Person hat heute etwas gekauft')
+
+Query:Nach der Arbeit habe ich die Küche aufgeräumt.
+Good Matches:
+('die person hat nach der arbeit die küche aufgeräumt.', 'Die Person hat Hausarbeit erledigt')
+('die person hat eine arbeit', 'Die Person ist arbeiten gegangen')
+
+Query:Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pfannkuchen gebacken', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat heute eine videokonferenz gemacht.', 'Die Person hat heute eine Videokonferenz gemacht')
+('die person arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute eine Präsentation vorbereitet.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+
+Bad Matches: 
+('die person hat eine präsentation vorbereitet.', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Oma angerufen, um kurz zu reden.
+Good Matches:
+('die person hat heute ihre oma angerufen', 'Die Person hat eine Oma')
+('die person hat mit ihrer oma geredet', 'Die Person hat eine Oma')
+('die person hat eine oma', 'Die Person hat eine Oma')
+
+Query:Ich habe mich heute mit Lena im Café getroffen.
+Good Matches:
+('die person hat sich heute mit jemandem namens lena im café getroffen.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person besucht cafés.', 'Die Person war heute im/am Café')
+('die person hat soziale kontakte und trifft sich mit freunden.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Katze gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat eine katze', 'Die Person hat ein Haustier')
+('die person hat heute die katze gefüttert', 'Die Person kümmert sich um ein Haustier')
+
+Bad Matches: 
+('die person hat den napf gespült', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('hat einen arzttermin vereinbart', 'Die Person hat einen Arzttermin vereinbart')
+('ist möglicherweise gesundheitlich angeschlagen', 'Die Person hatte heute gesundheitliche Beschwerden')
+
+Bad Matches: 
+('hat halsschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+
+Query:Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person verwendet eine banking-app', 'Die Person nutzt Online-Banking')
+('die person hat ihre finanzen dokumentiert', 'Die Person nutzt Online-Banking')
+('die person hat heute ihr konto geprüft', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich im Café gesessen und danach habe ich geduscht.
+Good Matches:
+('die person war heute abend im café', 'Die Person war heute im/am Café')
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('hat das kind eine kita besucht', 'Die Person hat ein Kind')
+('hat ein kind', 'Die Person hat ein Kind')
+
+Bad Matches: 
+('ist nach hause gegangen', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung erhalten', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem Bus zum Schule gefahren.
+Good Matches:
+('person hat heute die schule besucht', 'Die Person war heute unterwegs')
+('person ist schüler', 'Die Person nutzt öffentliche Verkehrsmittel')
+('person fährt mit dem bus zur schule', 'Die Person nutzt öffentliche Verkehrsmittel')
+
+Query:Ich habe heute meinen Vater am Flughafen abgeholt.
+Good Matches:
+('die person hat heute ihren vater am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person ist in der nähe eines flughafens.', 'Die Person war am Flughafen')
+('die person hat einen vater', 'Die Person hat einen Vater')
+
+Query:Ich habe heute meine Cousine am Bahnhof abgeholt.
+Good Matches:
+('die person hat heute ihre cousine am bahnhof abgeholt.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine cousine', 'Die Person hat eine Cousine')
+
+Query:Ich war heute im Supermarkt und habe Milch gekauft und bar bezahlt.
+Good Matches:
+('person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+('person hat bar bezahlt', 'Die Person hat bar bezahlt')
+('person hat milch gekauft', 'Die Person hat heute etwas gekauft')
+
+Query:Nach der Arbeit habe ich das Bad geputzt.
+Good Matches:
+('die person führt haushaltsaufgaben durch', 'Die Person hat Hausarbeit erledigt')
+('die person hat eine arbeit', 'Die Person ist arbeiten gegangen')
+('die person hat nach der arbeit das bad geputzt', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend Pasta gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pasta gekocht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat heute im homeoffice gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('die person hat eine videokonferenz gemacht.', 'Die Person hat eine Videokonferenz gemacht')
+
+Query:Im Büro habe ich heute Tickets bearbeitet.
+Good Matches:
+('arbeitet im büro', 'Die Person war heute im Büro')
+
+Bad Matches: 
+('hat heute tickets bearbeitet', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Mutter angerufen, um kurz zu reden.
+Good Matches:
+('die person hat ein gespräch mit ihrer mutter geführt.', 'Die Person hat eine Mutter')
+('die person hat heute ihre mutter angerufen', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Mara im Restaurant getroffen.
+Good Matches:
+('das treffen fand in einem restaurant statt', 'Die Person hat sich heute mit jemandem getroffen')
+('die person ist in der lage, soziale kontakte zu pflegen.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat sich heute mit jemandem namens mara getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat einen wellensittich', 'Die Person hat ein Haustier')
+('die person füttert ihren wellensittich', 'Die Person kümmert sich um ein Haustier')
+
+Bad Matches: 
+('die person spült den napf des wellensittichs', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute halsschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app zur dokumentation ihrer finanzen.', 'Die Person nutzt Online-Banking')
+
+Bad Matches: 
+('die person hat heute die miete überwiesen', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich im Park spazieren gegangen und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person ist am abend im park spazieren gegangen', 'Die Person war heute im/am Park')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person ist nach dem abholen mit dem kind nach hause gegangen.', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+('das kind geht in die kita', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem Tram zum Bibliothek gefahren.
+Good Matches:
+('die person nutzt öffentliche verkehrsmittel', 'Die Person nutzt öffentliche Verkehrsmittel')
+('die person ist in einer bibliothek', 'Die Person war heute im/am Bibliothek')
+('die person hat heute das tram genommen', 'Die Person war heute unterwegs')
+
+Query:Ich habe heute meinen Bruder am Flughafen abgeholt.
+Good Matches:
+('die person hat einen bruder', 'Die Person hat einen Bruder')
+('die person hat heute ihren bruder am flughafen abgeholt.', 'Die Person hat jemanden am Flughafen abgeholt')
+
+Query:Ich habe heute meine Oma am Bahnhof abgeholt.
+Good Matches:
+('die person hat sie am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine oma', 'Die Person hat eine Oma')
+
+Bad Matches: 
+('die abholung fand heute statt', 'Die Person war heute im/am Bahnhof')
+
+Query:Ich war heute im Bäckerei und habe Pasta gekauft und per Überweisung bezahlt.
+Good Matches:
+('die person hat pasta gekauft', 'Die Person hat heute etwas gekauft')
+('die person hat per überweisung bezahlt', 'Die Person hat per Überweisung bezahlt')
+('die person war heute in einer bäckerei', 'Die Person war heute im/am Bäckerei')
+
+Query:Nach der Arbeit habe ich den Müll rausgebracht.
+Good Matches:
+
+Bad Matches: 
+('bringt den müll raus', 'Die Person ist arbeiten gegangen')
+('hat eine routine nach der arbeit', 'Die Person ist arbeiten gegangen')
+('arbeitet', 'Die Person ist arbeiten gegangen')
+
+Query:Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend einen salat gemacht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+('hat heute gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute Telefonate geführt.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die person hat heute telefonate geführt.', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Tochter angerufen, um kurz zu reden.
+Good Matches:
+('die person hat heute ihre tochter angerufen', 'Die Person hat eine Tochter')
+('die person hat mit ihrer tochter kurz geredet.', 'Die Person hat eine Tochter')
+('die person hat eine tochter', 'Die Person hat eine Tochter')
+
+Query:Ich habe mich heute mit Mila im Park getroffen.
+Good Matches:
+('das treffen fand im park statt', 'Die Person war heute im/am Park')
+('die person hat sich heute mit jemandem namens mila getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+('die person war heute aktiv und hat soziale kontakte gepflegt.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Kaninchen gefüttert und danach den Napf gespült.
+Good Matches:
+('die person füttert ihr kaninchen', 'Die Person kümmert sich um ein Haustier')
+('die person spült den napf nach dem füttern.', 'Die Person kümmert sich um ein Haustier')
+('die person hat ein kaninchen', 'Die Person hat ein Haustier')
+
+Query:Ich hatte heute Kopfschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute kopfschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute eine Rechnung bezahlt und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person dokumentiert ihre finanzen in der app', 'Die Person nutzt Online-Banking')
+('die person hat heute eine rechnung bezahlt', 'Die Person war heute im/am Bank')
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+
+Query:Heute Abend bin ich joggen gewesen und danach habe ich geduscht.
+Good Matches:
+('die person hat dies heute abend gemacht', 'Die Person hat heute Freizeitaktivitäten gemacht')
+('die person hat danach geduscht', 'Die Person hat geduscht')
+
+Bad Matches: 
+('die person ist joggen gegangen', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person und das kind sind nach hause gegangen.', 'Die Person hat ein Kind')
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem U-Bahn zum Bank gefahren.
+Good Matches:
+('die person fährt zur bank', 'Die Person nutzt öffentliche Verkehrsmittel')
+('die person ist heute unterwegs', 'Die Person war heute unterwegs')
+('die person nutzt die u-bahn', 'Die Person nutzt öffentliche Verkehrsmittel')
+
+Query:Ich habe heute meinen Bruder am Flughafen abgeholt.
+Good Matches:
+('die person hat einen bruder', 'Die Person hat einen Bruder')
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+
+Bad Matches: 
+('dies geschah heute', 'Die Person war heute im/am Flughafen')
+
+Query:Ich habe heute meine Oma am Bahnhof abgeholt.
+Good Matches:
+('die person hat heute ihre oma am bahnhof abgeholt.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine oma', 'Die Person hat eine Oma')
+
+Query:Ich war heute im Bäckerei und habe Brot gekauft und bar bezahlt.
+Good Matches:
+('hat bar bezahlt', 'Die Person hat bar bezahlt')
+('person war heute in einer bäckerei', 'Die Person war heute im/am Bäckerei')
+
+Bad Matches: 
+('hat brot gekauft', 'Die Person hat heute etwas gekauft')
+
+Query:Nach der Arbeit habe ich die Spülmaschine eingeräumt.
+Good Matches:
+('die person räumt nach der arbeit die spülmaschine ein', 'Die Person hat Hausarbeit erledigt')
+('die person hat eine spülmaschine', 'Die Person hat Hausarbeit erledigt')
+('die person arbeitet', 'Die Person ist arbeiten gegangen')
+
+Query:Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend einen salat gemacht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat an einer videokonferenz teilgenommen.', 'Die Person hat eine Videokonferenz gemacht')
+('die person hat heute im homeoffice gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute an einem Meeting teilgenommen.
+Good Matches:
+('die person hat heute an einem meeting teilgenommen.', 'Die Person war heute im Büro')
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Cousine angerufen, um kurz zu reden.
+Good Matches:
+('die person hat das bedürfnis, mit ihrer familie zu kommunizieren.', 'Die Person hat heute telefoniert')
+('die person hat heute ihren cousin angerufen', 'Die Person hat einen Cousin')
+('die person hat einen cousin', 'Die Person hat einen Cousin')
+('die person hat eine familiäre beziehung zu ihrem cousin', 'Die Person hat einen Cousin')
+
+Query:Ich habe mich heute mit Fatima im Café getroffen.
+Good Matches:
+('das treffen fand in einem café statt', 'Die Person war heute im/am Café')
+('die person hat sich heute mit jemandem namens fatima getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+('die person ist in der lage, sich mit anderen zu treffen.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Hund gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat heute den hund gefüttert', 'Die Person kümmert sich um ein Haustier')
+('die person hat einen hund', 'Die Person hat ein Haustier')
+
+Bad Matches: 
+('die person hat den napf nach dem füttern gespült.', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute eine Erkältung und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute eine erkältung', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person dokumentiert ihre finanziellen transaktionen in der app', 'Die Person nutzt Online-Banking')
+
+Bad Matches: 
+('die person hat heute die miete überwiesen', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich eine Serie geschaut und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person hat heute abend eine serie geschaut', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person und das kind sind nach hause gegangen.', 'Die Person hat ein Kind')
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat das kind heute aus der kita abgeholt', 'Die Person war heute in der Kita')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung erhalten', 'Die Person hat ein Paket abgegeben')
+('die person hat eine interaktion mit der post gehabt', 'Die Person war heute bei der Post')
+
+Query:Ich bin heute mit dem U-Bahn zum Park gefahren.
+Good Matches:
+('person ist zum park gefahren', 'Die Person war heute im/am Park')
+('person hat heute u-bahn gefahren', 'Die Person war heute unterwegs')
+
+Query:Ich habe heute meinen Vater am Flughafen abgeholt.
+Good Matches:
+('person hat einen vater', 'Die Person hat einen Vater')
+('person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('ereignis fand heute statt', 'Die Person war heute im/am Flughafen')
+
+Query:Ich habe heute meine Oma am Bahnhof abgeholt.
+Good Matches:
+('die person hat heute ihre oma am bahnhof abgeholt.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine oma', 'Die Person hat eine Oma')
+
+Query:Ich war heute im Bäckerei und habe Reis gekauft und mit Karte bezahlt.
+Good Matches:
+('die person hat reis gekauft', 'Die Person hat heute etwas gekauft')
+('die person hat mit karte bezahlt', 'Die Person hat mit Karte bezahlt')
+('die person war heute in einer bäckerei', 'Die Person war heute im/am Bäckerei')
+
+Query:Nach der Arbeit habe ich Wäsche gewaschen.
+Good Matches:
+('die person hat einen job', 'Die Person ist arbeiten gegangen')
+('die person führt haushaltsarbeiten durch.', 'Die Person hat Hausarbeit erledigt')
+('die person hat nach der arbeit wäsche gewaschen', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pfannkuchen gebacken', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat heute gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('die person arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+('die person hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+
+Query:Im Büro habe ich heute Tickets bearbeitet.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die person hat heute im büro gearbeitet', 'Die Person war heute im Büro')
+
+Bad Matches: 
+('die person bearbeitet tickets', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Kind angerufen, um kurz zu reden.
+Good Matches:
+('die person hat kinder', 'Die Person hat ein Kind')
+('die person hat interesse an der kommunikation mit ihren kindern', 'Die Person hat ein Kind')
+('die person hat heute mit ihren kindern telefoniert', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Lisa im Restaurant getroffen.
+Good Matches:
+('das treffen fand in einem restaurant statt.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat sich heute mit einer person namens lisa getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Hund gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat den napf des hundes gespült.', 'Die Person kümmert sich um ein Haustier')
+('die person hat heute ihren hund gefüttert', 'Die Person hat ein Haustier')
+('die person hat einen hund', 'Die Person hat ein Haustier')
+
+Query:Ich hatte heute Kopfschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute kopfschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute eine Rechnung bezahlt und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person hat heute eine rechnung bezahlt', 'Die Person war heute im/am Bank')
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person dokumentiert ihre finanziellen transaktionen in der app.', 'Die Person nutzt Online-Banking')
+
+Query:Heute Abend bin ich im Park spazieren gegangen und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht', 'Die Person hat geduscht')
+('die person war heute abend im park spazieren', 'Die Person war heute im/am Park')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person ist mit dem kind nach hause gegangen.', 'Die Person hat ein Kind')
+('die person hat das kind heute aus der kita abgeholt', 'Die Person war heute in der Kita')
+('die person hat ein kind', 'Die Person hat ein Kind')
+('das kind geht in die kita', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('person hat eine quittung für das paket erhalten', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem Bus zum Supermarkt gefahren.
+Good Matches:
+('die person nutzt öffentliche verkehrsmittel', 'Die Person nutzt öffentliche Verkehrsmittel')
+('die person hat den bus benutzt.', 'Die Person nutzt öffentliche Verkehrsmittel')
+('die person ist heute zum supermarkt gefahren', 'Die Person war heute im/am Supermarkt')
+
+Query:Ich habe heute meinen Vater am Flughafen abgeholt.
+Good Matches:
+('das ereignis fand heute statt.', 'Die Person war heute im/am Flughafen')
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat einen vater', 'Die Person hat einen Vater')
+
+Query:Ich habe heute meine Schwester am Bahnhof abgeholt.
+Good Matches:
+('die person hat ihre schwester am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person war heute am bahnhof.', 'Die Person war heute im/am Bahnhof')
+('die person hat eine schwester', 'Die Person hat eine Schwester')
+
+Query:Ich war heute im Supermarkt und habe Eier gekauft und bar bezahlt.
+Good Matches:
+('sie hat bar bezahlt', 'Die Person hat bar bezahlt')
+('die person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+
+Bad Matches: 
+('sie hat eier gekauft', 'Die Person hat heute etwas gekauft')
+
+Query:Nach der Arbeit habe ich die Küche aufgeräumt.
+Good Matches:
+('die person hat nach der arbeit die küche aufgeräumt.', 'Die Person hat Hausarbeit erledigt')
+('die person hat eine arbeit, die sie nach der arbeit erledigt.', 'Die Person hat Hausarbeit erledigt')
+('die person ist in der lage, haushaltsaufgaben zu erledigen.', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend eine Suppe gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend eine suppe gekocht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat heute eine videokonferenz gemacht', 'Die Person hat heute eine Videokonferenz gemacht')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute eine E-Mail geschrieben.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die person hat heute eine e-mail geschrieben.', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Mutter angerufen, um kurz zu reden.
+Good Matches:
+('die person führt gespräche mit ihrer mutter', 'Die Person hat eine Mutter')
+('die person hat ein familiäres verhältnis zu ihrer mutter.', 'Die Person hat eine Mutter')
+('die person hat heute ihre mutter angerufen', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Lisa im Café getroffen.
+Good Matches:
+('die person hat soziale kontakte.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person geht gerne ins café.', 'Die Person war heute im/am Café')
+('die person hat sich heute mit jemandem namens lisa im café getroffen.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Kaninchen gefüttert und danach den Napf gespült.
+Good Matches:
+('die person spült den napf nach dem füttern', 'Die Person kümmert sich um ein Haustier')
+('die person füttert ihr kaninchen', 'Die Person kümmert sich um ein Haustier')
+('die person hat ein kaninchen', 'Die Person hat ein Haustier')
+
+Query:Ich hatte heute eine Erkältung und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute eine erkältung', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute eine Rechnung bezahlt und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person hat heute eine rechnung bezahlt', 'Die Person war heute im/am Bank')
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person dokumentiert ihre finanztransaktionen in der app.', 'Die Person nutzt Online-Banking')
+
+Query:Heute Abend bin ich eine Serie geschaut und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person hat heute abend eine serie geschaut', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('hat das kind in der kita', 'Die Person hat ein Kind')
+('hat ein kind', 'Die Person hat ein Kind')
+
+Bad Matches: 
+('ist nach dem abholen nach hause gegangen', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem E-Scooter zum Schule gefahren.
+Good Matches:
+('die person geht zur schule', 'Die Person war heute unterwegs')
+('die person ist heute zur schule gefahren', 'Die Person war heute unterwegs')
+('die person fährt mit einem e-scooter', 'Die Person nutzt einen E-Scooter')
+
+Query:Ich habe heute meinen Cousin am Flughafen abgeholt.
+Good Matches:
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat einen cousin', 'Die Person hat einen Cousin')
+
+Bad Matches: 
+('die handlung fand heute statt', 'Die Person war heute im/am Flughafen')
+
+Query:Ich habe heute meine Cousine am Bahnhof abgeholt.
+Good Matches:
+('die person hat sie am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine cousine', 'Die Person hat eine Cousine')
+
+Bad Matches: 
+('die abholung fand heute statt.', 'Die Person war heute im/am Bahnhof')
+
+Query:Ich war heute im Drogerie und habe Obst gekauft und bar bezahlt.
+Good Matches:
+('die person hat obst gekauft', 'Die Person hat heute etwas gekauft')
+('die person hat bar bezahlt.', 'Die Person hat bar bezahlt')
+('die person war heute in einer drogerie', 'Die Person war heute im/am Drogerie')
+
+Query:Nach der Arbeit habe ich die Pflanzen gegossen.
+Good Matches:
+('die person hat pflanzen', 'Die Person hat Hausarbeit erledigt')
+('die person hat nach der arbeit zeit für gartenarbeit', 'Die Person hat Hausarbeit erledigt')
+('die person hat eine tätigkeit nach der arbeit, die mit pflanzenpflege zu tun hat.', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend einen salat gemacht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat heute im homeoffice gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('die person hat eine videokonferenz gemacht.', 'Die Person hat eine Videokonferenz gemacht')
+
+Query:Im Büro habe ich heute eine Präsentation vorbereitet.
+Good Matches:
+('arbeitet im büro', 'Die Person war heute im Büro')
+
+Bad Matches: 
+('hat heute eine präsentation vorbereitet', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Kind angerufen, um kurz zu reden.
+Good Matches:
+('die person hat kinder', 'Die Person hat ein Kind')
+('die person hat interesse an der kommunikation mit ihren kindern', 'Die Person hat ein Kind')
+('die person hat heute mit ihren kindern telefoniert', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Emma im Park getroffen.
+Good Matches:
+('die person hat zugang zu einem park.', 'Die Person war heute im/am Park')
+('die person hat ein soziales leben und trifft sich mit freunden.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat sich heute mit jemandem namens emma im park getroffen.', 'Die Person war heute im/am Park')
+
+Query:Ich habe heute meinen Hund gefüttert und danach den Napf gespült.
+Good Matches:
+('die person spült den napf nach dem füttern.', 'Die Person kümmert sich um ein Haustier')
+('die person füttert ihren hund', 'Die Person kümmert sich um ein Haustier')
+('die person hat einen hund', 'Die Person hat ein Haustier')
+
+Query:Ich hatte heute Rückenschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('der arzttermin ist wahrscheinlich für die behandlung von rückenschmerzen', 'Die Person hat einen Arzttermin vereinbart')
+('die person hat einen arzttermin vereinbart', 'Die Person hat einen Arzttermin vereinbart')
+('die person hat rückenschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+
+Query:Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person verwendet eine banking-app', 'Die Person nutzt Online-Banking')
+('die person hat heute ihr konto geprüft', 'Die Person war heute im/am Bank')
+('die person dokumentiert ihre finanzen.', 'Die Person nutzt Online-Banking')
+
+Query:Heute Abend bin ich joggen gewesen und danach habe ich geduscht.
+Good Matches:
+('die person hat heute abend joggen gewesen', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Bad Matches: 
+('die person joggt regelmäßig', 'Die Person hat heute Freizeitaktivitäten gemacht')
+('die person duscht nach dem sport', 'Die Person hat geduscht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Bad Matches: 
+('die person ist nach hause gegangen.', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung erhalten', 'Die Person hat ein Paket abgegeben')
+('die person ist mit postdiensten vertraut.', 'Die Person war heute bei der Post')
+
+Query:Ich bin heute mit dem Fahrrad zum Schule gefahren.
+Good Matches:
+('die person ist heute zur schule gefahren', 'Die Person war heute unterwegs')
+('die person ist schüler', 'Die Person besitzt ein Fahrrad')
+('die person fährt mit dem fahrrad', 'Die Person besitzt ein Fahrrad')
+
+Query:Ich habe heute meinen Vater am Flughafen abgeholt.
+Good Matches:
+('person hat einen vater', 'Die Person hat einen Vater')
+('person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('ereignis fand heute statt', 'Die Person war heute im/am Flughafen')
+
+Query:Ich habe heute meine Schwester am Bahnhof abgeholt.
+Good Matches:
+('die person hat ihre schwester am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine schwester', 'Die Person hat eine Schwester')
+
+Bad Matches: 
+('dies geschah heute.', 'Die Person war heute im/am Bahnhof')
+
+Query:Ich war heute im Bäckerei und habe Gemüse gekauft und per Überweisung bezahlt.
+Good Matches:
+('person hat per überweisung bezahlt', 'Die Person hat per Überweisung bezahlt')
+('person hat gemüse gekauft', 'Die Person hat heute etwas gekauft')
+('person war heute in einer bäckerei', 'Die Person war heute im/am Bäckerei')
+
+Query:Nach der Arbeit habe ich das Bad geputzt.
+Good Matches:
+('die person hat ein arbeitsverhältnis.', 'Die Person ist arbeiten gegangen')
+('die person hat nach der arbeit das bad geputzt.', 'Die Person hat Hausarbeit erledigt')
+('die person führt haushaltsarbeiten durch.', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend einen salat gemacht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat heute eine videokonferenz gemacht.', 'Die Person hat heute eine Videokonferenz gemacht')
+('die person arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute eine Präsentation vorbereitet.
+Good Matches:
+('die präsentation fand heute statt', 'Die Person war heute im Büro')
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+
+Bad Matches: 
+('die person hat eine präsentation vorbereitet', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Mutter angerufen, um kurz zu reden.
+Good Matches:
+('die person hat ein gutes verhältnis zu ihrer mutter', 'Die Person hat eine Mutter')
+('die person kommuniziert regelmäßig mit ihrer mutter.', 'Die Person hat eine Mutter')
+('die person hat heute ihre mutter angerufen', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Jana im Park getroffen.
+Good Matches:
+('das treffen fand im park statt', 'Die Person war heute im/am Park')
+('die person hat soziale kontakte und trifft sich mit freunden.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat sich heute mit einer person namens jana getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Hund gefüttert und danach den Napf gespült.
+Good Matches:
+('die person spült den napf nach dem füttern des hundes', 'Die Person kümmert sich um ein Haustier')
+('die person füttert ihren hund', 'Die Person kümmert sich um ein Haustier')
+('die person hat einen hund', 'Die Person hat ein Haustier')
+
+Bad Matches: 
+('die handlung fand heute statt.', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Rückenschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute rückenschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app zur dokumentation ihrer finanzen.', 'Die Person nutzt Online-Banking')
+
+Bad Matches: 
+('die person hat heute die miete überwiesen', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich im Park spazieren gegangen und danach habe ich geduscht.
+Good Matches:
+('die person ist heute abend im park spazieren gegangen', 'Die Person war heute im/am Park')
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person ist mit dem kind nach hause gegangen', 'Die Person hat ein Kind')
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung bekommen.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem S-Bahn zum Flughafen gefahren.
+Good Matches:
+('die person war heute am flughafen.', 'Die Person war heute im/am Flughafen')
+('die person hat heute mit der s-bahn zum flughafen gefahren.', 'Die Person war heute im/am Flughafen')
+('die person nutzt öffentliche verkehrsmittel.', 'Die Person nutzt öffentliche Verkehrsmittel')
+
+Query:Ich habe heute meinen Cousin am Flughafen abgeholt.
+Good Matches:
+('das ereignis fand heute statt.', 'Die Person war heute im/am Flughafen')
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat einen cousin', 'Die Person hat einen Cousin')
+
+Query:Ich habe heute meine Cousine am Bahnhof abgeholt.
+Good Matches:
+('der vorfall geschah heute', 'Die Person war heute im/am Bahnhof')
+('die person hat sie am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine cousine', 'Die Person hat eine Cousine')
+
+Query:Ich war heute im Bäckerei und habe Reis gekauft und per Überweisung bezahlt.
+Good Matches:
+('die person hat reis gekauft', 'Die Person hat heute etwas gekauft')
+('die person hat per überweisung bezahlt', 'Die Person hat per Überweisung bezahlt')
+('die person war heute in einer bäckerei', 'Die Person war heute im/am Bäckerei')
+
+Query:Nach der Arbeit habe ich den Müll rausgebracht.
+Good Matches:
+('die person hat nach der arbeit etwas erledigt', 'Die Person hat Hausarbeit erledigt')
+('die person arbeitet', 'Die Person ist arbeiten gegangen')
+
+Bad Matches: 
+('die person hat den müll rausgebracht', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend Pasta gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pasta gekocht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat am aktuellen tag gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute eine Präsentation vorbereitet.
+Good Matches:
+('die präsentation fand heute statt', 'Die Person war heute im Büro')
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+
+Bad Matches: 
+('die person hat eine präsentation vorbereitet', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Nachbar angerufen, um kurz zu reden.
+Good Matches:
+('die person hat heute ihren nachbarn angerufen', 'Die Person hat heute telefoniert')
+('die person hat mit ihrem nachbarn gesprochen.', 'Die Person hat einen Nachbar')
+
+Query:Ich habe mich heute mit Lena im Restaurant getroffen.
+Good Matches:
+('die person hat sich heute mit jemandem namens lena getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+('das treffen fand in einem restaurant statt', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat soziale interaktionen', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Kaninchen gefüttert und danach den Napf gespült.
+Good Matches:
+('die person spült den napf nach dem füttern', 'Die Person kümmert sich um ein Haustier')
+('die person füttert ihr kaninchen', 'Die Person kümmert sich um ein Haustier')
+('die person hat ein kaninchen', 'Die Person hat ein Haustier')
+
+Query:Ich hatte heute eine Erkältung und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute eine erkältung', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person dokumentiert ihre finanziellen aktivitäten.', 'Die Person nutzt Online-Banking')
+('sie nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person hat ihr konto heute geprüft', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich eine Serie geschaut und danach habe ich geduscht.
+Good Matches:
+('die person hat heute abend eine serie geschaut', 'Die Person hat heute Freizeitaktivitäten gemacht')
+('danach hat die person geduscht.', 'Die Person hat geduscht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person hat heute ihr kind aus der kita abgeholt', 'Die Person war heute in der Kita')
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Bad Matches: 
+('die person ist nach hause gegangen.', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem S-Bahn zum Fitnessstudio gefahren.
+Good Matches:
+('person hat heute trainiert', 'Die Person war heute im/am Fitnessstudio')
+('person nutzt öffentliche verkehrsmittel', 'Die Person nutzt öffentliche Verkehrsmittel')
+('person geht ins fitnessstudio', 'Die Person war heute im/am Fitnessstudio')
+
+Query:Ich habe heute meinen Vater am Flughafen abgeholt.
+Good Matches:
+('der abholort war ein flughafen.', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat einen vater', 'Die Person hat einen Vater')
+('die person hat heute ihren vater abgeholt', 'Die Person hat einen Vater')
+
+Query:Ich habe heute meine Mutter am Bahnhof abgeholt.
+Good Matches:
+('die person hat eine mutter', 'Die Person hat eine Mutter')
+('die person ist möglicherweise in der nähe eines bahnhofs', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat heute ihre mutter am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine positive beziehung zu ihrer mutter.', 'Die Person hat eine Mutter')
+
+Query:Ich war heute im Supermarkt und habe Käse gekauft und bar bezahlt.
+Good Matches:
+('die person hat käse gekauft', 'Die Person hat heute etwas gekauft')
+('die person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+('die person hat bar bezahlt', 'Die Person hat bar bezahlt')
+
+Query:Nach der Arbeit habe ich den Müll rausgebracht.
+Good Matches:
+('die person ist verantwortlich und kümmert sich um haushaltsaufgaben.', 'Die Person hat Hausarbeit erledigt')
+('die person hat einen job', 'Die Person ist arbeiten gegangen')
+('die person hat nach der arbeit den müll rausgebracht', 'Die Person ist arbeiten gegangen')
+
+Query:Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pfannkuchen gebacken', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+('hat heute gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute Telefonate geführt.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die person hat heute telefonate geführt.', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Schwester angerufen, um kurz zu reden.
+Good Matches:
+('die person hat das gespräch genutzt, um kurz zu reden.', 'Die Person hat heute telefoniert')
+('die person hat heute mit ihrer schwester telefoniert', 'Die Person hat heute telefoniert')
+('die person hat eine schwester', 'Die Person hat eine Schwester')
+
+Query:Ich habe mich heute mit Lisa im Café getroffen.
+Good Matches:
+('die person hat soziale kontakte.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person trifft sich regelmäßig in einem café.', 'Die Person war heute im/am Café')
+('die person hat sich heute mit jemandem namens lisa im café getroffen.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Katze gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat den napf der katze gespült', 'Die Person kümmert sich um ein Haustier')
+('die person hat eine katze', 'Die Person hat ein Haustier')
+('die person hat heute die katze gefüttert', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Rückenschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute rückenschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app zur dokumentation von finanziellen transaktionen.', 'Die Person nutzt Online-Banking')
+
+Bad Matches: 
+('die person hat heute die miete überwiesen', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich ein Buch gelesen und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person hat heute abend ein buch gelesen', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person und das kind sind nach hause gegangen.', 'Die Person hat ein Kind')
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem zu Fuß zum Post gefahren.
+Good Matches:
+('die person nutzt öffentliche einrichtungen wie die post', 'Die Person war heute im/am Post')
+('die person ist heute zu fuß zum post gefahren', 'Die Person war heute im/am Post')
+
+Bad Matches: 
+('die person hat ein interesse daran, zu fuß zu gehen.', 'Die Person war heute unterwegs')
+
+Query:Ich habe heute meinen Vater am Flughafen abgeholt.
+Good Matches:
+('die person hat heute ihren vater am flughafen abgeholt.', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat einen vater.', 'Die Person hat einen Vater')
+('die person ist in der lage, jemanden am flughafen abzuholen.', 'Die Person hat jemanden am Flughafen abgeholt')
+
+Query:Ich habe heute meine Mutter am Bahnhof abgeholt.
+Good Matches:
+('die person hat eine mutter', 'Die Person hat eine Mutter')
+('die person ist in der lage, jemanden am bahnhof abzuholen.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat heute ihre mutter am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+
+Query:Ich war heute im Supermarkt und habe Bananen gekauft und per App bezahlt.
+Good Matches:
+('die person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+('sie hat per app bezahlt', 'Die Person hat per App bezahlt')
+
+Bad Matches: 
+('sie hat bananen gekauft', 'Die Person hat heute etwas gekauft')
+
+Query:Nach der Arbeit habe ich Wäsche gewaschen.
+Good Matches:
+('die person hat eine arbeit', 'Die Person ist arbeiten gegangen')
+('die person hat nach der arbeit wäsche gewaschen.', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend Pasta gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pasta gekocht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+('datum der aussage ist heute', 'Die Person hat heute eine Videokonferenz gemacht')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute Tickets bearbeitet.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die person hat heute tickets bearbeitet.', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Cousine angerufen, um kurz zu reden.
+Good Matches:
+('die person hat eine cousine', 'Die Person hat eine Cousine')
+('sie hat heute mit ihrer cousine telefoniert', 'Die Person hat eine Cousine')
+
+Bad Matches: 
+('sie hat das gespräch genutzt, um kurz zu reden.', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Lena im Restaurant getroffen.
+Good Matches:
+('die person hat sich heute mit jemandem namens lena getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+('das treffen fand in einem restaurant statt', 'Die Person hat sich heute mit jemandem getroffen')
+('die person ist in der lage, sich mit anderen zu treffen.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Katze gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat eine katze', 'Die Person hat ein Haustier')
+('die person hat heute die katze gefüttert', 'Die Person kümmert sich um ein Haustier')
+
+Bad Matches: 
+('die person hat den napf nach dem füttern gespült', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute halsschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute das Konto geprüft und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person verwendet eine banking-app', 'Die Person nutzt Online-Banking')
+('die person dokumentiert ihre finanzaktivitäten.', 'Die Person nutzt Online-Banking')
+('die person hat heute ihr konto geprüft', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich joggen gewesen und danach habe ich geduscht.
+Good Matches:
+('die person hat heute abend joggen gehen', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Bad Matches: 
+('die person joggt regelmäßig', 'Die Person hat heute Freizeitaktivitäten gemacht')
+('die person duscht nach dem sport', 'Die Person hat geduscht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat das kind heute aus der kita abgeholt', 'Die Person war heute in der Kita')
+('die person und das kind sind danach nach hause gegangen.', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem Fahrrad zum Supermarkt gefahren.
+Good Matches:
+('die person ist heute zum supermarkt gefahren.', 'Die Person war heute im/am Supermarkt')
+('die person fährt mit dem fahrrad', 'Die Person besitzt ein Fahrrad')
+
+Query:Ich habe heute meinen Cousin am Flughafen abgeholt.
+Good Matches:
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('die person hat einen cousin', 'Die Person hat einen Cousin')
+
+Bad Matches: 
+('die handlung fand heute statt.', 'Die Person war heute im/am Flughafen')
+
+Query:Ich habe heute meine Mutter am Bahnhof abgeholt.
+Good Matches:
+('die person hat eine mutter', 'Die Person hat eine Mutter')
+('die person ist in der lage, jemanden am bahnhof abzuholen.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat heute ihre mutter am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+
+Query:Ich war heute im Supermarkt und habe Reis gekauft und per App bezahlt.
+Good Matches:
+('die person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+('die person hat per app bezahlt', 'Die Person hat per App bezahlt')
+('die person hat reis gekauft', 'Die Person hat heute etwas gekauft')
+
+Query:Nach der Arbeit habe ich das Bad geputzt.
+Good Matches:
+('die person hat eine arbeit.', 'Die Person ist arbeiten gegangen')
+('die person führt haushaltstätigkeiten aus.', 'Die Person hat Hausarbeit erledigt')
+('die person hat nach der arbeit das bad geputzt.', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend einen Salat gemacht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend einen salat gemacht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('die person hat heute gearbeitet', 'Die Person hat heute im Homeoffice gearbeitet')
+('die person arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+('die person hat an einer videokonferenz teilgenommen', 'Die Person hat eine Videokonferenz gemacht')
+
+Query:Im Büro habe ich heute eine E-Mail geschrieben.
+Good Matches:
+('hat heute eine e-mail geschrieben', 'Die Person war heute im/am Büro')
+('arbeitet im büro', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Freundin angerufen, um kurz zu reden.
+Good Matches:
+('die person kommuniziert telefonisch', 'Die Person hat heute telefoniert')
+('die person hat heute ihre freundin angerufen', 'Die Person hat heute telefoniert')
+('die person hat eine freundin', 'Die Person hat heute telefoniert')
+
+Bad Matches: 
+('die person hat interesse an sozialer interaktion', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Tim im Café getroffen.
+Good Matches:
+('die person besucht cafés.', 'Die Person war heute im/am Café')
+('die person hat sich heute mit jemandem namens tim im café getroffen.', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat soziale kontakte.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat einen wellensittich', 'Die Person hat ein Haustier')
+
+Bad Matches: 
+('die person hat den napf des wellensittichs gespült', 'Die Person kümmert sich um ein Haustier')
+('die person hat den wellensittich gefüttert', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute halsschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+Query:Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app zur dokumentation ihrer finanzen.', 'Die Person nutzt Online-Banking')
+
+Bad Matches: 
+('die person hat heute die miete überwiesen', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich Yoga gemacht und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person hat heute abend yoga gemacht', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person und das kind sind nach dem abholen nach hause gegangen.', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem Fahrrad zum Bahnhof gefahren.
+Good Matches:
+('die person ist heute zum bahnhof gefahren.', 'Die Person war heute im/am Bahnhof')
+('die person fährt mit dem fahrrad', 'Die Person besitzt ein Fahrrad')
+
+Query:Ich habe heute meinen Opa am Flughafen abgeholt.
+Good Matches:
+('der opa ist möglicherweise gereist.', 'Die Person hat einen Opa')
+('die person hat einen opa', 'Die Person hat einen Opa')
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+
+Query:Ich habe heute meine Mutter am Bahnhof abgeholt.
+Good Matches:
+('die person hat eine mutter', 'Die Person hat eine Mutter')
+('die person hat ihre mutter am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+
+Bad Matches: 
+('die handlung fand heute statt.', 'Die Person war heute im/am Bahnhof')
+
+Query:Ich war heute im Supermarkt und habe Gemüse gekauft und per App bezahlt.
+Good Matches:
+('sie hat gemüse gekauft', 'Die Person hat heute etwas gekauft')
+('die person war heute im supermarkt', 'Die Person war heute im/am Supermarkt')
+('sie hat per app bezahlt', 'Die Person hat per App bezahlt')
+
+Query:Nach der Arbeit habe ich Wäsche gewaschen.
+Good Matches:
+
+Bad Matches: 
+('nach der arbeit', 'Die Person ist arbeiten gegangen')
+('wäsche gewaschen', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend Pasta gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pasta gekocht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat eine videokonferenz gemacht', 'Die Person hat eine Videokonferenz gemacht')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Bad Matches: 
+('ist berufstätig', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute Tickets bearbeitet.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die tätigkeit fand heute statt', 'Die Person war heute im Büro')
+
+Bad Matches: 
+('die person bearbeitet tickets', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Cousin angerufen, um kurz zu reden.
+Good Matches:
+('die person hat eine soziale interaktion gehabt', 'Die Person hat heute telefoniert')
+('die person hat einen cousin', 'Die Person hat einen Cousin')
+('die person hat heute telefoniert', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Lena im Park getroffen.
+Good Matches:
+('die person hat sich heute mit jemandem namens lena getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+('das treffen fand im park statt', 'Die Person war heute im/am Park')
+('die person hat soziale kontakte.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.
+Good Matches:
+
+Bad Matches: 
+('hat einen wellensittich', 'Die Person hat ein Haustier')
+('hat heute den wellensittich gefüttert', 'Die Person kümmert sich um ein Haustier')
+('hat den napf gespült', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Halsschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('hat einen arzttermin vereinbart', 'Die Person hat einen Arzttermin vereinbart')
+
+Bad Matches: 
+('hat halsschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+
+Query:Ich habe heute die Miete überwiesen und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person dokumentiert ihre finanziellen transaktionen in der app', 'Die Person nutzt Online-Banking')
+
+Bad Matches: 
+('die person hat heute die miete überwiesen', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich im Park spazieren gegangen und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person ist am abend im park spazieren gegangen', 'Die Person war heute im/am Park')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person und das kind sind nach hause gegangen.', 'Die Person hat ein Kind')
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('die person hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+('die person hat eine quittung für das paket erhalten.', 'Die Person hat ein Paket abgegeben')
+
+Query:Ich bin heute mit dem zu Fuß zum Büro gefahren.
+Good Matches:
+('die person fährt zur arbeit', 'Die Person war heute unterwegs')
+('die person hat ein büro', 'Die Person war heute im/am Büro')
+('die person geht zu fuß', 'Die Person war heute unterwegs')
+
+Query:Ich habe heute meinen Bruder am Flughafen abgeholt.
+Good Matches:
+('die person hat einen bruder', 'Die Person hat einen Bruder')
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('der bruder ist heute angekommen.', 'Die Person hat einen Bruder')
+
+Query:Ich habe heute meine Mutter am Bahnhof abgeholt.
+Good Matches:
+('die person hat eine mutter', 'Die Person hat eine Mutter')
+('die person reist oder ist in der nähe eines bahnhofs', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat heute ihre mutter am bahnhof abgeholt', 'Die Person hat jemanden am Bahnhof abgeholt')
+
+Query:Ich war heute im Apotheke und habe Gemüse gekauft und per App bezahlt.
+Good Matches:
+('die person hat gemüse gekauft', 'Die Person hat heute etwas gekauft')
+('die person war heute in der apotheke', 'Die Person war heute im/am Apotheke')
+('die person hat per app bezahlt', 'Die Person hat per App bezahlt')
+
+Query:Nach der Arbeit habe ich das Bad geputzt.
+Good Matches:
+('die person hat nach der arbeit das bad geputzt', 'Die Person hat Hausarbeit erledigt')
+('die person führt haushaltsaufgaben aus.', 'Die Person hat Hausarbeit erledigt')
+('die person hat einen job', 'Die Person ist arbeiten gegangen')
+
+Query:Ich habe heute Abend Pfannkuchen gebacken und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pfannkuchen gebacken', 'Die Person hat heute gekocht')
+('die person hat nach dem backen aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat eine videokonferenz gemacht', 'Die Person hat eine Videokonferenz gemacht')
+('datum der aussage ist heute', 'Die Person hat heute eine Videokonferenz gemacht')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute Telefonate geführt.
+Good Matches:
+('hat heute telefonate geführt', 'Die Person war heute im Büro')
+('arbeitet im büro', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meine Bruder angerufen, um kurz zu reden.
+Good Matches:
+('die person hat einen bruder', 'Die Person hat einen Bruder')
+('die person hat heute ihren bruder angerufen', 'Die Person hat heute telefoniert')
+('die person hat mit ihrem bruder kurz geredet.', 'Die Person hat einen Bruder')
+
+Query:Ich habe mich heute mit Mila im Café getroffen.
+Good Matches:
+('das treffen fand in einem café statt', 'Die Person war heute im/am Café')
+('die person hat sich heute mit jemandem namens mila getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat soziale interaktionen.', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Katze gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat den napf der katze gespült', 'Die Person kümmert sich um ein Haustier')
+('die person hat eine katze', 'Die Person hat ein Haustier')
+('die person hat heute die katze gefüttert', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Rückenschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('hat einen arzttermin vereinbart', 'Die Person hat einen Arzttermin vereinbart')
+('hat rückenschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+
+Query:Ich habe heute Geld abgehoben und alles in meiner Banking-App dokumentiert.
+Good Matches:
+('die person dokumentiert ihre finanzen in der app.', 'Die Person nutzt Online-Banking')
+('die person nutzt eine banking-app', 'Die Person nutzt Online-Banking')
+('die person hat heute geld abgehoben', 'Die Person war heute im/am Bank')
+
+Query:Heute Abend bin ich eine Serie geschaut und danach habe ich geduscht.
+Good Matches:
+('die person hat danach geduscht.', 'Die Person hat geduscht')
+('die person hat heute abend eine serie geschaut', 'Die Person hat heute Freizeitaktivitäten gemacht')
+
+Query:Ich habe heute mein Kind aus der Kita abgeholt und wir sind danach nach Hause gegangen.
+Good Matches:
+('die person und das kind sind nach hause gegangen.', 'Die Person hat ein Kind')
+('das kind besucht eine kita', 'Die Person hat ein Kind')
+('die person hat das kind heute abgeholt', 'Die Person hat ein Kind')
+('die person hat ein kind', 'Die Person hat ein Kind')
+
+Query:Ich habe heute ein Paket bei der Post abgegeben und eine Quittung bekommen.
+Good Matches:
+('hat eine quittung erhalten', 'Die Person hat ein Paket abgegeben')
+('hat heute ein paket bei der post abgegeben', 'Die Person hat heute ein Paket abgegeben')
+
+Query:Ich bin heute mit dem zu Fuß zum Bahnhof gefahren.
+Good Matches:
+('die person ist heute zu fuß zum bahnhof gefahren.', 'Die Person war heute im/am Bahnhof')
+('die person nutzt öffentliche verkehrsmittel oder plant, mit dem zug zu reisen.', 'Die Person war heute unterwegs')
+
+Query:Ich habe heute meinen Bruder am Flughafen abgeholt.
+Good Matches:
+('die person hat einen bruder', 'Die Person hat einen Bruder')
+('die person hat ihn am flughafen abgeholt', 'Die Person hat jemanden am Flughafen abgeholt')
+('der bruder der person ist heute angekommen', 'Die Person war heute im/am Flughafen')
+
+Query:Ich habe heute meine Oma am Bahnhof abgeholt.
+Good Matches:
+('die person hat heute ihre oma am bahnhof abgeholt.', 'Die Person hat jemanden am Bahnhof abgeholt')
+('die person hat eine oma', 'Die Person hat eine Oma')
+
+Query:Ich war heute im Apotheke und habe Milch gekauft und per App bezahlt.
+Good Matches:
+('die person hat milch gekauft', 'Die Person hat heute etwas gekauft')
+('die person war heute in der apotheke', 'Die Person war heute im/am Apotheke')
+('die person hat per app bezahlt', 'Die Person hat per App bezahlt')
+
+Query:Nach der Arbeit habe ich die Küche aufgeräumt.
+Good Matches:
+
+Bad Matches: 
+('arbeitet in einem beruf', 'Die Person ist arbeiten gegangen')
+('räumt nach der arbeit die küche auf', 'Die Person hat Hausarbeit erledigt')
+
+Query:Ich habe heute Abend Pasta gekocht und danach aufgeräumt.
+Good Matches:
+('die person hat heute abend pasta gekocht', 'Die Person hat heute gekocht')
+
+Bad Matches: 
+('die person hat danach aufgeräumt.', 'Die Person hat heute gekocht')
+
+Query:Ich habe heute im Homeoffice gearbeitet und eine Videokonferenz gemacht.
+Good Matches:
+('hat eine videokonferenz gemacht', 'Die Person hat eine Videokonferenz gemacht')
+('arbeitet im homeoffice', 'Die Person hat heute im Homeoffice gearbeitet')
+('datum des ereignisses: heute', 'Die Person hat heute im Homeoffice gearbeitet')
+
+Query:Im Büro habe ich heute Tickets bearbeitet.
+Good Matches:
+('die person arbeitet im büro', 'Die Person war heute im Büro')
+('die person hat heute im büro gearbeitet.', 'Die Person war heute im Büro')
+
+Bad Matches: 
+('die person bearbeitet tickets', 'Die Person war heute im Büro')
+
+Query:Ich habe heute meinen Freundin angerufen, um kurz zu reden.
+Good Matches:
+('die person hat das bedürfnis, mit ihrer freundin zu reden.', 'Die Person hat heute telefoniert')
+('die person hat heute mit ihrer freundin telefoniert', 'Die Person hat heute telefoniert')
+('die person hat eine freundin', 'Die Person hat heute telefoniert')
+
+Query:Ich habe mich heute mit Kian im Restaurant getroffen.
+Good Matches:
+('die person ist in der lage, sich mit anderen zu verabreden', 'Die Person hat sich heute mit jemandem getroffen')
+('das treffen fand in einem restaurant statt', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat soziale kontakte', 'Die Person hat sich heute mit jemandem getroffen')
+('die person hat sich heute mit jemandem namens kian getroffen', 'Die Person hat sich heute mit jemandem getroffen')
+
+Query:Ich habe heute meinen Katze gefüttert und danach den Napf gespült.
+Good Matches:
+('die person hat eine katze', 'Die Person hat ein Haustier')
+('die person hat heute die katze gefüttert', 'Die Person kümmert sich um ein Haustier')
+
+Bad Matches: 
+('die person hat den napf nach dem füttern gespült', 'Die Person kümmert sich um ein Haustier')
+
+Query:Ich hatte heute Kopfschmerzen und habe einen Arzttermin vereinbart.
+Good Matches:
+('die person hatte heute kopfschmerzen', 'Die Person hatte heute gesundheitliche Beschwerden')
+('die person hat einen arzttermin vereinbart.', 'Die Person hat einen Arzttermin vereinbart')
+
+
+ Zeromatches:
+
+Query:Nach der Arbeit habe ich den Müll rausgebracht.
+AI responses:
+Nach der Arbeit habe ich Wäsche gewaschen.
+['nach der arbeit', 'wäsche gewaschen']
+['Die Person ist arbeiten gegangen', 'Die Person hat Hausarbeit erledigt']
+Fakten:
+Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.
+['hat einen wellensittich', 'hat heute den wellensittich gefüttert', 'hat den napf gespült']
+['Die Person hat ein Haustier', 'Die Person kümmert sich um ein Haustier']
+Query:Nach der Arbeit habe ich Wäsche gewaschen.
+AI responses:
+Nach der Arbeit habe ich Wäsche gewaschen.
+['nach der arbeit', 'wäsche gewaschen']
+['Die Person ist arbeiten gegangen', 'Die Person hat Hausarbeit erledigt']
+Fakten:
+Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.
+['hat einen wellensittich', 'hat heute den wellensittich gefüttert', 'hat den napf gespült']
+['Die Person hat ein Haustier', 'Die Person kümmert sich um ein Haustier']
+Query:Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.
+AI responses:
+Nach der Arbeit habe ich Wäsche gewaschen.
+['nach der arbeit', 'wäsche gewaschen']
+['Die Person ist arbeiten gegangen', 'Die Person hat Hausarbeit erledigt']
+Fakten:
+Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.
+['hat einen wellensittich', 'hat heute den wellensittich gefüttert', 'hat den napf gespült']
+['Die Person hat ein Haustier', 'Die Person kümmert sich um ein Haustier']
+Query:Nach der Arbeit habe ich die Küche aufgeräumt.
+AI responses:
+Nach der Arbeit habe ich Wäsche gewaschen.
+['nach der arbeit', 'wäsche gewaschen']
+['Die Person ist arbeiten gegangen', 'Die Person hat Hausarbeit erledigt']
+Fakten:
+Ich habe heute meinen Wellensittich gefüttert und danach den Napf gespült.
+['hat einen wellensittich', 'hat heute den wellensittich gefüttert', 'hat den napf gespült']
+['Die Person hat ein Haustier', 'Die Person kümmert sich um ein Haustier']
+FinalScore:89.81%ZeromatchScore:0.01%
